@@ -8,13 +8,13 @@ This repository contains JetBrains Rider IDE configuration files that tries to b
 
 **Note:** Do not use the import/export settings wizard in Rider, as it only does a subset of the configuration.
 
-1. Find the directory on your harddrive where Rider stores it's config files. Typically in Windows, it's located in the following location: `%AppData%\JetBrains\Rider2023.2\`
+1. Find the directory on your harddrive where Rider stores it's config files. Typically in Windows, it's located in the following location: `%AppData%\JetBrains\Rider2023.x\`
 
 2. Backup all the files and folders in the above location, in case you want to revert back to your existing configuration.
 
-3. After backing up the files, delete everything in the `Rider2023.2` folder.
+3. After backing up the files, delete everything in the `Rider2023.x` folder.
 
-4. Copy everything from this repository's [Rider2023.2](/Rider2023.2) folder to your local folder.
+4. Copy everything from this repository's [Rider2023.x](/Rider2023.x) folder to your local folder.
 
 5. Launch Rider and go through the license activation process. That's it!
 
