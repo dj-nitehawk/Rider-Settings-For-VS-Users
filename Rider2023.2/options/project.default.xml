@@ -1,0 +1,50 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.environmentSetup&quot;
+  }
+}</component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1696760591573</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1696760591573</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="445" y="166" key="Rider.ProjectTemplateDialog.Size" timestamp="1696865071527">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="352" y="153" key="Rider.ProjectTemplateDialog.Size/0.0.1520.952" timestamp="1696864659377" />
+        <state x="445" y="166" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1032" timestamp="1696865071527" />
+        <state x="86" y="37" width="1638" height="969" key="SettingsEditor" timestamp="1696859421238">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="86" y="37" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1696859421238" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.28963795" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

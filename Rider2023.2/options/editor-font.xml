@@ -1,0 +1,10 @@
+<application>
+  <component name="DefaultFont">
+    <option name="VERSION" value="1" />
+    <option name="FONT_FAMILY" value="Cascadia Mono" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Roman" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Roman" />
+    <option name="LINE_SPACING" value="1.0" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+</application>
