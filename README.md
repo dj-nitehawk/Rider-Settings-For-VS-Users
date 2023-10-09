@@ -1,6 +1,6 @@
 # Rider-Settings-For-VS-Users
 
-This repository contains JetBrains Rider IDE configuration files that tries to bring a Visual Studio like experience to Rider in order to help long term VS users's transition to Rider a bit less painful.
+This repository contains JetBrains Rider IDE configuration files that tries to bring a Visual Studio like experience to Rider in order to help long term VS users' transition to Rider a bit less painful.
 
 <img src="screenshot.png"/>
 
