@@ -14,7 +14,7 @@ This repository contains JetBrains Rider IDE configuration files that tries to b
 
 3. After backing up the files, delete everything in the `Rider2023.2` folder.
 
-4. Copy everything from this repository's `Rider2023.2` folder to your local folder.
+4. Copy everything from this repository's [Rider2023.2](/Rider2023.2) folder to your local folder.
 
 5. Launch Rider and go through the license activation process. That's it!
 
