@@ -5,6 +5,8 @@
       "v2": [
         {
           "id": "Bookmarks",
+          "isShowStripeButton": false,
+          "weight": 0.14817709,
           "isSplit": true
         },
         {
@@ -51,11 +53,14 @@
         },
         {
           "id": "dotTrace Profiler",
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.38614342
         },
         {
           "id": "dotMemory Profiler",
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "IL Viewer",
@@ -70,13 +75,6 @@
           "order": 3,
           "anchor": "BOTTOM",
           "weight": 0.34350777
-        },
-        {
-          "id": "Find",
-          "order": 7,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "weight": 0.38614342
         },
         {
           "id": "Version Control",
@@ -95,8 +93,7 @@
           "id": "Services",
           "order": 12,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.18362403,
+          "weight": 0.29408914,
           "sideWeight": 0.50027204
         },
         {
@@ -122,20 +119,6 @@
           "weight": 0.38614342
         },
         {
-          "id": "Debug",
-          "order": 14,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "weight": 0.32994187
-        },
-        {
-          "id": "Run",
-          "order": 14,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "weight": 0.38614342
-        },
-        {
           "id": "Dynamic Program Analysis",
           "order": 18,
           "anchor": "BOTTOM",
@@ -149,20 +132,6 @@
           "isAutoHide": true,
           "weight": 0.38614342,
           "sideWeight": 0.5005133
-        },
-        {
-          "id": "Problems View",
-          "order": 20,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "floatingBounds": [
-            1939,
-            425,
-            1911,
-            511
-          ],
-          "weight": 0.38614342,
-          "sideWeight": 0.50027204
         },
         {
           "id": "Terminal",
@@ -180,7 +149,7 @@
         },
         {
           "id": "Build",
-          "order": 22,
+          "order": 24,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -192,15 +161,58 @@
           "weight": 0.38614342
         },
         {
-          "id": "NuGet",
-          "order": 23,
+          "id": "Problems View",
+          "order": 25,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            1939,
+            425,
+            1911,
+            511
+          ],
+          "weight": 0.38614342,
+          "sideWeight": 0.50027204
+        },
+        {
+          "id": "Debug",
+          "order": 26,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "weight": 0.38614342
         },
         {
+          "id": "Run",
+          "order": 27,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.38614342
+        },
+        {
+          "id": "Find",
+          "order": 28,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.38614342
+        },
+        {
+          "id": "NuGet",
+          "order": 30,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.38614342
+        },
+        {
+          "id": "Endpoints",
+          "order": 32,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "weight": 0.38614342,
+          "sideWeight": 0.5005319
+        },
+        {
           "id": "TODO",
-          "order": 24,
+          "order": 33,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -209,15 +221,12 @@
             1854,
             158
           ],
-          "weight": 0.38614342
-        },
-        {
-          "id": "Endpoints",
-          "anchor": "RIGHT"
+          "weight": 0.29408914
         },
         {
           "id": "Meet New UI",
           "anchor": "RIGHT",
+          "isShowStripeButton": false,
           "isSplit": true
         },
         {
@@ -262,7 +271,7 @@
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.1315104,
-          "sideWeight": 0.49948665,
+          "sideWeight": 0.4994681,
           "isSplit": true
         }
       ],

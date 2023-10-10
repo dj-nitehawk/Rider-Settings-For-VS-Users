@@ -56,5 +56,12 @@
         <option name="bottomProportion" value="0.0" />
       </TabImpl>
     </runner>
+    <runner id="Embedded http client">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="placeInGrid" value="bottom" />
+      </ViewImpl>
+      <TabImpl />
+    </runner>
   </component>
 </application>
