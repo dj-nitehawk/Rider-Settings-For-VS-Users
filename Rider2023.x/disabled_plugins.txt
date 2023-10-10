@@ -29,8 +29,6 @@ com.intellij.stats.completion
 com.intellij.tailwindcss
 com.intellij.tasks.timeTracking
 com.jetbrains.changeReminder
-com.jetbrains.dotCover
-com.jetbrains.dotTrace.dotMemory
 com.jetbrains.gateway
 com.jetbrains.plugins.ini4idea
 com.jetbrains.plugins.jade
@@ -47,6 +45,7 @@ intellij.prettierJS
 intellij.vitejs
 intellij.webpack
 org.intellij.plugins.postcss
+org.intellij.qodana
 org.jetbrains.fortea
 org.jetbrains.plugins.docker.gateway
 org.jetbrains.plugins.github
