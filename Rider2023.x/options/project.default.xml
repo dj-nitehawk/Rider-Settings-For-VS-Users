@@ -4,7 +4,7 @@
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "preferences.environmentSetup"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
       <component name="SvnConfiguration">
@@ -20,10 +20,10 @@
         <servers />
       </component>
       <component name="WindowStateProjectService">
-        <state x="86" y="37" width="1638" height="969" key="SettingsEditor" timestamp="1696859421238">
+        <state x="86" y="37" width="1638" height="969" key="SettingsEditor" timestamp="1696938819320">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
-        <state x="86" y="37" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1696859421238" />
+        <state x="86" y="37" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1696938819320" />
       </component>
       <component name="masterDetails">
         <states>

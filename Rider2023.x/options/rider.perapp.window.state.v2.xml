@@ -4,6 +4,10 @@
     "Custom": {
       "v2": [
         {
+          "id": "Bookmarks",
+          "isSplit": true
+        },
+        {
           "id": "Commit",
           "order": 1,
           "weight": 0.25
@@ -20,7 +24,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15182292,
+          "weight": 0.14817709,
           "sideWeight": 0.50051975,
           "isSplit": true
         },
@@ -33,7 +37,7 @@
             352,
             963
           ],
-          "weight": 0.15182292,
+          "weight": 0.14817709,
           "sideWeight": 0.49948025,
           "isSplit": true
         },
@@ -46,11 +50,19 @@
           "isSplit": true
         },
         {
+          "id": "dotTrace Profiler",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "dotMemory Profiler",
+          "anchor": "BOTTOM"
+        },
+        {
           "id": "IL Viewer",
           "order": 1,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.32994187,
+          "weight": 0.38614342,
           "sideWeight": 0.5005133
         },
         {
@@ -121,14 +133,14 @@
           "order": 14,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.32994187
+          "weight": 0.38614342
         },
         {
           "id": "Dynamic Program Analysis",
           "order": 18,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.32994187
+          "weight": 0.38614342
         },
         {
           "id": "Unit Tests Coverage",
@@ -177,7 +189,7 @@
             1838,
             473
           ],
-          "weight": 0.32994187
+          "weight": 0.38614342
         },
         {
           "id": "NuGet",
@@ -197,7 +209,16 @@
             1854,
             158
           ],
-          "weight": 0.32994187
+          "weight": 0.38614342
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isSplit": true
         },
         {
           "id": "AIAssistant",
@@ -229,7 +250,7 @@
           "id": "Notifications",
           "order": 5,
           "anchor": "RIGHT",
-          "weight": 0.17265625,
+          "weight": 0.1315104,
           "sideWeight": 0.50051975,
           "isSplit": true
         },
@@ -247,7 +268,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15182292,
+        "left": 0.14817709,
         "bottom": 0.38614342,
         "right": 0.1315104
       }
