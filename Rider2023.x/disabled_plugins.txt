@@ -21,6 +21,7 @@ com.intellij.plugins.html.instantEditing
 com.intellij.plugins.resharperkeymap
 com.intellij.plugins.visualassistkeymap
 com.intellij.plugins.vscodekeymap
+com.intellij.plugins.watcher
 com.intellij.plugins.webcomponents
 com.intellij.properties
 com.intellij.resharper.unity

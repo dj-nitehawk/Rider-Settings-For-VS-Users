@@ -6,19 +6,35 @@
   <action id="ActivateBuildToolWindow" />
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow" />
-  <action id="ActivateDebugToolWindow" />
-  <action id="ActivateFindToolWindow" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="ActivateHierarchyToolWindow" />
-  <action id="ActivateNuGetToolWindow" />
-  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateNuGetToolWindow">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
-  <action id="ActivateRunToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ActivateUnitTestsCoverageToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -55,6 +71,10 @@
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="CollapseRegion" />
   <action id="CollapseRegionRecursively" />
   <action id="CollapseSelection" />
@@ -70,6 +90,7 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.EditValueMaximized" />
   <action id="ContextHelp">
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
@@ -104,6 +125,10 @@
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="ExpandCollapseToggleAction" />
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="ExpandRegion" />
   <action id="ExpandRegionRecursively" />
   <action id="ExportSettings">
@@ -140,8 +165,12 @@
   </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="ImplementMethods" />
+  <action id="IncrementalSearch" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+  <action id="InspectThis">
+    <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
@@ -156,6 +185,9 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="OpenFile" />
+  <action id="OpenInRightSplit">
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
+  </action>
   <action id="OptimizeImports" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
@@ -170,6 +202,9 @@
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="ReSharperGotoImplementation" />
+  <action id="ReSharperNavigateTo">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -195,6 +230,7 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
+  <action id="RiderNuGetToggleInfoExpanderAction" />
   <action id="RiderProblemsViewToolsetContextPopupAction">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt f10" />
@@ -207,9 +243,7 @@
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl u" />
   </action>
   <action id="RiderUnitTestRunContextSplitAction" />
-  <action id="RiderUnitTestRunContextTwAction">
-    <keyboard-shortcut first-keystroke="shift enter" />
-  </action>
+  <action id="RiderUnitTestRunContextTwAction" />
   <action id="RiderUnitTestRunCurrentSessionAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -228,6 +262,9 @@
   </action>
   <action id="SaveAll" />
   <action id="SearchEverywhere" />
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
   <action id="ServiceView.AddService" />
   <action id="SetShortcutAction" />
   <action id="ShelvedChanges.Rename" />
@@ -267,10 +304,12 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="Unscramble" />
+  <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.ReadAccess" />
   <action id="ViewSource" />
   <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>

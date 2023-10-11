@@ -1,18 +1,17 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+      <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general />
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
           <nt-symbol-settings />
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>

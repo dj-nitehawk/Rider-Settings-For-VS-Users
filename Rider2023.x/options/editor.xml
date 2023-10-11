@@ -39,6 +39,7 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
