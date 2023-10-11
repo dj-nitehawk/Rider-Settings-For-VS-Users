@@ -195,9 +195,9 @@
 	<s:Boolean x:Key="/Default/Environment/Editor/StructuralNavigationIsEnabled/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Editor/UseCamelHumps/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/ExternalSources/Decompiler/DecompilerLegalNoticeAccepted/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Environment/ExternalSources/IlViewer/CodeType/@EntryValue">LowLevelCSharp</s:String>
+	<s:String x:Key="/Default/Environment/ExternalSources/IlViewer/CodeType/@EntryValue">HighLevelCSharp</s:String>
 	<s:Boolean x:Key="/Default/Environment/General/RunTestClassesInParallel/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">233</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">253</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/NuGetOptions/IncludePrerelease/@EntryValue">False</s:Boolean>
 	
 	

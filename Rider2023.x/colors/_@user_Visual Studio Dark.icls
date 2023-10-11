@@ -3,12 +3,13 @@
     <property name="created">2023-10-05T12:17:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-10-10T21:42:29</property>
+    <property name="modified">2023-10-11T14:17:38</property>
     <property name="originalScheme">Visual Studio Dark</property>
     <property name="pluginId">Rider UI Theme Pack</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
+    <option name="EDITOR_GUTTER_BACKGROUND" value="1c1c1c" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="49545f" />
     <option name="INDENT_GUIDE" value="313131" />
     <option name="LINE_NUMBERS_COLOR" value="6a9eaf" />
@@ -138,7 +139,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="dcdcdc" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="151515" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>

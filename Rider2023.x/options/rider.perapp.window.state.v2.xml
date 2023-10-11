@@ -24,7 +24,9 @@
             321
           ],
           "contentUiType": "COMBO",
-          "weight": 0.15442708,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.1653646,
           "sideWeight": 0.50051975,
           "isSplit": true
         },
@@ -37,9 +39,7 @@
             352,
             963
           ],
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.15338542,
+          "weight": 0.1653646,
           "sideWeight": 0.49948025,
           "isSplit": true
         },
@@ -67,6 +67,7 @@
           "order": 1,
           "anchor": "BOTTOM",
           "isAutoHide": true,
+          "isActiveOnStart": true,
           "weight": 0.38614342,
           "sideWeight": 0.5005133
         },
@@ -279,8 +280,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15338542,
-        "bottom": 0.35125968,
+        "left": 0.1653646,
+        "bottom": 0.38614342,
         "right": 0.1315104
       }
     }

@@ -28,6 +28,7 @@ com.intellij.resharper.unity
 com.intellij.settingsSync
 com.intellij.stats.completion
 com.intellij.tailwindcss
+com.intellij.tasks
 com.intellij.tasks.timeTracking
 com.jetbrains.changeReminder
 com.jetbrains.gateway
