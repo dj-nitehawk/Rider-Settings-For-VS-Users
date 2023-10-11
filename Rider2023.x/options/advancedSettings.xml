@@ -2,7 +2,10 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="bigger.font.in.project.view" value="true" />
         <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="ide.max.recent.projects" value="25" />
+        <entry key="localHistory.daysToKeep" value="3" />
       </map>
     </option>
   </component>

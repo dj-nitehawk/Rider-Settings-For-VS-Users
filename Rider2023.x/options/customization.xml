@@ -305,7 +305,7 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="RiderNuGetQuickListPopupAction" icon="jar:file:/C:/Program%20Files/JetBrains/JetBrains%20Rider%202023.2.2/lib/app.jar!/expui/toolbar/unknown.svg" />
-    <action id="CloseAllEditors" icon="Images.Thumbnails.Hide" />
+    <action id="CloseAllEditors" icon="Diff.IgnoreLeftSide" />
     <action id="RiderNuGetShowPackagesAction" icon="ActivateNuGetToolWindow" />
     <action id="ToolsBasicGroup" icon="jar:file:/C:/Program%20Files/JetBrains/JetBrains%20Rider%202023.2.2/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="ToolWindowsGroup" icon="jar:file:/C:/Program%20Files/JetBrains/JetBrains%20Rider%202023.2.2/lib/app.jar!/expui/toolbar/unknown.svg" />

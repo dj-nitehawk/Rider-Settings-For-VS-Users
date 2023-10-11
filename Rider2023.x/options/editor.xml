@@ -38,11 +38,12 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="HORIZONTAL_SCROLL_OFFSET" value="1" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
-    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="JSEditorOptions">

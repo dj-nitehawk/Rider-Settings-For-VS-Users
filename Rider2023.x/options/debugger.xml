@@ -9,6 +9,11 @@
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="processExceptionsOutsideMyCode" value="true" />
+        </configuration>
+      </debugger>
       <debugger id="ObjectiveC">
         <configuration>
           <nt-symbol-settings />

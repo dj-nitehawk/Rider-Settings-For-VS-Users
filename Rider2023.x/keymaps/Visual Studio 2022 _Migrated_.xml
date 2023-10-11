@@ -55,6 +55,7 @@
   <action id="ChangeSignature" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Rename" />
+  <action id="ChangesView.SetDefault" />
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
   <action id="CloseAllEditors">
@@ -67,6 +68,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
   <action id="CodeCleanup" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="CollapseAllRegions" />
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -217,7 +222,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="Resume" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
   <action id="RiderBackendAction-EncapsulateField" />
   <action id="RiderCollapseToDefinitions">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
