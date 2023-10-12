@@ -14,6 +14,7 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="RiderMemory" value="true" />
+        <entry key="VFS_REFRESH" value="true" />
       </map>
     </option>
   </component>

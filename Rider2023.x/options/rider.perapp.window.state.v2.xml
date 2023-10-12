@@ -24,9 +24,8 @@
             321
           ],
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16380209,
+          "weight": 0.16328125,
           "sideWeight": 0.50051975,
           "isSplit": true
         },
@@ -39,7 +38,8 @@
             352,
             963
           ],
-          "weight": 0.16380209,
+          "isActiveOnStart": true,
+          "weight": 0.16328125,
           "sideWeight": 0.49948025,
           "isSplit": true
         },
@@ -130,7 +130,7 @@
             1838,
             189
           ],
-          "weight": 0.38614342,
+          "weight": 0.38129845,
           "sideWeight": 0.49972796
         },
         {
@@ -185,7 +185,7 @@
           "order": 29,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.38129845
+          "weight": 0.38104576
         },
         {
           "id": "Find",
@@ -199,7 +199,7 @@
           "order": 32,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.38614342
+          "weight": 0.38129845
         },
         {
           "id": "Endpoints",
@@ -269,16 +269,16 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.11796875,
+          "weight": 0.17213541,
           "sideWeight": 0.4994681,
           "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16380209,
+        "left": 0.16328125,
         "bottom": 0.38129845,
-        "right": 0.11796875
+        "right": 0.17213541
       }
     }
   }
