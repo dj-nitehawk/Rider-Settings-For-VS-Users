@@ -14,9 +14,11 @@ This repository contains JetBrains Rider IDE configuration files that tries to b
 
 3. After backing up the files, delete everything in the `Rider2023.x` folder.
 
-4. Copy everything from this repository's [Rider2023.x](/Rider2023.x) folder to your local folder.
+4. Install the fonts included in the [Fonts.zip](/Fonts.zip) file to your system by right-clicking the fonts and selecting `Install For All Users`.
 
-5. Launch Rider and go through the license activation process. That's it!
+5. Copy everything from this repository's [Rider2023.x](/Rider2023.x) folder to your local folder.
+
+6. Launch Rider and go through the license activation process. That's it!
 
 ## Commonly used keyboard shortcuts
 
