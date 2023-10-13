@@ -2,11 +2,11 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
       <component name="SvnConfiguration">
         <configuration />
       </component>
@@ -20,6 +20,10 @@
         <servers />
       </component>
       <component name="WindowStateProjectService">
+        <state x="552" y="180" width="816" height="459" key="Rider.ProjectTemplateDialog.Size" timestamp="1697124560181">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="552" y="180" width="816" height="459" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1697124560181" />
         <state x="86" y="37" width="1638" height="969" key="SettingsEditor" timestamp="1696938819320">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>

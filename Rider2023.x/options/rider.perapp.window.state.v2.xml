@@ -12,7 +12,9 @@
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.25
+          "isShowStripeButton": false,
+          "weight": 0.13776042,
+          "sideWeight": 0.4994681
         },
         {
           "id": "Unit Tests",
@@ -24,8 +26,10 @@
             321
           ],
           "contentUiType": "COMBO",
-          "weight": 0.13776042,
-          "sideWeight": 0.50051975,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.14609376,
+          "sideWeight": 0.5005319,
           "isSplit": true
         },
         {
@@ -37,8 +41,6 @@
             352,
             963
           ],
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.13776042,
           "sideWeight": 0.49948025,
           "isSplit": true
@@ -192,6 +194,7 @@
           "order": 30,
           "anchor": "BOTTOM",
           "isAutoHide": true,
+          "isShowStripeButton": false,
           "weight": 0.38129845
         },
         {
@@ -276,7 +279,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.13776042,
+        "left": 0.14609376,
         "bottom": 0.38129845,
         "right": 0.12682292
       }

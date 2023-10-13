@@ -3,7 +3,7 @@
     <property name="created">2023-10-05T12:17:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-10-12T19:16:39</property>
+    <property name="modified">2023-10-13T08:25:53</property>
     <property name="originalScheme">Visual Studio Dark</property>
     <property name="pluginId">Rider UI Theme Pack</property>
   </metaInfo>
@@ -48,9 +48,14 @@
         <option name="FOREGROUND" value="565656" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="6d6d6d" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="6c8282" />
+        <option name="FOREGROUND" value="5c6d6d" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -60,12 +65,17 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="9bdaf1" />
+        <option name="FOREGROUND" value="95d2e8" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="e2e5b2" />
+        <option name="FOREGROUND" value="d7d9a9" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -85,15 +95,20 @@
         <option name="FOREGROUND" value="ff6dc9" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="d7d9a9" />
+      </value>
+    </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ecab8e" />
+        <option name="FOREGROUND" value="e3a589" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="454545" />
-        <option name="EFFECT_COLOR" value="494949" />
+        <option name="FOREGROUND" value="383838" />
+        <option name="EFFECT_COLOR" value="383838" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
@@ -122,11 +137,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="f1d09c" />
-      </value>
-    </option>
+    <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER" baseAttributes="ReSharper.CSHARP_METHOD_IDENTIFIER" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="7bc490" />
