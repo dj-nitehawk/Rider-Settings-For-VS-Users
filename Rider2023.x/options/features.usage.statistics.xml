@@ -32,7 +32,7 @@
     <feature id="editing.copy.reference" count="1" last-shown="0" last-used="1697037266737" shown-count="0" />
     <feature id="navigation.find" count="1" last-shown="0" last-used="1696734208090" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="100" last-shown="0" last-used="1697121254917" shown-count="0" />
+    <feature id="editing.completion.basic" count="102" last-shown="0" last-used="1697173883612" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -54,7 +54,7 @@
     <feature id="refactoring.rename" count="20" last-shown="0" last-used="1697088257439" shown-count="0" />
     <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.show.quick.list" count="8" last-shown="0" last-used="1696820526280" shown-count="0" />
-    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="1" last-shown="0" last-used="1697173858541" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.local.history" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -69,13 +69,13 @@
     <feature id="NuGet.QuickList" count="1" last-shown="0" last-used="1696955966355" shown-count="0" />
     <feature id="codeassists.generate.code" count="2" last-shown="0" last-used="1696674289602" shown-count="0" />
     <feature id="navigation.goto.declaration" count="126" last-shown="0" last-used="1697127824246" shown-count="0" />
-    <feature id="editing.completion.finishByDotEtc" count="122" last-shown="0" last-used="1697120008300" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="123" last-shown="0" last-used="1697173802949" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="1" last-shown="0" last-used="1696491367005" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.implementation" count="2" last-shown="0" last-used="1696992363540" shown-count="0" />
     <feature id="debugger.breakpoint.non.suspending" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.context.actions" count="531" last-shown="0" last-used="1697165858146" shown-count="0" />
+    <feature id="codeassists.context.actions" count="532" last-shown="0" last-used="1697166203112" shown-count="0" />
     <feature id="navigation.select.in" count="7" last-shown="0" last-used="1697017067276" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -83,7 +83,7 @@
     <feature id="refactoring.copyClass" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.parameterInfo" count="205" last-shown="0" last-used="1697127805101" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="223" last-shown="0" last-used="1697173896125" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceVariable.incompleteStatement" count="0" last-shown="0" last-used="0" shown-count="0" />

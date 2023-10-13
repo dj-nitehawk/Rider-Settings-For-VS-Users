@@ -3,7 +3,7 @@
     <property name="created">2023-10-05T12:17:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-10-13T08:25:53</property>
+    <property name="modified">2023-10-13T20:16:21</property>
     <property name="originalScheme">Visual Studio Dark</property>
     <property name="pluginId">Rider UI Theme Pack</property>
   </metaInfo>
@@ -89,10 +89,15 @@
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="fd6cc7" />
+      </value>
+    </option>
     <option name="DEFAULT_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="ff6dc9" />
+        <option name="FOREGROUND" value="57a0ce" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -168,12 +173,12 @@
     </option>
     <option name="round bracket level 2">
       <value>
-        <option name="FOREGROUND" value="e0af32" />
+        <option name="FOREGROUND" value="fd6cc7" />
       </value>
     </option>
     <option name="round bracket level 3">
       <value>
-        <option name="FOREGROUND" value="d85a98" />
+        <option name="FOREGROUND" value="db9c7e" />
       </value>
     </option>
     <option name="round bracket level 4">

@@ -121,6 +121,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="EditorDeleteToWordStart" />
+  <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorScrollToCenter" />
   <action id="EditorStartNewLineBefore" />
@@ -195,7 +196,6 @@
   </action>
   <action id="OptimizeImports" />
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="ParameterInfo.GoToPreviousSignature">

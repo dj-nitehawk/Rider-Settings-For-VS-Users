@@ -16,7 +16,7 @@
       <i c="11" l="1697082942238" />
     </e>
     <e n="$Undo">
-      <i c="283" l="1697164483831" />
+      <i c="284" l="1697190995552" />
     </e>
     <e n="About">
       <i c="3" l="1697019111246" />
@@ -109,7 +109,7 @@
       <i c="22" l="1697118654849" />
     </e>
     <e n="CloseProject">
-      <i c="50" l="1697165883632" />
+      <i c="52" l="1697209540911" />
     </e>
     <e n="CodeCleanup">
       <i c="3" l="1696837396240" />
@@ -121,7 +121,7 @@
       <i c="29" l="1697088236509" />
     </e>
     <e n="CollapseDocComments">
-      <i c="46" l="1697164524718" />
+      <i c="49" l="1697204977430" />
     </e>
     <e n="CommentByBlockComment">
       <i c="1" l="1697041251585" />
@@ -166,25 +166,25 @@
       <i c="49" l="1697118647519" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1352" l="1697164628694" />
+      <i c="1455" l="1697206193646" />
     </e>
     <e n="EditorBreadcrumbsHideBoth">
       <i c="1" l="1696994234297" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="100" l="1697121254910" />
+      <i c="102" l="1697173883595" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="150" l="1697127784646" />
     </e>
     <e n="EditorCopy">
-      <i c="71" l="1697165142460" />
+      <i c="72" l="1697207808853" />
     </e>
     <e n="EditorCut">
       <i c="26" l="1697164565904" />
     </e>
     <e n="EditorDelete">
-      <i c="873" l="1697164734789" />
+      <i c="875" l="1697173899372" />
     </e>
     <e n="EditorDeleteLine">
       <i c="8" l="1696508877433" />
@@ -193,16 +193,16 @@
       <i c="2" l="1696491707135" />
     </e>
     <e n="EditorDown">
-      <i c="390" l="1697121254607" />
+      <i c="391" l="1697173802709" />
     </e>
     <e n="EditorDuplicate">
       <i c="8" l="1697089569653" />
     </e>
     <e n="EditorEnter">
-      <i c="755" l="1697164733182" />
+      <i c="762" l="1697173800357" />
     </e>
     <e n="EditorEscape">
-      <i c="19" l="1697107035453" />
+      <i c="20" l="1697173889471" />
     </e>
     <e n="EditorGutterToggleGlobalIndentLines">
       <i c="2" l="1696659661677" />
@@ -214,7 +214,7 @@
       <i c="334" l="1697164664534" />
     </e>
     <e n="EditorLineEnd">
-      <i c="3" l="1697164626718" />
+      <i c="6" l="1697188971898" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="3" l="1697075665723" />
@@ -222,17 +222,26 @@
     <e n="EditorLineStart">
       <i c="18" l="1697164631262" />
     </e>
+    <e n="EditorLookupUp">
+      <i c="1" l="1697173858532" />
+    </e>
     <e n="EditorNextWord">
       <i c="22" l="1697127772673" />
     </e>
     <e n="EditorPaste">
-      <i c="172" l="1697165147476" />
+      <i c="173" l="1697207857049" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1" l="1696517110024" />
     </e>
     <e n="EditorRight">
       <i c="373" l="1697164665511" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="2" l="1697173859860" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="3" l="1697173860419" />
     </e>
     <e n="EditorSelectWord">
       <i c="1" l="1696565912272" />
@@ -346,7 +355,7 @@
       <i c="7" l="1697038075116" />
     </e>
     <e n="InvalidateCaches">
-      <i c="13" l="1697041695351" />
+      <i c="14" l="1697209125494" />
     </e>
     <e n="List-selectNextRow">
       <i c="109" l="1697106326943" />
@@ -415,7 +424,7 @@
       <i c="1" l="1696658990061" />
     </e>
     <e n="ParameterInfo">
-      <i c="205" l="1697127805100" />
+      <i c="223" l="1697173896124" />
     </e>
     <e n="ParameterInfo.GoToPreviousSignature">
       <i c="5" l="1696827707450" />
@@ -622,7 +631,7 @@
       <i c="2" l="1697128139202" />
     </e>
     <e n="RiderUnitTestGroupByAction">
-      <i c="44" l="1697128018650" />
+      <i c="50" l="1697209443744" />
     </e>
     <e n="RiderUnitTestRenameSessionAction">
       <i c="1" l="1696491991485" />
@@ -640,7 +649,7 @@
       <i c="36" l="1697164505071" />
     </e>
     <e n="RiderUnitTestRunTreeSplitAction">
-      <i c="324" l="1697128038228" />
+      <i c="328" l="1697209401620" />
     </e>
     <e n="RiderUnitTestRunTreeTwAction">
       <i c="1" l="1696826245032" />
@@ -694,7 +703,7 @@
       <i c="6" l="1696989889953" />
     </e>
     <e n="SaveDocument">
-      <i c="979" l="1697165760729" />
+      <i c="982" l="1697208964327" />
     </e>
     <e n="SearchEverywhere">
       <i c="4" l="1697020806316" />
@@ -718,7 +727,7 @@
       <i c="1" l="1696667584924" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="499" l="1697164402839" />
+      <i c="500" l="1697166203092" />
     </e>
     <e n="ShowMembersInNavigationBar">
       <i c="3" l="1697078859093" />
@@ -727,7 +736,7 @@
       <i c="2" l="1696939625555" />
     </e>
     <e n="ShowSettings">
-      <i c="747" l="1697165874264" />
+      <i c="972" l="1697209495695" />
     </e>
     <e n="ShowSettingsAndFindUsages">
       <i c="2" l="1696654040104" />
@@ -772,16 +781,16 @@
       <i c="2" l="1696956531628" />
     </e>
     <e n="Tree-selectChild">
-      <i c="307" l="1697165478370" />
+      <i c="327" l="1697208377092" />
     </e>
     <e n="Tree-selectNext">
-      <i c="940" l="1697165408810" />
+      <i c="1069" l="1697208380507" />
     </e>
     <e n="Tree-selectParent">
-      <i c="289" l="1697121404758" />
+      <i c="311" l="1697208353940" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="269" l="1697165356859" />
+      <i c="292" l="1697208365236" />
     </e>
     <e n="UsageView.Rerun">
       <i c="1" l="1696783168907" />
@@ -817,7 +826,7 @@
       <i c="4" l="1697117087103" />
     </e>
     <e n="WelcomeScreen.Settings">
-      <i c="11" l="1697123431852" />
+      <i c="12" l="1697208850401" />
     </e>
     <e n="XDebugger.NewWatch">
       <i c="1" l="1696993636439" />
@@ -991,7 +1000,7 @@
       <i c="25" l="1697120890682" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="156" l="1697165832883" />
+      <i c="158" l="1697209493436" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddAbbreviationAction">
       <i c="1" l="1696675137289" />
@@ -1006,7 +1015,7 @@
       <i c="10" l="1696869260947" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$RemoveShortcutAction">
-      <i c="89" l="1696993115935" />
+      <i c="91" l="1697173742173" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$ResetShortcutsAction">
       <i c="2" l="1696560948851" />
@@ -1036,7 +1045,7 @@
       <i c="15" l="1697128372522" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="663" l="1697128374595" />
+      <i c="665" l="1697208814162" />
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$ToggleContentUiTypeAction">
       <i c="7" l="1696780395581" />
@@ -1051,7 +1060,7 @@
       <i c="1" l="1696837719450" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
-      <i c="36" l="1697123428441" />
+      <i c="37" l="1697208849323" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.projectActions.ChangeProjectColorAction">
       <i c="1" l="1696956997965" />
@@ -1108,7 +1117,7 @@
       <i c="4" l="1697127939170" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$CloseAllAction">
-      <i c="16" l="1697127948375" />
+      <i c="17" l="1697209393384" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$CloseAllButThisAction">
       <i c="1" l="1696750525973" />
@@ -1162,10 +1171,10 @@
       <i c="4" l="1697026553969" />
     </e>
     <e n="com.jetbrains.rider.completion.summaryInfo.ParameterInfoListView$NextSignatureAction">
-      <i c="58" l="1697117882838" />
+      <i c="82" l="1697173881299" />
     </e>
     <e n="com.jetbrains.rider.completion.summaryInfo.ParameterInfoListView$PrevSignatureAction">
-      <i c="7" l="1696827730449" />
+      <i c="16" l="1697173879572" />
     </e>
     <e n="com.jetbrains.rider.debugger.components.RiderPaneWithTitle$getActionGroup$1">
       <i c="8" l="1697040083899" />
@@ -1249,10 +1258,10 @@
       <i c="5" l="1697040039792" />
     </e>
     <e n="com.jetbrains.rider.unitTesting.actions.RiderUnitTestGroupByAction$PredefinedSelectionItemAction">
-      <i c="29" l="1696958500699" />
+      <i c="30" l="1697209410788" />
     </e>
     <e n="com.jetbrains.rider.unitTesting.actions.RiderUnitTestGroupByAction$SelectionItemAction">
-      <i c="39" l="1697128021150" />
+      <i c="48" l="1697209446072" />
     </e>
     <e n="com.jetbrains.rider.usages.RiderFrontendUsageViewImpl$createGroupByUsageTypeAction$usageTypeGroupingAction$1">
       <i c="12" l="1697027079840" />
