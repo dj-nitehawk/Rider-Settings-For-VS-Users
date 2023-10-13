@@ -14,7 +14,7 @@ This repository contains JetBrains Rider IDE configuration files that tries to b
 
 3. After backing up the files, delete everything in the `Rider2023.x` folder.
 
-4. Install the fonts included in the [Fonts.zip](/Fonts.zip) file to your system by right-clicking the fonts and selecting `Install For All Users`.
+4. Install the fonts included in the [Fonts.zip](https://github.com/dj-nitehawk/Rider-Settings-For-VS-Users/raw/main/Fonts.zip) file to your system by right-clicking the fonts and selecting `Install For All Users`.
 
 5. Copy everything from this repository's [Rider2023.x](/Rider2023.x) folder to your local folder.
 
