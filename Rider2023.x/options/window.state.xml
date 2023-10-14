@@ -4,25 +4,25 @@
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1854" height="259" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1854" height="259" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1854" height="259" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1854" height="361" />
-    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1854" height="361" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1854" height="259" />
+    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1854" height="259" />
   </component>
   <component name="WindowManager">
-    <frame x="-8" y="-8" width="1936" height="1048" extendedState="6" />
+    <frame x="0" y="0" width="1920" height="1032" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="714" y="338" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1696865472539">
@@ -33,10 +33,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="677" y="371" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder/1920.0.1920.1032/0.0.1920.1032" timestamp="1696675443244" />
-    <state x="999" y="577" width="958" height="650" key="WELCOME_SCREEN" timestamp="1697209544344">
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1697275268052">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="999" y="577" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1697209544344" />
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1697275268052" />
     <state x="487" y="401" width="537" height="114" key="ide.config.custom.settings" timestamp="1696859379630">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

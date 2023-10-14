@@ -60,8 +60,7 @@
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="RECENT_FILES_LIMIT" value="25" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
-    <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
-    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>

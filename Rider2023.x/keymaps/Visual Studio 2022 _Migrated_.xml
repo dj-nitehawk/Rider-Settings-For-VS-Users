@@ -93,7 +93,6 @@
   </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
-    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.EditValueMaximized" />
   <action id="ContextHelp">
@@ -103,6 +102,7 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="Diagram.DeselectAll" />
+  <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.FocusOppositePane">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
@@ -110,7 +110,6 @@
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomCollectionControl.Add" />
   <action id="EditPropertiesAction">
-    <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="EditSource">
@@ -181,6 +180,9 @@
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
+  <action id="MaximizeToolWindow">
+    <mouse-shortcut keystroke="shift button1" />
+  </action>
   <action id="Move">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
@@ -203,14 +205,15 @@
   </action>
   <action id="Print" />
   <action id="ProblemsView.QuickFixes">
-    <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="ReSharperGotoImplementation" />
   <action id="ReSharperNavigateTo">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
-  <action id="Refactorings.QuickListPopupAction" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
@@ -219,6 +222,7 @@
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -234,12 +238,10 @@
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="RiderNuGetContextPopupAction">
-    <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="RiderNuGetToggleInfoExpanderAction" />
   <action id="RiderProblemsViewToolsetContextPopupAction">
-    <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="RiderProjectDiagramApplyCurrentLayout" />
@@ -283,7 +285,9 @@
   </action>
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages" />
-  <action id="SilentCodeCleanup" />
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="SplitChooser.Duplicate" />
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift ctrl s" />

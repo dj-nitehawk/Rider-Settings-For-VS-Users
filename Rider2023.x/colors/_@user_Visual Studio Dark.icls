@@ -3,7 +3,7 @@
     <property name="created">2023-10-05T12:17:05</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-10-13T20:16:21</property>
+    <property name="modified">2023-10-14T10:53:20</property>
     <property name="originalScheme">Visual Studio Dark</property>
     <property name="pluginId">Rider UI Theme Pack</property>
   </metaInfo>
@@ -19,6 +19,7 @@
     <option name="PREVIEW_BACKGROUND" value="" />
     <option name="PROMOTION_PANE" value="63932e" />
     <option name="RIGHT_MARGIN_COLOR" value="313131" />
+    <option name="SELECTION_BACKGROUND" value="e405a" />
     <option name="TOOLTIP" value="2b2b2b" />
     <option name="VISUAL_INDENT_GUIDE" value="313131" />
   </colors>
@@ -91,7 +92,7 @@
     <option name="DEFAULT_LOCAL_VARIABLE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="fd6cc7" />
+        <option name="FOREGROUND" value="bababa" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -107,7 +108,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e3a589" />
+        <option name="FOREGROUND" value="dca086" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -136,6 +137,18 @@
         <option name="FOREGROUND" value="acacac" />
       </value>
     </option>
+    <option name="MARKDOWN_CODE_BLOCK">
+      <value />
+    </option>
+    <option name="MARKDOWN_CODE_FENCE">
+      <value />
+    </option>
+    <option name="MARKDOWN_IMAGE">
+      <value />
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value />
+    </option>
     <option name="ReSharper.CONTROL_FLOW_KEYWORD">
       <value>
         <option name="FOREGROUND" value="d0a2ef" />
@@ -143,6 +156,22 @@
       </value>
     </option>
     <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER" baseAttributes="ReSharper.CSHARP_METHOD_IDENTIFIER" />
+    <option name="ReSharper.FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="6edb6e" />
+      </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2">
+      <value>
+        <option name="FOREGROUND" value="6edb6e" />
+      </value>
+    </option>
+    <option name="ReSharper.HINT">
+      <value>
+        <option name="EFFECT_COLOR" value="4e4e4e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="7bc490" />

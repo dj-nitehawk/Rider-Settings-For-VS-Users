@@ -17,8 +17,28 @@
           "sideWeight": 0.4994681
         },
         {
+          "id": "Hierarchy",
+          "order": 8,
+          "isShowStripeButton": false,
+          "weight": 0.16380209,
+          "sideWeight": 0.50051975,
+          "isSplit": true
+        },
+        {
+          "id": "Structure",
+          "order": 9,
+          "floatingBounds": [
+            682,
+            78,
+            352,
+            963
+          ],
+          "weight": 0.17109375,
+          "sideWeight": 0.49973032
+        },
+        {
           "id": "Unit Tests",
-          "order": 5,
+          "order": 10,
           "floatingBounds": [
             34,
             289,
@@ -28,30 +48,8 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16901042,
-          "sideWeight": 0.5005319,
-          "isSplit": true
-        },
-        {
-          "id": "Structure",
-          "order": 7,
-          "floatingBounds": [
-            682,
-            78,
-            352,
-            963
-          ],
-          "weight": 0.16901042,
-          "sideWeight": 0.49948025,
-          "isSplit": true
-        },
-        {
-          "id": "Hierarchy",
-          "order": 8,
-          "isShowStripeButton": false,
-          "weight": 0.16380209,
-          "sideWeight": 0.50051975,
-          "isSplit": true
+          "weight": 0.17109375,
+          "sideWeight": 0.5005319
         },
         {
           "id": "dotTrace Profiler",
@@ -69,7 +67,7 @@
           "order": 1,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.38129845,
+          "weight": 0.28246123,
           "sideWeight": 0.5005133
         },
         {
@@ -95,7 +93,7 @@
           "id": "Services",
           "order": 12,
           "anchor": "BOTTOM",
-          "weight": 0.38614342,
+          "weight": 0.38129845,
           "sideWeight": 0.50027204
         },
         {
@@ -111,14 +109,14 @@
           "order": 18,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.24757752
+          "weight": 0.28246123
         },
         {
           "id": "Unit Tests Coverage",
           "order": 19,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.38129845,
+          "weight": 0.28246123,
           "sideWeight": 0.5005133
         },
         {
@@ -132,7 +130,7 @@
             1838,
             189
           ],
-          "weight": 0.38129845,
+          "weight": 0.19428295,
           "sideWeight": 0.49972796
         },
         {
@@ -146,7 +144,7 @@
             1838,
             473
           ],
-          "weight": 0.38129845
+          "weight": 0.28246123
         },
         {
           "id": "Inspection Results",
@@ -172,30 +170,29 @@
             1911,
             511
           ],
-          "weight": 0.38129845,
-          "sideWeight": 0.50027204
+          "weight": 0.28246123,
+          "sideWeight": 0.50026965
         },
         {
           "id": "Debug",
           "order": 28,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.38129845
+          "weight": 0.28246123
         },
         {
           "id": "Run",
           "order": 29,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.38104576
+          "weight": 0.28246123
         },
         {
           "id": "Find",
           "order": 30,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "isShowStripeButton": false,
-          "weight": 0.38129845
+          "weight": 0.28246123
         },
         {
           "id": "NuGet",
@@ -272,16 +269,16 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12838542,
+          "weight": 0.13723958,
           "sideWeight": 0.4994681,
           "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16901042,
-        "bottom": 0.38129845,
-        "right": 0.12838542
+        "left": 0.17109375,
+        "bottom": 0.28246123,
+        "right": 0.13723958
       }
     }
   }
