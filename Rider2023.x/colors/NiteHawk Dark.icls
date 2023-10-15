@@ -1,12 +1,14 @@
-<scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
+<scheme name="NiteHawk Dark" version="142" parent_scheme="Visual Studio Dark">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-10-05T12:17:05</property>
+    <property name="created">2023-10-14T19:51:29</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-10-14T10:53:20</property>
-    <property name="originalScheme">Visual Studio Dark</property>
-    <property name="pluginId">Rider UI Theme Pack</property>
+    <property name="ideVersion">2023.2.2.0.0</property>
+    <property name="modified">2023-10-15T20:08:44</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Cascadia Mono" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
     <option name="DOCUMENTATION_COLOR" value="363636" />
@@ -44,6 +46,11 @@
         <option name="FOREGROUND" value="4dc4a3" />
       </value>
     </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="6991ef" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="565656" />
@@ -76,7 +83,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="d7d9a9" />
+        <option name="FOREGROUND" value="d2d4a5" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="b5dc9b" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -101,6 +113,11 @@
         <option name="FOREGROUND" value="57a0ce" />
       </value>
     </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="6991ef" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="d7d9a9" />
@@ -115,6 +132,13 @@
       <value>
         <option name="FOREGROUND" value="383838" />
         <option name="EFFECT_COLOR" value="383838" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="1d3650" />
+        <option name="EFFECT_COLOR" value="505050" />
+        <option name="ERROR_STRIPE_COLOR" value="33383d" />
       </value>
     </option>
     <option name="INLAY_DEFAULT">
@@ -149,9 +173,15 @@
     <option name="MARKDOWN_LINK_DESTINATION">
       <value />
     </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="d0d0d0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ReSharper.CONTROL_FLOW_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d0a2ef" />
+        <option name="FOREGROUND" value="e089cf" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -188,9 +218,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="FOREGROUND" value="d2d2d2" />
         <option name="BACKGROUND" value="1a1a1a" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">

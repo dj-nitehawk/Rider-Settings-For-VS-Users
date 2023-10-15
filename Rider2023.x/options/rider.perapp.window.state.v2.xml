@@ -26,19 +26,22 @@
         },
         {
           "id": "Structure",
-          "order": 9,
+          "order": 11,
           "floatingBounds": [
             682,
             78,
             352,
             963
           ],
-          "weight": 0.17109375,
-          "sideWeight": 0.49973032
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.14505208,
+          "sideWeight": 0.4994681,
+          "isSplit": true
         },
         {
           "id": "Unit Tests",
-          "order": 10,
+          "order": 14,
           "floatingBounds": [
             34,
             289,
@@ -46,10 +49,9 @@
             321
           ],
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.17109375,
-          "sideWeight": 0.5005319
+          "weight": 0.1471354,
+          "sideWeight": 0.5005319,
+          "isSplit": true
         },
         {
           "id": "dotTrace Profiler",
@@ -93,7 +95,8 @@
           "id": "Services",
           "order": 12,
           "anchor": "BOTTOM",
-          "weight": 0.38129845,
+          "isAutoHide": true,
+          "weight": 0.28246123,
           "sideWeight": 0.50027204
         },
         {
@@ -116,7 +119,7 @@
           "order": 19,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.28246123,
+          "weight": 0.29505813,
           "sideWeight": 0.5005133
         },
         {
@@ -130,7 +133,7 @@
             1838,
             189
           ],
-          "weight": 0.19428295,
+          "weight": 0.29699612,
           "sideWeight": 0.49972796
         },
         {
@@ -144,7 +147,7 @@
             1838,
             473
           ],
-          "weight": 0.28246123
+          "weight": 0.29699612
         },
         {
           "id": "Inspection Results",
@@ -170,7 +173,7 @@
             1911,
             511
           ],
-          "weight": 0.28246123,
+          "weight": 0.29505813,
           "sideWeight": 0.50026965
         },
         {
@@ -178,7 +181,7 @@
           "order": 28,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.28246123
+          "weight": 0.29699612
         },
         {
           "id": "Run",
@@ -192,21 +195,21 @@
           "order": 30,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.28246123
+          "weight": 0.29699612
         },
         {
           "id": "NuGet",
           "order": 32,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.38129845
+          "weight": 0.29505813
         },
         {
           "id": "Endpoints",
           "order": 34,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.38614342,
+          "weight": 0.28246123,
           "sideWeight": 0.5005319
         },
         {
@@ -220,7 +223,7 @@
             1854,
             158
           ],
-          "weight": 0.38129845
+          "weight": 0.28246123
         },
         {
           "id": "Meet New UI",
@@ -255,30 +258,29 @@
           "weight": 0.25
         },
         {
-          "id": "Notifications",
-          "order": 5,
-          "anchor": "RIGHT",
-          "weight": 0.1419271,
-          "sideWeight": 0.50051975,
-          "isSplit": true
-        },
-        {
           "id": "Project",
-          "order": 6,
+          "order": 9,
           "anchor": "RIGHT",
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.13723958,
-          "sideWeight": 0.4994681,
+          "weight": 0.12682292,
+          "sideWeight": 0.4994681
+        },
+        {
+          "id": "Notifications",
+          "order": 11,
+          "anchor": "RIGHT",
+          "weight": 0.12682292,
+          "sideWeight": 0.5005319,
           "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.17109375,
-        "bottom": 0.28246123,
-        "right": 0.13723958
+        "left": 0.14505208,
+        "bottom": 0.29699612,
+        "right": 0.12682292
       }
     }
   }

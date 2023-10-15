@@ -3,6 +3,7 @@
     <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="VisualStudioNight" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Rider Night" scheme="_@user_Visual Studio Dark" />
+      <laf-to-scheme laf="Visual Studio Night" scheme="NiteHawk Dark" />
     </lafs-to-previous-schemes>
   </component>
 </application>

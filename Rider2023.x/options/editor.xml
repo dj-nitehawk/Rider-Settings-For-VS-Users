@@ -38,7 +38,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="HORIZONTAL_SCROLL_OFFSET" value="1" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
