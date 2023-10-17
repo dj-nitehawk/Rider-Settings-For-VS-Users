@@ -52,6 +52,7 @@
   </action>
   <action id="BookmarksView.Rename" />
   <action id="CIDR.Debugger.ShowInMemoryView" />
+  <action id="CallHierarchy" />
   <action id="ChangeSignature" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Rename" />
@@ -101,6 +102,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
+  <action id="Debugger.MarkObject" />
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -161,6 +163,8 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="GotoImplementation" />
+  <action id="GotoNextBookmark" />
+  <action id="GotoPreviousBookmark" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration" />
@@ -213,6 +217,9 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="shift ctrl f1" />
+  </action>
   <action id="ReSharperGotoImplementation" />
   <action id="ReSharperGotoNextErrorInSolution">
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -226,10 +233,6 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl f" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="d" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="Refresh" />
@@ -240,9 +243,11 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="RiderBackendAction-EncapsulateField" />
+  <action id="RiderCodeLens.ShowMore" />
   <action id="RiderCollapseToDefinitions">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="RiderCoveringTestsPopupCoverAllTestsAction" />
   <action id="RiderCoveringTestsPopupRunAllTestsAction" />
   <action id="RiderDebuggerApplyEncChagnes">
     <keyboard-shortcut first-keystroke="f12" />
@@ -257,6 +262,9 @@
   <action id="RiderProjectDiagramApplyCurrentLayout" />
   <action id="RiderReattach" />
   <action id="RiderTypeHierarchy.BaseOnThisType" />
+  <action id="RiderUnitTestCoverCurrentSessionAction">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="RiderUnitTestRepeatPreviousRunAction">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="u" />
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl u" />
@@ -302,10 +310,7 @@
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
-  <action id="SwitchHeaderSource">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="o" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
-  </action>
+  <action id="SwitchHeaderSource" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Table-startEditing" />
@@ -315,6 +320,7 @@
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="ToggleBookmark" />
   <action id="ToggleCompactMode">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
@@ -327,6 +333,13 @@
   <action id="Unscramble" />
   <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.ReadAccess" />
+  <action id="Vcs.Log.ShowTooltip">
+    <keyboard-shortcut first-keystroke="shift ctrl f1" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.EditWatch" />

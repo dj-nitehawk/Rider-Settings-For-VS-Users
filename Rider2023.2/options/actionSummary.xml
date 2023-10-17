@@ -13,10 +13,10 @@
       <i c="13" l="1697092263453" />
     </e>
     <e n="$SelectAll">
-      <i c="16" l="1697474808828" />
+      <i c="18" l="1697528518014" />
     </e>
     <e n="$Undo">
-      <i c="470" l="1697474685661" />
+      <i c="479" l="1697529086131" />
     </e>
     <e n="About">
       <i c="3" l="1697019111246" />
@@ -52,7 +52,7 @@
       <i c="12" l="1697425543225" />
     </e>
     <e n="ActivateStructureToolWindow">
-      <i c="83" l="1697471206308" />
+      <i c="84" l="1697528002964" />
     </e>
     <e n="ActivateTODOToolWindow">
       <i c="1" l="1696491098441" />
@@ -61,10 +61,10 @@
       <i c="12" l="1697251452284" />
     </e>
     <e n="ActivateUnitTestsCoverageToolWindow">
-      <i c="12" l="1697470486791" />
+      <i c="13" l="1697526206540" />
     </e>
     <e n="ActivateUnitTestsToolWindow">
-      <i c="54" l="1697444432203" />
+      <i c="55" l="1697528034516" />
     </e>
     <e n="Activatedocumentation.v2ToolWindow">
       <i c="1" l="1696777786524" />
@@ -112,7 +112,7 @@
       <i c="8" l="1697466746619" />
     </e>
     <e n="CloseAllEditors">
-      <i c="143" l="1697519941651" />
+      <i c="144" l="1697529011227" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="39" l="1697473235477" />
@@ -136,7 +136,7 @@
       <i c="1" l="1697041251585" />
     </e>
     <e n="CommentByLineComment">
-      <i c="22" l="1697468250919" />
+      <i c="26" l="1697528519350" />
     </e>
     <e n="ConfigureEditorTabs">
       <i c="1" l="1696954248095" />
@@ -175,25 +175,25 @@
       <i c="52" l="1697389896234" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2356" l="1697517080796" />
+      <i c="2413" l="1697529916150" />
     </e>
     <e n="EditorBreadcrumbsHideBoth">
       <i c="1" l="1696994234297" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="215" l="1697473716962" />
+      <i c="222" l="1697529343290" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="204" l="1697469818974" />
+      <i c="205" l="1697527399161" />
     </e>
     <e n="EditorCopy">
-      <i c="153" l="1697474801348" />
+      <i c="158" l="1697529191130" />
     </e>
     <e n="EditorCut">
-      <i c="51" l="1697473710842" />
+      <i c="54" l="1697529894381" />
     </e>
     <e n="EditorDelete">
-      <i c="1190" l="1697516668960" />
+      <i c="1224" l="1697529920022" />
     </e>
     <e n="EditorDeleteLine">
       <i c="8" l="1696508877433" />
@@ -202,16 +202,16 @@
       <i c="2" l="1696491707135" />
     </e>
     <e n="EditorDown">
-      <i c="650" l="1697469833327" />
+      <i c="657" l="1697529375754" />
     </e>
     <e n="EditorDuplicate">
       <i c="11" l="1697453778630" />
     </e>
     <e n="EditorEnter">
-      <i c="989" l="1697519869612" />
+      <i c="1008" l="1697529910507" />
     </e>
     <e n="EditorEscape">
-      <i c="33" l="1697389822885" />
+      <i c="34" l="1697528012965" />
     </e>
     <e n="EditorGutterToggleGlobalIndentLines">
       <i c="2" l="1696659661677" />
@@ -220,7 +220,7 @@
       <i c="67" l="1697274686232" />
     </e>
     <e n="EditorLeft">
-      <i c="693" l="1697474869668" />
+      <i c="703" l="1697529898246" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1697275081384" />
@@ -244,13 +244,13 @@
       <i c="22" l="1697127772673" />
     </e>
     <e n="EditorPaste">
-      <i c="278" l="1697474809205" />
+      <i c="287" l="1697529916810" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1" l="1696517110024" />
     </e>
     <e n="EditorRight">
-      <i c="933" l="1697474881884" />
+      <i c="960" l="1697529898726" />
     </e>
     <e n="EditorScrollDown">
       <i c="2" l="1697173859860" />
@@ -286,10 +286,10 @@
       <i c="2" l="1696658825163" />
     </e>
     <e n="EditorUnindentSelection">
-      <i c="125" l="1697474732924" />
+      <i c="126" l="1697529418787" />
     </e>
     <e n="EditorUp">
-      <i c="144" l="1697473494251" />
+      <i c="147" l="1697529911110" />
     </e>
     <e n="EnablePsiIconsAction">
       <i c="4" l="1697012949022" />
@@ -325,7 +325,7 @@
       <i c="1" l="1696764382400" />
     </e>
     <e n="Find">
-      <i c="4" l="1697466003579" />
+      <i c="6" l="1697528740373" />
     </e>
     <e n="FindInPath">
       <i c="4" l="1697467178981" />
@@ -379,7 +379,7 @@
       <i c="7" l="1697038075116" />
     </e>
     <e n="InvalidateCaches">
-      <i c="18" l="1697519946351" />
+      <i c="19" l="1697530211968" />
     </e>
     <e n="List-selectNextRow">
       <i c="109" l="1697106326943" />
@@ -391,7 +391,7 @@
       <i c="1" l="1697086145957" />
     </e>
     <e n="Markdown.Layout.EditorAndPreview">
-      <i c="18" l="1697474827468" />
+      <i c="20" l="1697529178910" />
     </e>
     <e n="Markdown.Layout.EditorOnly">
       <i c="2" l="1697474828119" />
@@ -442,7 +442,7 @@
       <i c="1" l="1697082931301" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="161" l="1697461663402" />
+      <i c="166" l="1697528181450" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1696658990061" />
@@ -505,7 +505,7 @@
       <i c="34" l="1697424654329" />
     </e>
     <e n="Refactorings.QuickListPopupAction">
-      <i c="14" l="1697473456007" />
+      <i c="16" l="1697527373815" />
     </e>
     <e n="ReformatCode">
       <i c="2" l="1697081053220" />
@@ -517,7 +517,7 @@
       <i c="3" l="1697340266711" />
     </e>
     <e n="RenameElement">
-      <i c="33" l="1697469278057" />
+      <i c="35" l="1697527335053" />
     </e>
     <e n="Replace">
       <i c="1" l="1697081185499" />
@@ -535,7 +535,7 @@
       <i c="229" l="1697473572012" />
     </e>
     <e n="RevealIn">
-      <i c="14" l="1697276465207" />
+      <i c="15" l="1697529093869" />
     </e>
     <e n="Rider.UnitTesting.ExplorerOptions">
       <i c="9" l="1697034920488" />
@@ -568,7 +568,7 @@
       <i c="1" l="1697277189479" />
     </e>
     <e n="RiderCoveringTestsPopupCoverAllTestsSplitAction">
-      <i c="9" l="1697277188212" />
+      <i c="12" l="1697526519514" />
     </e>
     <e n="RiderCoveringTestsPopupCoverSelectedTestsSplitAction">
       <i c="1" l="1696676976205" />
@@ -589,7 +589,7 @@
       <i c="6" l="1697386135707" />
     </e>
     <e n="RiderDotCoverHighlightingCodeAction">
-      <i c="15" l="1697386343257" />
+      <i c="16" l="1697526208081" />
     </e>
     <e n="RiderDotCoverNavigateToCoverageTreeAction">
       <i c="6" l="1697036423914" />
@@ -658,7 +658,7 @@
       <i c="4" l="1696490326251" />
     </e>
     <e n="RiderUnitTestCoverCurrentSessionAction">
-      <i c="1" l="1697253872519" />
+      <i c="2" l="1697527730619" />
     </e>
     <e n="RiderUnitTestCoverSolutionAction">
       <i c="5" l="1697386117100" />
@@ -700,10 +700,10 @@
       <i c="1" l="1696663599298" />
     </e>
     <e n="RiderUnitTestRunCurrentSessionAction">
-      <i c="70" l="1697461430051" />
+      <i c="72" l="1697527556436" />
     </e>
     <e n="RiderUnitTestRunTreeSplitAction">
-      <i c="419" l="1697519328724" />
+      <i c="431" l="1697530189499" />
     </e>
     <e n="RiderUnitTestRunTreeTwAction">
       <i c="1" l="1696826245032" />
@@ -766,16 +766,16 @@
       <i c="10" l="1697470498634" />
     </e>
     <e n="SaveDocument">
-      <i c="1286" l="1697516670528" />
+      <i c="1319" l="1697529926854" />
     </e>
     <e n="SearchEverywhere">
-      <i c="10" l="1697467145916" />
+      <i c="12" l="1697528429327" />
     </e>
     <e n="SelectIn">
       <i c="7" l="1697017067244" />
     </e>
     <e n="SelectInProjectView">
-      <i c="22" l="1697459969424" />
+      <i c="23" l="1697528766172" />
     </e>
     <e n="ServiceView.ConfigureServices">
       <i c="1" l="1697339329969" />
@@ -799,7 +799,7 @@
       <i c="6" l="1697421284310" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="630" l="1697474725596" />
+      <i c="648" l="1697528469150" />
     </e>
     <e n="ShowMembersInNavigationBar">
       <i c="4" l="1697257030096" />
@@ -808,13 +808,13 @@
       <i c="2" l="1696939625555" />
     </e>
     <e n="ShowSettings">
-      <i c="1741" l="1697517328107" />
+      <i c="1760" l="1697528914531" />
     </e>
     <e n="ShowSettingsAndFindUsages">
       <i c="2" l="1696654040104" />
     </e>
     <e n="SilentCodeCleanup">
-      <i c="13" l="1697465055384" />
+      <i c="15" l="1697528996603" />
     </e>
     <e n="StatusTextModeAction">
       <i c="8" l="1697465273458" />
@@ -862,22 +862,22 @@
       <i c="2" l="1697256694827" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="158" l="1697473755847" />
+      <i c="159" l="1697526445770" />
     </e>
     <e n="ToolWindowsGroup">
       <i c="2" l="1696956531628" />
     </e>
     <e n="Tree-selectChild">
-      <i c="432" l="1697473773745" />
+      <i c="470" l="1697528626662" />
     </e>
     <e n="Tree-selectNext">
-      <i c="1780" l="1697468378150" />
+      <i c="2046" l="1697528684413" />
     </e>
     <e n="Tree-selectParent">
-      <i c="408" l="1697468399103" />
+      <i c="413" l="1697528686398" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="411" l="1697463914134" />
+      <i c="441" l="1697528686125" />
     </e>
     <e n="UsageView.Remove">
       <i c="2" l="1697444463592" />
@@ -988,7 +988,10 @@
       <i c="1" l="1697450982414" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="3" l="1697466011275" />
+      <i c="4" l="1697528747709" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="21" l="1697528746773" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="14" l="1697270389894" />
@@ -1117,7 +1120,7 @@
       <i c="98" l="1697464982061" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
-      <i c="196" l="1697474765223" />
+      <i c="203" l="1697529112351" />
     </e>
     <e n="com.intellij.openapi.actionSystem.impl.ActionToolbarImpl$2">
       <i c="4" l="1696777888161" />
@@ -1138,13 +1141,13 @@
       <i c="34" l="1697464349915" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="222" l="1697517355995" />
+      <i c="224" l="1697529933082" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddAbbreviationAction">
       <i c="2" l="1697256858983" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
-      <i c="72" l="1697433336093" />
+      <i c="74" l="1697527721706" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddMouseShortcutAction">
       <i c="4" l="1697464525781" />
@@ -1165,13 +1168,13 @@
       <i c="3" l="1697470907127" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="17" l="1697428964103" />
+      <i c="18" l="1697527966943" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="1" l="1697081189011" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="6" l="1697425931271" />
+      <i c="7" l="1697526555443" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="12" l="1697517257627" />
@@ -1186,7 +1189,7 @@
       <i c="15" l="1697128372522" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="838" l="1697519112361" />
+      <i c="842" l="1697527683967" />
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$ToggleContentUiTypeAction">
       <i c="12" l="1697388741140" />
@@ -1252,13 +1255,13 @@
       <i c="16" l="1697119636906" />
     </e>
     <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
-      <i c="104" l="1697444083693" />
+      <i c="107" l="1697526658442" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$CloseAction">
       <i c="8" l="1697459479250" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$CloseAllAction">
-      <i c="25" l="1697472951277" />
+      <i c="26" l="1697526138538" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$CloseAllButThisAction">
       <i c="1" l="1696750525973" />
@@ -1279,7 +1282,7 @@
       <i c="2" l="1696782944430" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="90" l="1697474582194" />
+      <i c="91" l="1697526447025" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialog$AddXBreakpointAction">
       <i c="5" l="1697445004150" />
@@ -1474,7 +1477,7 @@
       <i c="1" l="1697034495264" />
     </e>
     <e n="rider.ilViewer.IlViewerCodeTypeLowLevelCSharp">
-      <i c="5" l="1697120188936" />
+      <i c="6" l="1697526314353" />
     </e>
   </component>
 </application>
