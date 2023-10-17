@@ -187,7 +187,7 @@
       <i c="205" l="1697527399161" />
     </e>
     <e n="EditorCopy">
-      <i c="158" l="1697529191130" />
+      <i c="159" l="1697545187484" />
     </e>
     <e n="EditorCut">
       <i c="54" l="1697529894381" />
@@ -703,7 +703,7 @@
       <i c="72" l="1697527556436" />
     </e>
     <e n="RiderUnitTestRunTreeSplitAction">
-      <i c="431" l="1697530189499" />
+      <i c="433" l="1697544800348" />
     </e>
     <e n="RiderUnitTestRunTreeTwAction">
       <i c="1" l="1696826245032" />
@@ -808,7 +808,7 @@
       <i c="2" l="1696939625555" />
     </e>
     <e n="ShowSettings">
-      <i c="1760" l="1697528914531" />
+      <i c="1777" l="1697550123854" />
     </e>
     <e n="ShowSettingsAndFindUsages">
       <i c="2" l="1696654040104" />
@@ -1012,7 +1012,7 @@
       <i c="1" l="1696958206852" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="22" l="1697470575683" />
+      <i c="23" l="1697544917440" />
     </e>
     <e n="com.intellij.ide.actions.CollapseAllAction">
       <i c="39" l="1697468367359" />
@@ -1141,7 +1141,7 @@
       <i c="34" l="1697464349915" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="224" l="1697529933082" />
+      <i c="226" l="1697550359426" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddAbbreviationAction">
       <i c="2" l="1697256858983" />

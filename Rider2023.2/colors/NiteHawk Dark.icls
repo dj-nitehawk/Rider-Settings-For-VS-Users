@@ -4,7 +4,7 @@
     <property name="created">2023-10-14T19:51:29</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-17T12:45:56</property>
+    <property name="modified">2023-10-17T18:04:15</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Cascadia Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -12,7 +12,7 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
     <option name="DOCUMENTATION_COLOR" value="363636" />
-    <option name="EDITOR_GUTTER_BACKGROUND" value="1f1f1f" />
+    <option name="EDITOR_GUTTER_BACKGROUND" value="141414" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="49545f" />
     <option name="INDENT_GUIDE" value="313131" />
     <option name="INFORMATION_HINT" value="2b2b2b" />
@@ -240,7 +240,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d2d2d2" />
-        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="BACKGROUND" value="f0f0f" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
