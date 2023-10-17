@@ -7,6 +7,7 @@ Rider2023.2/resharper-host/DecompilerCache/
 Rider2023.2/resharper-host/SourcesCache/
 Rider2023.2/resharper-host/UsageStatistics2/
 Rider2023.2/resharper-host/event-log-state.json
+Rider2023.2/resharper-host/processes/
 
 Rider2023.2/global-model-cache/
 Rider2023.2/workspace/
@@ -24,3 +25,4 @@ bl
 crl
 PermanentDeviceId
 PermanentUserId
+

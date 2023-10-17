@@ -112,7 +112,7 @@
       <i c="8" l="1697466746619" />
     </e>
     <e n="CloseAllEditors">
-      <i c="142" l="1697474950755" />
+      <i c="143" l="1697519941651" />
     </e>
     <e n="CloseAllEditorsButActive">
       <i c="39" l="1697473235477" />
@@ -208,7 +208,7 @@
       <i c="11" l="1697453778630" />
     </e>
     <e n="EditorEnter">
-      <i c="983" l="1697474895020" />
+      <i c="989" l="1697519869612" />
     </e>
     <e n="EditorEscape">
       <i c="33" l="1697389822885" />
@@ -379,7 +379,7 @@
       <i c="7" l="1697038075116" />
     </e>
     <e n="InvalidateCaches">
-      <i c="17" l="1697517373769" />
+      <i c="18" l="1697519946351" />
     </e>
     <e n="List-selectNextRow">
       <i c="109" l="1697106326943" />
@@ -703,7 +703,7 @@
       <i c="70" l="1697461430051" />
     </e>
     <e n="RiderUnitTestRunTreeSplitAction">
-      <i c="417" l="1697474775309" />
+      <i c="419" l="1697519328724" />
     </e>
     <e n="RiderUnitTestRunTreeTwAction">
       <i c="1" l="1696826245032" />
@@ -1186,7 +1186,7 @@
       <i c="15" l="1697128372522" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="834" l="1697471249997" />
+      <i c="838" l="1697519112361" />
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$ToggleContentUiTypeAction">
       <i c="12" l="1697388741140" />
@@ -1321,7 +1321,7 @@
       <i c="14" l="1697444761363" />
     </e>
     <e n="com.jetbrains.rider.build.redesign.WarningsToggleAction">
-      <i c="10" l="1697470514404" />
+      <i c="12" l="1697519098673" />
     </e>
     <e n="com.jetbrains.rider.completion.summaryInfo.ParameterInfoListView$NextSignatureAction">
       <i c="94" l="1697378722701" />
