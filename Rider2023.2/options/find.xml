@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'MongoDB.Entities'" />
+    <option name="defaultScopeName" value="Project 'MongoDB.Entities'" />
+    <option name="SEARCH_SCOPE" value="Project 'MongoDB.Entities'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.cs</mask>
+  </component>
+</application>

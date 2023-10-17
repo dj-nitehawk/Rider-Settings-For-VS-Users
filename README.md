@@ -16,7 +16,7 @@ This repository contains JetBrains Rider IDE configuration files that tries to b
 
 4. Install the fonts included in the [Fonts.zip](https://github.com/dj-nitehawk/Rider-Settings-For-VS-Users/raw/main/Fonts.zip) file to your system by right-clicking the fonts and selecting `Install For All Users`.
 
-5. Copy everything from this repository's [Rider2023.x](/Rider2023.x) folder to your local folder.
+5. Copy everything from this repository's [Rider2023.x](/Rider2023.2) folder to your local folder.
 
 6. Launch Rider and go through the license activation process. That's it!
 
