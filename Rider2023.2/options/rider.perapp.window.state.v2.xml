@@ -49,7 +49,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15598959,
+          "weight": 0.14348958,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -96,7 +96,7 @@
           "order": 12,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.28246123,
+          "weight": 0.29699612,
           "sideWeight": 0.50027204
         },
         {
@@ -112,7 +112,7 @@
           "order": 18,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.28246123
+          "weight": 0.29699612
         },
         {
           "id": "Unit Tests Coverage",
@@ -161,6 +161,7 @@
             459
           ],
           "type": "FLOATING",
+          "isActiveOnStart": true,
           "weight": 0.29699612
         },
         {
@@ -195,7 +196,13 @@
           "order": 30,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.28246123
+          "floatingBounds": [
+            118,
+            57,
+            1692,
+            928
+          ],
+          "weight": 0.29699612
         },
         {
           "id": "Find",
@@ -271,23 +278,23 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12682292,
+          "weight": 0.12421875,
           "sideWeight": 0.4994681
         },
         {
           "id": "Notifications",
           "order": 11,
           "anchor": "RIGHT",
-          "weight": 0.12682292,
+          "weight": 0.12421875,
           "sideWeight": 0.5005319,
           "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15598959,
+        "left": 0.14348958,
         "bottom": 0.29699612,
-        "right": 0.12682292
+        "right": 0.12421875
       }
     }
   }
