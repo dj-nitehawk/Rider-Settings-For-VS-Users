@@ -43,6 +43,7 @@
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
+    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
