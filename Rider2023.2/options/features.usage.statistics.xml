@@ -62,13 +62,13 @@
     <feature id="vcs.use.integration" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.close.all.editors" count="161" last-shown="0" last-used="1697706665834" shown-count="0" />
+    <feature id="ui.close.all.editors" count="162" last-shown="0" last-used="1697707942248" shown-count="0" />
     <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="NuGet.QuickList" count="1" last-shown="0" last-used="1696955966355" shown-count="0" />
     <feature id="codeassists.generate.code" count="2" last-shown="0" last-used="1696674289602" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="329" last-shown="0" last-used="1697652537293" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="354" last-shown="0" last-used="1697704709927" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="433" last-shown="0" last-used="1697705508744" shown-count="0" />
     <feature id="ui.open.project.tool.window" count="1" last-shown="0" last-used="1696491367005" shown-count="0" />
     <feature id="editing.join.lines" count="0" last-shown="0" last-used="0" shown-count="0" />
