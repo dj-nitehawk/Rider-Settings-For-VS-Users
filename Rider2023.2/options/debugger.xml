@@ -11,6 +11,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="enableExternalSourceDebug" value="false" />
           <option name="processExceptionsOutsideMyCode" value="true" />
         </configuration>
       </debugger>
