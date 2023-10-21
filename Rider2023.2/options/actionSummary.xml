@@ -184,25 +184,25 @@
       <i c="3" l="1697782835467" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3292" l="1697874966886" />
+      <i c="3346" l="1697876007689" />
     </e>
     <e n="EditorBreadcrumbsHideBoth">
       <i c="1" l="1696994234297" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="314" l="1697873864443" />
+      <i c="320" l="1697876011337" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="274" l="1697874845622" />
+      <i c="285" l="1697876026521" />
     </e>
     <e n="EditorCopy">
-      <i c="220" l="1697798546324" />
+      <i c="222" l="1697875196293" />
     </e>
     <e n="EditorCut">
       <i c="81" l="1697874464296" />
     </e>
     <e n="EditorDelete">
-      <i c="1529" l="1697874849606" />
+      <i c="1537" l="1697876005898" />
     </e>
     <e n="EditorDeleteLine">
       <i c="8" l="1696508877433" />
@@ -211,16 +211,16 @@
       <i c="2" l="1696491707135" />
     </e>
     <e n="EditorDown">
-      <i c="783" l="1697874885910" />
+      <i c="789" l="1697875219989" />
     </e>
     <e n="EditorDuplicate">
       <i c="12" l="1697615846701" />
     </e>
     <e n="EditorEnter">
-      <i c="1267" l="1697874879687" />
+      <i c="1271" l="1697876037313" />
     </e>
     <e n="EditorEscape">
-      <i c="43" l="1697874889183" />
+      <i c="44" l="1697875528518" />
     </e>
     <e n="EditorGutterToggleGlobalIndentLines">
       <i c="2" l="1696659661677" />
@@ -229,7 +229,7 @@
       <i c="67" l="1697274686232" />
     </e>
     <e n="EditorLeft">
-      <i c="861" l="1697874637128" />
+      <i c="872" l="1697875813082" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1697275081384" />
@@ -253,13 +253,13 @@
       <i c="22" l="1697127772673" />
     </e>
     <e n="EditorPaste">
-      <i c="376" l="1697874469536" />
+      <i c="378" l="1697875198805" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1" l="1696517110024" />
     </e>
     <e n="EditorRight">
-      <i c="1278" l="1697874967662" />
+      <i c="1358" l="1697875814162" />
     </e>
     <e n="EditorScrollDown">
       <i c="2" l="1697173859860" />
@@ -274,7 +274,7 @@
       <i c="2" l="1696504358119" />
     </e>
     <e n="EditorTab">
-      <i c="99" l="1697782662600" />
+      <i c="100" l="1697875926428" />
     </e>
     <e n="EditorTabsEntryPoint">
       <i c="7" l="1697706051570" />
@@ -298,7 +298,7 @@
       <i c="132" l="1697786402731" />
     </e>
     <e n="EditorUp">
-      <i c="173" l="1697874886350" />
+      <i c="175" l="1697875083006" />
     </e>
     <e n="EnablePsiIconsAction">
       <i c="4" l="1697012949022" />
@@ -454,7 +454,7 @@
       <i c="1" l="1697082931301" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="191" l="1697864343269" />
+      <i c="200" l="1697876032185" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1696658990061" />
@@ -790,7 +790,7 @@
       <i c="13" l="1697789747963" />
     </e>
     <e n="SaveDocument">
-      <i c="1644" l="1697874850302" />
+      <i c="1647" l="1697876036113" />
     </e>
     <e n="SearchEverywhere">
       <i c="20" l="1697863993837" />
@@ -832,7 +832,7 @@
       <i c="2" l="1696939625555" />
     </e>
     <e n="ShowSettings">
-      <i c="1893" l="1697874936742" />
+      <i c="1899" l="1697875975601" />
     </e>
     <e n="ShowSettingsAndFindUsages">
       <i c="5" l="1697774256556" />
@@ -901,13 +901,13 @@
       <i c="582" l="1697797627502" />
     </e>
     <e n="Tree-selectNext">
-      <i c="2678" l="1697874704367" />
+      <i c="2699" l="1697875834026" />
     </e>
     <e n="Tree-selectParent">
       <i c="565" l="1697797481535" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="577" l="1697874703248" />
+      <i c="579" l="1697875834817" />
     </e>
     <e n="UsageView.Remove">
       <i c="2" l="1697444463592" />
@@ -1375,7 +1375,7 @@
       <i c="1" l="1696856503112" />
     </e>
     <e n="com.jetbrains.rd.ui.bindable.views.ButtonViewControl$tryGetRealAction$action$1">
-      <i c="52" l="1697874952579" />
+      <i c="57" l="1697875998510" />
     </e>
     <e n="com.jetbrains.rd.ui.bindable.views.ToggleButtonViewControl$getAction$1">
       <i c="2" l="1696913095422" />

@@ -238,7 +238,7 @@
 	<s:String x:Key="/Default/Environment/ExternalSources/IlViewer/CodeType/@EntryValue">LowLevelCSharp</s:String>
 	
 	<s:Boolean x:Key="/Default/Environment/General/RunTestClassesInParallel/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">692</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">693</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/NuGetOptions/IncludePrerelease/@EntryValue">False</s:Boolean>
 	
 	
@@ -804,6 +804,36 @@ sealed class $epName$Endpoint : EndpointWithoutRequest&lt;$epName$Response&gt;
 {
     $END$
 }</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Applicability/=Surround/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Description/@EntryValue">extension method</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=arg/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=arg/Expression/@EntryValue">suggestVariableName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=arg/Order/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=input_005Ftype/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=input_005Ftype/Expression/@EntryValue">complete()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=input_005Ftype/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=name/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=name/Expression/@EntryValue">constant("MyMethod")</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=name/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=return_005Ftype/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=return_005Ftype/Expression/@EntryValue">complete()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Field/=return_005Ftype/Order/@EntryValue">0</s:Int64>
+	
+	
+	
+	
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Scope/=C3001E7C0DA78E4487072B7E050D86C5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Scope/=C3001E7C0DA78E4487072B7E050D86C5/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Scope/=C3001E7C0DA78E4487072B7E050D86C5/Type/@EntryValue">InCSharpFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Shortcut/@EntryValue">ext</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=7A5929E8DA335B439CDD151CB5A5DC05/Text/@EntryValue">    public static $return_type$ $name$(this $input_type$ $arg$)
+    {
+        $END$$SELECTION$
+    }</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8047A0D0B66AE6438FFE90CBE4C0A11B/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8047A0D0B66AE6438FFE90CBE4C0A11B/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=8047A0D0B66AE6438FFE90CBE4C0A11B/Description/@EntryValue">import statements for mongodb</s:String>
