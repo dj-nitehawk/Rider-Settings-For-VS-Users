@@ -33,6 +33,7 @@
             352,
             963
           ],
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.14661458,
           "sideWeight": 0.4994681,
@@ -48,7 +49,6 @@
             321
           ],
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
           "weight": 0.14661458,
           "sideWeight": 0.5005319,
           "isSplit": true
@@ -284,7 +284,7 @@
           "id": "Notifications",
           "order": 11,
           "anchor": "RIGHT",
-          "weight": 0.12734374,
+          "weight": 0.12421875,
           "sideWeight": 0.5005319,
           "isSplit": true
         }
