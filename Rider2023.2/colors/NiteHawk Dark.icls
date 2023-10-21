@@ -4,7 +4,7 @@
     <property name="created">2023-10-14T19:51:29</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-20T16:01:23</property>
+    <property name="modified">2023-10-21T16:49:26</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Cascadia Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -211,7 +211,7 @@
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
-        <option name="FOREGROUND" value="6edb6e" />
+        <option name="FOREGROUND" value="69c669" />
       </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM_2">
