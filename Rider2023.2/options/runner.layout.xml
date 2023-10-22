@@ -15,7 +15,7 @@
         <option name="ID" value="ParallelStacks" />
         <option name="minimizedInGrid" value="true" />
         <option name="placeInGrid" value="center" />
-        <option name="tabIndex" value="-1" />
+        <option name="tabIndex" value="3" />
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="MemoryView" />
@@ -39,7 +39,7 @@
       </TabImpl>
       <TabImpl>
         <option name="defaultIndex" value="3" />
-        <option name="index" value="-1" />
+        <option name="index" value="3" />
       </TabImpl>
       <General>
         <option name="isTabLabelsHidden" value="false" />
@@ -48,6 +48,10 @@
     <runner id="JavaRunner">
       <ViewImpl>
         <option name="ID" value="ConsoleContent" />
+        <option name="placeInGrid" value="bottom" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="HTTP_REQUEST_TAB" />
         <option name="placeInGrid" value="bottom" />
       </ViewImpl>
       <TabImpl>

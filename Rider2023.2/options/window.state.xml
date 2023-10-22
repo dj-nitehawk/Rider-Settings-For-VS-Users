@@ -1,18 +1,18 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.1920.1080" x="2336" y="-2" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1335" height="274" />
-    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1335" height="274" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1332" height="276" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1332" height="276" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1332" height="276" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1332" height="276" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1332" height="274" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1332" height="274" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1332" height="274" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1332" height="274" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1332" height="274" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1332" height="274" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1332" height="274" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1332" height="274" />
     <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1321" height="274" />
     <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1321" height="274" />
     <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1321" height="274" />
@@ -43,10 +43,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="454" y="0" width="600" height="332" key="RegExHelpPopup/1920.0.1920.1032/0.0.1920.1032" timestamp="1697787617041" />
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1697904075066">
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1697986909412">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1697904075066" />
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1697986909412" />
     <state x="487" y="401" width="537" height="114" key="ide.config.custom.settings" timestamp="1696859379630">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

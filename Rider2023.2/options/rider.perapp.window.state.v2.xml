@@ -33,7 +33,6 @@
             352,
             963
           ],
-          "isActiveOnStart": true,
           "weight": 0.14505208,
           "sideWeight": 0.4994681,
           "isSplit": true
@@ -48,16 +47,16 @@
             321
           ],
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.14661458,
+          "weight": 0.14505208,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
         {
           "id": "dotTrace Profiler",
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.38614342
+          "weight": 0.2989341
         },
         {
           "id": "dotMemory Profiler",
@@ -96,7 +95,7 @@
           "order": 12,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.29699612,
+          "weight": 0.2989341,
           "sideWeight": 0.50027204
         },
         {
@@ -174,7 +173,7 @@
             1911,
             511
           ],
-          "weight": 0.29699612,
+          "weight": 0.2989341,
           "sideWeight": 0.50026965
         },
         {
@@ -201,14 +200,14 @@
             1692,
             928
           ],
-          "weight": 0.29699612
+          "weight": 0.2989341
         },
         {
           "id": "Find",
           "order": 31,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.29699612
+          "weight": 0.2989341
         },
         {
           "id": "NuGet",
@@ -222,7 +221,7 @@
           "order": 35,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.28246123,
+          "weight": 0.29699612,
           "sideWeight": 0.5005319
         },
         {
@@ -236,7 +235,7 @@
             1854,
             158
           ],
-          "weight": 0.29699612
+          "weight": 0.29021317
         },
         {
           "id": "Meet New UI",
@@ -284,15 +283,15 @@
           "id": "Notifications",
           "order": 11,
           "anchor": "RIGHT",
-          "weight": 0.12421875,
+          "weight": 0.12734374,
           "sideWeight": 0.5005319,
           "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.14661458,
-        "bottom": 0.29699612,
+        "left": 0.14505208,
+        "bottom": 0.2989341,
         "right": 0.12734374
       }
     }

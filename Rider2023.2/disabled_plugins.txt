@@ -24,6 +24,7 @@ com.intellij.plugins.vscodekeymap
 com.intellij.plugins.watcher
 com.intellij.plugins.webcomponents
 com.intellij.properties
+com.intellij.resharper.HeapAllocationsViewer
 com.intellij.resharper.unity
 com.intellij.settingsSync
 com.intellij.stats.completion
