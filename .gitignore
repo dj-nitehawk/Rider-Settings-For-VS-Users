@@ -21,9 +21,13 @@ Rider2023.2/rider.key
 Rider2023.2/updatedBrokenPlugins.db
 
 consentOptions/
+Shared/
+dotTrace/
+
+bl
 backup.ps1
 BackupSettings.lnk
-bl
 crl
+feature_usage_event_log_salt
 PermanentDeviceId
 PermanentUserId
