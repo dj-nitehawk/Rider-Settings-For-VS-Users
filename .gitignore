@@ -1,3 +1,5 @@
+Rider2023.2/options/actionSummary.xml
+Rider2023.2/options/features.usage.statistics.xml
 Rider2023.2/options/recentSolutions.xml
 Rider2023.2/options/recentSolutionsConfiguration.xml
 Rider2023.2/options/trusted-paths.xml
@@ -25,8 +27,3 @@ bl
 crl
 PermanentDeviceId
 PermanentUserId
-
-
-Rider2023.2/options/features.usage.statistics.xml
-
-Rider2023.2/options/actionSummary.xml
