@@ -51,6 +51,7 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="BookmarksView.Rename" />
+  <action id="CIDR.Debugger.CopyAddress" />
   <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="CallHierarchy" />
   <action id="ChangeSignature" />
@@ -84,11 +85,14 @@
   <action id="CollapseRegion" />
   <action id="CollapseRegionRecursively" />
   <action id="CollapseSelection" />
-  <action id="CommentByBlockComment" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.CopyAggregatorResult" />
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
@@ -99,6 +103,8 @@
   <action id="ContextHelp">
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
@@ -341,9 +347,11 @@
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="ViewSource" />
+  <action id="WelcomeScreen.CopyProjectPath" />
   <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>
