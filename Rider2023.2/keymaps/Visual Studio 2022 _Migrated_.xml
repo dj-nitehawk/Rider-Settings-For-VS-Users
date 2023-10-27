@@ -193,6 +193,7 @@
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
+  <action id="MainMenuButton.ShowMenu" />
   <action id="MaximizeToolWindow">
     <mouse-shortcut keystroke="shift button1" />
   </action>
@@ -210,6 +211,9 @@
     <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
   <action id="OptimizeImports" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -296,7 +300,7 @@
   <action id="SaveAll" />
   <action id="SearchEverywhere" />
   <action id="SelectIn">
-    <keyboard-shortcut first-keystroke="ctrl 0" />
+    <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="ServiceView.AddService" />
   <action id="SetShortcutAction" />
@@ -339,6 +343,7 @@
   <action id="Unscramble" />
   <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.ReadAccess" />
+  <action id="UsageGrouping.FlattenModules" />
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
   </action>

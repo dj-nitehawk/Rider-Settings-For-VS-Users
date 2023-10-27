@@ -33,9 +33,8 @@
             352,
             963
           ],
-          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.14765625,
+          "weight": 0.14505208,
           "sideWeight": 0.4994681,
           "isSplit": true
         },
@@ -56,6 +55,7 @@
         {
           "id": "dotTrace Profiler",
           "anchor": "BOTTOM",
+          "isShowStripeButton": false,
           "weight": 0.2989341
         },
         {
@@ -68,7 +68,14 @@
           "order": 1,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.29699612,
+          "floatingBounds": [
+            1922,
+            516,
+            1916,
+            514
+          ],
+          "type": "FLOATING",
+          "weight": 0.2989341,
           "sideWeight": 0.5005133
         },
         {
@@ -81,8 +88,9 @@
           "id": "Version Control",
           "order": 8,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.18362403,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.2989341,
           "sideWeight": 0.50027204
         },
         {
@@ -95,6 +103,8 @@
           "order": 12,
           "anchor": "BOTTOM",
           "isAutoHide": true,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
           "weight": 0.2989341,
           "sideWeight": 0.50027204
         },
@@ -111,13 +121,17 @@
           "order": 18,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.29699612
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.2989341
         },
         {
           "id": "Unit Tests Coverage",
           "order": 19,
           "anchor": "BOTTOM",
           "isAutoHide": true,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
           "weight": 0.2989341,
           "sideWeight": 0.5005133
         },
@@ -132,7 +146,9 @@
             1838,
             189
           ],
-          "weight": 0.29699612,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.2989341,
           "sideWeight": 0.49972796
         },
         {
@@ -146,7 +162,10 @@
             1838,
             473
           ],
-          "weight": 0.29699612
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "isVisible": true,
+          "weight": 0.2989341
         },
         {
           "id": "Inspection Results",
@@ -154,13 +173,14 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1924,
-            573,
-            1915,
-            459
+            1925,
+            515,
+            1914,
+            519
           ],
           "type": "FLOATING",
-          "weight": 0.29699612
+          "internalType": "SLIDING",
+          "weight": 0.2989341
         },
         {
           "id": "Problems View",
@@ -168,12 +188,16 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1939,
-            425,
-            1911,
-            511
+            1925,
+            516,
+            1914,
+            518
           ],
-          "weight": 0.29699612,
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.2989341,
           "sideWeight": 0.50026965
         },
         {
@@ -187,19 +211,28 @@
           "order": 29,
           "anchor": "BOTTOM",
           "isAutoHide": true,
+          "floatingBounds": [
+            1924,
+            515,
+            1914,
+            514
+          ],
+          "type": "FLOATING",
           "weight": 0.2989341
         },
         {
           "id": "Run",
           "order": 30,
           "anchor": "BOTTOM",
-          "isAutoHide": true,
           "floatingBounds": [
-            118,
-            57,
-            1692,
-            928
+            1927,
+            514,
+            1909,
+            513
           ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "weight": 0.2989341
         },
         {
@@ -207,6 +240,16 @@
           "order": 31,
           "anchor": "BOTTOM",
           "isAutoHide": true,
+          "floatingBounds": [
+            1924,
+            515,
+            1913,
+            516
+          ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.2989341
         },
         {
@@ -214,6 +257,15 @@
           "order": 33,
           "anchor": "BOTTOM",
           "isAutoHide": true,
+          "floatingBounds": [
+            183,
+            187,
+            1609,
+            732
+          ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "weight": 0.2989341
         },
         {
@@ -221,7 +273,17 @@
           "order": 35,
           "anchor": "BOTTOM",
           "isAutoHide": true,
-          "weight": 0.29699612,
+          "floatingBounds": [
+            1924,
+            514,
+            1915,
+            520
+          ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.2989341,
           "sideWeight": 0.5005319
         },
         {
@@ -235,7 +297,9 @@
             1854,
             158
           ],
-          "weight": 0.29021317
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.2989341
         },
         {
           "id": "Meet New UI",
@@ -276,7 +340,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12473959,
+          "weight": 0.12786458,
           "sideWeight": 0.4994681
         },
         {
@@ -290,9 +354,9 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.14765625,
+        "left": 0.14505208,
         "bottom": 0.2989341,
-        "right": 0.12473959
+        "right": 0.12786458
       }
     }
   }
