@@ -61,10 +61,12 @@
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="RECENT_FILES_LIMIT" value="25" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="smoothScrolling" value="false" />
     <option name="UI_DENSITY" value="COMPACT" />
     <option name="WIDESCREEN_SUPPORT" value="true" />

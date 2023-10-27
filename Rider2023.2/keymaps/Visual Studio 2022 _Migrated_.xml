@@ -158,9 +158,6 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
-  <action id="FloatMode">
-    <mouse-shortcut keystroke="alt button1" />
-  </action>
   <action id="Forward" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
@@ -219,6 +216,9 @@
   </action>
   <action id="ParameterInfo.GoToPreviousSignature">
     <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="PinActiveTab">
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="Print" />
   <action id="ProblemsView.QuickFixes">

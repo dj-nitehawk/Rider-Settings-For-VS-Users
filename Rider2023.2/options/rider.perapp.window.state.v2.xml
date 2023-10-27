@@ -33,7 +33,6 @@
             352,
             963
           ],
-          "isVisible": true,
           "weight": 0.14505208,
           "sideWeight": 0.4994681,
           "isSplit": true
@@ -48,7 +47,9 @@
             321
           ],
           "contentUiType": "COMBO",
-          "weight": 0.14765625,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.14505208,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -164,7 +165,6 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "isVisible": true,
           "weight": 0.2989341
         },
         {
@@ -218,6 +218,7 @@
             514
           ],
           "type": "FLOATING",
+          "isVisible": true,
           "weight": 0.2989341
         },
         {
@@ -233,6 +234,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.2989341
         },
         {
@@ -265,7 +267,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.2989341
         },
         {
@@ -281,8 +282,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.2989341,
           "sideWeight": 0.5005319
         },
@@ -337,6 +336,12 @@
           "id": "Project",
           "order": 9,
           "anchor": "RIGHT",
+          "floatingBounds": [
+            837,
+            46,
+            245,
+            940
+          ],
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
