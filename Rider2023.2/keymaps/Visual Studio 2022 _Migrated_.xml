@@ -3,7 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="ActivateBookmarksToolWindow" />
-  <action id="ActivateBuildToolWindow" />
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow" />
   <action id="ActivateDebugToolWindow">

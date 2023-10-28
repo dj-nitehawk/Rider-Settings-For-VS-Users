@@ -12,6 +12,7 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="enableExternalSourceDebug" value="false" />
+          <option name="groupNonPublicMembers" value="true" />
           <option name="processExceptionsOutsideMyCode" value="true" />
         </configuration>
       </debugger>
