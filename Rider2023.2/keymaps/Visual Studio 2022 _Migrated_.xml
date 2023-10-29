@@ -58,6 +58,7 @@
   <action id="CallHierarchy" />
   <action id="ChangeSignature" />
   <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.GroupBy.Module" />
   <action id="ChangesView.Rename" />
   <action id="ChangesView.SetDefault" />
   <action id="ChooseDebugConfiguration" />
@@ -255,6 +256,9 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="RiderBackendAction-EncapsulateField" />
+  <action id="RiderBackendAction-MoveIntoMatchingFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="RiderCodeLens.ShowMore" />
   <action id="RiderCollapseToDefinitions">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -332,6 +336,7 @@
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="TodoViewGroupByShowModules" />
   <action id="ToggleBookmark" />
   <action id="ToggleCompactMode">
     <keyboard-shortcut first-keystroke="f1" />
@@ -346,6 +351,7 @@
   <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.ReadAccess" />
   <action id="UsageGrouping.FlattenModules" />
+  <action id="UsageGrouping.Module" />
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
   </action>

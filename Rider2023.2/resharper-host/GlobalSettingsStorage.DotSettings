@@ -251,7 +251,8 @@
 	
 	<s:Boolean x:Key="/Default/Environment/General/RunTestClassesInParallel/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/LogToFile/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">738</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">735</s:Int64>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/NuGetOptions/IncludePrerelease/@EntryValue">False</s:Boolean>
 	
 	
 	
@@ -301,15 +302,15 @@
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=TabNavigationExplainer/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">CSharpOtherPage</s:String>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">RiderCSharpFileTemplatesSettings</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Directory/@EntryIndexedValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=File/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=File/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Member/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Namespace/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Occurrence_0020Type/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Project/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Section_0020Type/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Solution_0020Folder/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Solution_0020Folder/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Type/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/Search/SearchForInheritedMembers/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestExplorer/Groupings/@EntryValue">Project;Namespace;File System</s:String>
@@ -555,13 +556,12 @@ public class $name$Fixture : TestFixture&lt;Program&gt;
 sealed class Request
 {
 
-}
-
-sealed class Validator : Validator&lt;Request&gt;
-{
-    public Validator()
+    sealed class Validator : Validator&lt;Request&gt;
     {
-        
+        public Validator()
+        {
+            
+        }
     }
 }
 
@@ -1036,7 +1036,15 @@ using System.Linq;</s:String>
 
 sealed class $epName$Request
 {
+    
 
+    sealed class $epName$Validator : Validator&lt;$epName$Request&gt;
+    {
+        public $epName$Validator()
+        {
+    
+        }
+    }
 }
 
 sealed class $epName$Response
@@ -1044,25 +1052,19 @@ sealed class $epName$Response
 
 }
 
-sealed class $epName$Validator : Validator&lt;$epName$Request&gt;
-{
-    public $epName$Validator()
-    {
-
-    }
-}
-
 sealed class $epName$Mapper: Mapper&lt;$epName$Request, $epName$Response, $entity$&gt;
 {
-    public override $entity$ ToEntity($epName$Request r) =&gt; new()
-    {
+    public override $entity$ ToEntity($epName$Request r) 
+        =&gt; new() 
+        {
+        
+        };
 
-    };
-
-    public override $epName$Response FromEntity($entity$ e) =&gt; new()
-    {
-
-    };
+    public override $epName$Response FromEntity($entity$ e) 
+        =&gt; new()
+        {
+        
+        };
 }</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=D44BEB0055F8C24EBBAC00647EAD4244/Text/@EntryValue">namespace $name$;
 
