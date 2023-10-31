@@ -15,7 +15,7 @@
         <option name="ID" value="ParallelStacks" />
         <option name="minimizedInGrid" value="true" />
         <option name="placeInGrid" value="center" />
-        <option name="tabIndex" value="3" />
+        <option name="tabIndex" value="-1" />
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="MemoryView" />
@@ -43,7 +43,7 @@
       </TabImpl>
       <TabImpl>
         <option name="defaultIndex" value="3" />
-        <option name="index" value="3" />
+        <option name="index" value="-1" />
       </TabImpl>
       <General>
         <option name="isTabLabelsHidden" value="false" />

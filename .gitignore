@@ -22,9 +22,11 @@ Rider2023.2/options/recentSolutions.xml
 Rider2023.2/options/recentSolutionsConfiguration.xml
 Rider2023.2/options/trusted-paths.xml
 Rider2023.2/options/trustedSolutions.xml
+Rider2023.2/resharper-host/Cache/
 Rider2023.2/resharper-host/DecompilerCache/
 Rider2023.2/resharper-host/SourcesCache/
 Rider2023.2/resharper-host/UsageStatistics2/
+Rider2023.2/resharper-host/UsageStatistics2.0/
 Rider2023.2/resharper-host/event-log-state.json
 Rider2023.2/resharper-host/processes/
 Rider2023.2/scratches/
@@ -32,4 +34,3 @@ Rider2023.2/workspace/
 Shared/
 WebStorm2023.2/
 
-Rider2023.2/resharper-host/UsageStatistics2.0/

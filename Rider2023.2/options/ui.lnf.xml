@@ -68,7 +68,6 @@
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="smoothScrolling" value="false" />
-    <option name="UI_DENSITY" value="COMPACT" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
