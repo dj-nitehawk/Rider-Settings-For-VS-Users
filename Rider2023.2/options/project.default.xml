@@ -2,11 +2,25 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
-      <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>EditorConfig</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "org.example.githubpang.rossynt.settings.PluginSettingsConfigurable"
   }
-}</component>
+}]]></component>
       <component name="SvnConfiguration">
         <configuration />
       </component>
@@ -24,10 +38,10 @@
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
         <state x="552" y="180" width="816" height="706" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1698580416178" />
-        <state x="86" y="37" width="1638" height="969" key="SettingsEditor" timestamp="1697985497351">
+        <state x="86" y="37" width="1638" height="969" key="SettingsEditor" timestamp="1698811517972">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
-        <state x="86" y="37" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1697985497351" />
+        <state x="86" y="37" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1698811517972" />
       </component>
       <component name="masterDetails">
         <states>

@@ -33,7 +33,8 @@
             352,
             963
           ],
-          "weight": 0.16380209,
+          "isVisible": true,
+          "weight": 0.16015625,
           "sideWeight": 0.4994681,
           "isSplit": true
         },
@@ -47,10 +48,22 @@
             321
           ],
           "contentUiType": "COMBO",
+          "weight": 0.16015625,
+          "sideWeight": 0.5005319,
+          "isSplit": true
+        },
+        {
+          "id": "Rossynt",
+          "order": 16,
+          "floatingBounds": [
+            1923,
+            513,
+            1916,
+            514
+          ],
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16380209,
-          "sideWeight": 0.5005319,
+          "weight": 0.16015625,
           "isSplit": true
         },
         {
@@ -96,12 +109,12 @@
         },
         {
           "id": "Problems",
-          "order": 9,
+          "order": 10,
           "anchor": "BOTTOM"
         },
         {
           "id": "Services",
-          "order": 12,
+          "order": 13,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -111,7 +124,7 @@
         },
         {
           "id": "Pull Requests",
-          "order": 13,
+          "order": 14,
           "anchor": "BOTTOM",
           "isShowStripeButton": false,
           "weight": 0.18359375,
@@ -119,7 +132,7 @@
         },
         {
           "id": "Dynamic Program Analysis",
-          "order": 18,
+          "order": 19,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -128,7 +141,7 @@
         },
         {
           "id": "Unit Tests Coverage",
-          "order": 19,
+          "order": 20,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -138,7 +151,7 @@
         },
         {
           "id": "Terminal",
-          "order": 21,
+          "order": 22,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -155,7 +168,7 @@
         },
         {
           "id": "Build",
-          "order": 25,
+          "order": 26,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -170,7 +183,7 @@
         },
         {
           "id": "Inspection Results",
-          "order": 26,
+          "order": 27,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -186,7 +199,7 @@
         },
         {
           "id": "Problems View",
-          "order": 27,
+          "order": 28,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -203,13 +216,13 @@
         },
         {
           "id": "Stacktrace",
-          "order": 28,
+          "order": 29,
           "anchor": "BOTTOM",
           "weight": 0.29699612
         },
         {
           "id": "Debug",
-          "order": 29,
+          "order": 30,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -224,7 +237,7 @@
         },
         {
           "id": "Run",
-          "order": 30,
+          "order": 31,
           "anchor": "BOTTOM",
           "floatingBounds": [
             1927,
@@ -239,7 +252,7 @@
         },
         {
           "id": "Find",
-          "order": 31,
+          "order": 32,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -256,7 +269,7 @@
         },
         {
           "id": "NuGet",
-          "order": 33,
+          "order": 34,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -272,7 +285,7 @@
         },
         {
           "id": "Endpoints",
-          "order": 35,
+          "order": 36,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -288,7 +301,7 @@
         },
         {
           "id": "TODO",
-          "order": 36,
+          "order": 37,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -360,7 +373,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16380209,
+        "left": 0.16015625,
         "bottom": 0.2989341,
         "right": 0.12421875
       }
