@@ -195,6 +195,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -236,7 +237,6 @@
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -252,7 +252,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -269,6 +268,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.32994187
         },
         {
