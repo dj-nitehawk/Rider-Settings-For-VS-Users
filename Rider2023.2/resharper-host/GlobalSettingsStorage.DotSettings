@@ -51,6 +51,7 @@
 	
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=UnusedMember_002EGlobal/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=UnusedMethodReturnValue_002EGlobal/@EntryIndexedValue">DO_NOT_SHOW</s:String>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=UnusedType_002EGlobal/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/SweaWarningsMode/@EntryValue">DoNotShowAndRun</s:String>
 	<s:Boolean x:Key="/Default/CodeInspection/HotReload/RuntimeHotReloadEnabled/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeInspection/Roslyn/LegacySeveritiesMigrated/@EntryValue">True</s:Boolean>
@@ -119,7 +120,7 @@
     &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
   &amp;lt;/Language&amp;gt;&#xD;
 &amp;lt;/profile&amp;gt;&lt;/RIDER_SETTINGS&gt;&lt;/Profile&gt;</s:String>
-	<s:String x:Key="/Default/CodeStyle/CodeCleanup/RecentlyUsedProfile/@EntryValue">Full Cleanup</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/RecentlyUsedProfile/@EntryValue">Quick Clean</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeCleanup/SilentCleanupProfile/@EntryValue">Full Cleanup</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CommonFormatter/SHOW_AUTODETECT_CONFIGURE_FORMATTING_TIP/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/BRACES_FOR_DOWHILE/@EntryValue">RequiredForMultiline</s:String>
@@ -230,6 +231,7 @@
 	<s:Boolean x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/IsNotificationDisabled/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=BG/@EntryIndexedValue">BG</s:String>
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=ID/@EntryIndexedValue">ID</s:String>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=JWT/@EntryIndexedValue">JWT</s:String>
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=POI/@EntryIndexedValue">POI</s:String>
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=SLMC/@EntryIndexedValue">SLMC</s:String>
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=URL/@EntryIndexedValue">URL</s:String>
@@ -254,9 +256,13 @@
 	
 	<s:Boolean x:Key="/Default/Environment/General/RunTestClassesInParallel/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/LogToFile/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">742</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">2234</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/NuGetOptions/IncludePrerelease/@EntryValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/Highlighting/HighlightingEnabled/@EntryValue">False</s:Boolean>
+	
+	
+	
+	
+	
 	
 	
 	
@@ -308,7 +314,7 @@
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=TabNavigationExplainer/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">RoslynSettings</s:String>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">RiderCSharpLiveTemplatesSettings</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Directory/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=File/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Member/@EntryIndexedValue">False</s:Boolean>
@@ -1321,11 +1327,14 @@ sealed class $epName$Endpoint : Endpoint&lt;$epName$Request, $epName$Response&gt
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=evnt/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=fastendpoints/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=httpcontext/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Intrcptr/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=levenstein/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Mongo/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Namotion/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=nswag/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Prfix/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=privs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=procs/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=propname/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=queryables/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Repro/@EntryIndexedValue">True</s:Boolean>

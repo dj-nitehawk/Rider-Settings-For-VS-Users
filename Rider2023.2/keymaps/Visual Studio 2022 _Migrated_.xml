@@ -194,6 +194,9 @@
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="MainMenuButton.ShowMenu" />
+  <action id="ManageDotNetSdk">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="MaximizeToolWindow">
     <mouse-shortcut keystroke="shift button1" />
   </action>

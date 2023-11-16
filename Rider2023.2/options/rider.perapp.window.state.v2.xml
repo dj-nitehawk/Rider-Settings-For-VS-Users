@@ -33,8 +33,7 @@
             352,
             963
           ],
-          "isVisible": true,
-          "weight": 0.16015625,
+          "weight": 0.14505208,
           "sideWeight": 0.4994681,
           "isSplit": true
         },
@@ -48,7 +47,8 @@
             321
           ],
           "contentUiType": "COMBO",
-          "weight": 0.16015625,
+          "isVisible": true,
+          "weight": 0.14505208,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -89,7 +89,8 @@
             514
           ],
           "type": "FLOATING",
-          "weight": 0.2989341,
+          "isActiveOnStart": true,
+          "weight": 0.32994187,
           "sideWeight": 0.5005133
         },
         {
@@ -146,7 +147,7 @@
           "isAutoHide": true,
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.2989341,
+          "weight": 0.32994187,
           "sideWeight": 0.5005133
         },
         {
@@ -163,7 +164,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.2989341,
+          "weight": 0.32994187,
           "sideWeight": 0.49972796
         },
         {
@@ -179,7 +180,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.2989341
+          "weight": 0.32994187
         },
         {
           "id": "Inspection Results",
@@ -194,8 +195,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isVisible": true,
-          "weight": 0.2989341
+          "weight": 0.32994187
         },
         {
           "id": "Problems View",
@@ -211,14 +211,17 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.2989341,
+          "weight": 0.32994187,
           "sideWeight": 0.50026965
         },
         {
           "id": "Stacktrace",
           "order": 29,
           "anchor": "BOTTOM",
-          "weight": 0.29699612
+          "isAutoHide": true,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.32994187
         },
         {
           "id": "Debug",
@@ -233,7 +236,8 @@
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
-          "weight": 0.2989341
+          "isVisible": true,
+          "weight": 0.32994187
         },
         {
           "id": "Run",
@@ -247,8 +251,9 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.2989341
+          "weight": 0.32994187
         },
         {
           "id": "Find",
@@ -256,16 +261,15 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1924,
-            514,
+            1926,
+            515,
             1913,
             516
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.2989341
+          "weight": 0.32994187
         },
         {
           "id": "NuGet",
@@ -273,15 +277,15 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            313,
-            495,
-            1334,
+            350,
+            491,
+            1291,
             512
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.2989341
+          "weight": 0.32994187
         },
         {
           "id": "Endpoints",
@@ -310,6 +314,14 @@
             1854,
             158
           ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.2989341
+        },
+        {
+          "id": "Messages",
+          "order": 37,
+          "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
           "weight": 0.2989341
@@ -359,23 +371,23 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12421875,
-          "sideWeight": 0.4544962
+          "weight": 0.12578125,
+          "sideWeight": 0.45478722
         },
         {
           "id": "Notifications",
           "order": 11,
           "anchor": "RIGHT",
-          "weight": 0.12421875,
-          "sideWeight": 0.5455038,
+          "weight": 0.12369792,
+          "sideWeight": 0.54521275,
           "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16015625,
-        "bottom": 0.2989341,
-        "right": 0.12421875
+        "left": 0.14505208,
+        "bottom": 0.32994187,
+        "right": 0.12578125
       }
     }
   }
