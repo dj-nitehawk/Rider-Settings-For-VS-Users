@@ -24,6 +24,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ActivateRossyntToolWindow">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>

@@ -254,9 +254,11 @@
 	<s:String x:Key="/Default/Environment/ExternalSources/IlViewer/CodeType/@EntryValue">LowLevelCSharp</s:String>
 	
 	
+	
+	
 	<s:Boolean x:Key="/Default/Environment/General/RunTestClassesInParallel/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/LogToFile/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">2237</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">2244</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/NuGetOptions/IncludePrerelease/@EntryValue">False</s:Boolean>
 	
 	
@@ -375,7 +377,7 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05F0D1722D0C7745B8D9365C6C73D7A9/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=05F0D1722D0C7745B8D9365C6C73D7A9/Text/@EntryValue">sealed class $name$ : IPostProcessor&lt;$dto$Request, $dto$Response&gt;
 {
-    public Task PostProcessAsync($dto$Request req, $dto$Response res, HttpContext ctx, IReadOnlyCollection&lt;ValidationFailure&gt; fails, CancellationToken c)
+    public Task PostProcessAsync(IPostProcessorContext&lt;$dto$Request, $dto$Response&gt; ctx, CancellationToken c)
     {
         $END$
     }
@@ -826,7 +828,7 @@ sealed class $name$Handler : ICommandHandler&lt;$name$&gt;
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=708606B749489E419384C91A6AA44142/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=708606B749489E419384C91A6AA44142/Text/@EntryValue">sealed class $name$ : IGlobalPreProcessor
 {
-    public Task PreProcessAsync(object r, HttpContext ctx, List&lt;ValidationFailure&gt; fails, CancellationToken c)
+    public Task PreProcessAsync(IPreProcessorContext ctx, CancellationToken c)
     {
         $END$
     }
@@ -979,7 +981,7 @@ using System.Linq;</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2F01B6412BAED4FBEDBDF8C42CAE748/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2F01B6412BAED4FBEDBDF8C42CAE748/Text/@EntryValue">sealed class $name$ : IPreProcessor&lt;$req$Request&gt;
 {
-    public Task PreProcessAsync($req$Request r, HttpContext ctx, List&lt;ValidationFailure&gt; fails, CancellationToken c)
+    public Task PreProcessAsync(IPreProcessorContext&lt;$req$Request&gt; ctx, CancellationToken c)
     {
         $END$
     }
@@ -1099,7 +1101,7 @@ $END$$SELECTION$</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E0AE343F732B3A4D82626D43412F1AEA/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=E0AE343F732B3A4D82626D43412F1AEA/Text/@EntryValue">sealed class $name$ : IGlobalPostProcessor
 {
-    public Task PostProcessAsync(object req, object? res, HttpContext ctx, IReadOnlyCollection&lt;ValidationFailure&gt; fails, CancellationToken c)
+    public Task PostProcessAsync(IPostProcessorContext ctx, CancellationToken c)
     {
         $END$
     }

@@ -46,7 +46,6 @@ intellij.nextjs
 intellij.prettierJS
 intellij.vitejs
 intellij.webpack
-org.example.githubpang.rossynt
 org.intellij.plugins.postcss
 org.intellij.qodana
 org.jetbrains.fortea
