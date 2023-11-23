@@ -1,0 +1,67 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>EditorConfig</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.example.githubpang.rossynt.settings.PluginSettingsConfigurable&quot;
+  }
+}</component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1696760591573</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1696760591573</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="552" y="104" width="948" height="696" key="#Run/Debug_Configuration_Templates" timestamp="1698849121173">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="552" y="104" width="948" height="696" key="#Run/Debug_Configuration_Templates/1920.0.1920.1032/0.0.1920.1032" timestamp="1698849121173" />
+        <state x="552" y="180" width="816" height="706" key="Rider.ProjectTemplateDialog.Size" timestamp="1699683056564">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="552" y="180" width="816" height="706" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1699683056564" />
+        <state x="86" y="37" width="1638" height="969" key="SettingsEditor" timestamp="1698811517972">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="86" y="37" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1698811517972" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.28963795" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

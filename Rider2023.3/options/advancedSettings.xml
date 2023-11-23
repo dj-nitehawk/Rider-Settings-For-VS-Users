@@ -1,0 +1,13 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="debugger.inlay.run.to.cursor" value="false" />
+        <entry key="ide.max.recent.projects" value="25" />
+        <entry key="localHistory.daysToKeep" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
