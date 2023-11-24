@@ -4,6 +4,8 @@
       <NestingRule child-file-suffix=".Data.cs" parent-file-suffix=".Endpoint.cs" />
       <NestingRule child-file-suffix=".Mapper.cs" parent-file-suffix=".Endpoint.cs" />
       <NestingRule child-file-suffix=".Models.cs" parent-file-suffix=".Endpoint.cs" />
+      <NestingRule child-file-suffix=".Request.cs" parent-file-suffix=".Endpoint.cs" />
+      <NestingRule child-file-suffix=".Response.cs" parent-file-suffix=".Endpoint.cs" />
       <NestingRule child-file-suffix=".asax.cs" parent-file-suffix=".asax" />
       <NestingRule child-file-suffix=".asax.designer.cs" parent-file-suffix=".asax" />
       <NestingRule child-file-suffix=".asax.designer.vb" parent-file-suffix=".asax" />
