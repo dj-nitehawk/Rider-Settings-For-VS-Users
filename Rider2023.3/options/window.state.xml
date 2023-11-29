@@ -1,10 +1,10 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.1920.1080" x="693" y="127" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1903" height="475" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1903" height="475" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1903" height="475" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1903" height="475" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1908" height="476" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1908" height="476" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1908" height="476" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1908" height="476" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1908" height="476" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1908" height="476" />
     <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1908" height="476" />
@@ -24,7 +24,7 @@
     <size key="find.popup.0.0.1920.1080" width="801" height="747" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="0" width="1920" height="1032" extendedState="6" />
+    <frame x="-8" y="-8" width="1936" height="1048" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="742" y="261" key="#Trusted_Locations" timestamp="1697388292370">
@@ -39,18 +39,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="677" y="371" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder/1920.0.1920.1032/0.0.1920.1032" timestamp="1696675443244" />
-    <state x="540" y="178" key="IDE.errors.dialog" timestamp="1700754248888">
+    <state x="677" y="371" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogReference" timestamp="1701230424697">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="540" y="178" key="IDE.errors.dialog/1920.0.1920.1032/0.0.1920.1032" timestamp="1700754248888" />
+    <state x="677" y="371" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogReference/1920.0.1920.1032/0.0.1920.1032" timestamp="1701230424697" />
+    <state x="540" y="178" key="IDE.errors.dialog" timestamp="1701136347812">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="540" y="178" key="IDE.errors.dialog/1920.0.1920.1032/0.0.1920.1032" timestamp="1701136347812" />
     <state x="454" y="0" width="600" height="332" key="RegExHelpPopup" timestamp="1697787617041">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="454" y="0" width="600" height="332" key="RegExHelpPopup/1920.0.1920.1032/0.0.1920.1032" timestamp="1697787617041" />
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1701019877620">
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1701244829242">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1701019877620" />
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1701244829242" />
     <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1080/0.0.1920.1080" timestamp="1699452917736" />
     <state x="487" y="401" width="537" height="114" key="ide.config.custom.settings" timestamp="1696859379630">
       <screen x="0" y="0" width="1920" height="1032" />

@@ -38,10 +38,12 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="HORIZONTAL_SCROLL_OFFSET" value="1" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />

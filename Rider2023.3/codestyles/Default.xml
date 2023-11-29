@@ -1,4 +1,12 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="170" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <Markdown>
+    <option name="WRAP_TEXT_IF_LONG" value="false" />
+    <option name="WRAP_TEXT_INSIDE_BLOCKQUOTES" value="false" />
+  </Markdown>
+  <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="999" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
 </code_scheme>

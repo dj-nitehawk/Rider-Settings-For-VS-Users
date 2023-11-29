@@ -16,6 +16,16 @@
         <observation name="explicitSelect" value="117.0" />
         <observation name="typedSelect" value="47.0" />
       </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="cancelled" value="226.0" />
+        <observation name="explicitSelect" value="71.0" />
+        <observation name="typedSelect" value="59.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="cancelled" value="40.0" />
+        <observation name="explicitSelect" value="34.0" />
+        <observation name="typedSelect" value="21.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="23-11-2023">
@@ -27,6 +37,12 @@
       <dailyData date="26-11-2023">
         <observation name="BASIC" value="235.0" />
       </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="BASIC" value="178.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="BASIC" value="67.0" />
+      </dailyData>
     </factor>
     <factor id="completionUsage">
       <dailyData date="23-11-2023">
@@ -37,6 +53,12 @@
       </dailyData>
       <dailyData date="26-11-2023">
         <observation name="count" value="310.0" />
+      </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="count" value="356.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="count" value="95.0" />
       </dailyData>
     </factor>
     <factor id="fullLineFactors" />
@@ -60,6 +82,20 @@
         <observation name="4" value="1.0" />
         <observation name="5" value="2.0" />
       </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="0" value="61.0" />
+        <observation name="1" value="8.0" />
+        <observation name="17" value="1.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="0" value="26.0" />
+        <observation name="1" value="3.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="1.0" />
+        <observation name="5" value="2.0" />
+      </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
       <dailyData date="23-11-2023">
@@ -73,6 +109,14 @@
       <dailyData date="26-11-2023">
         <observation name="total" value="84.0" />
         <observation name="withMnemonics" value="57.0" />
+      </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="total" value="57.0" />
+        <observation name="withMnemonics" value="30.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="total" value="32.0" />
+        <observation name="withMnemonics" value="21.0" />
       </dailyData>
     </factor>
     <factor id="prefixLength">
@@ -106,6 +150,25 @@
         <observation name="8" value="2.0" />
         <observation name="9" value="2.0" />
       </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="0" value="2.0" />
+        <observation name="1" value="12.0" />
+        <observation name="2" value="20.0" />
+        <observation name="3" value="23.0" />
+        <observation name="4" value="9.0" />
+        <observation name="5" value="2.0" />
+        <observation name="7" value="1.0" />
+        <observation name="8" value="2.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="0" value="2.0" />
+        <observation name="2" value="6.0" />
+        <observation name="3" value="11.0" />
+        <observation name="4" value="9.0" />
+        <observation name="5" value="3.0" />
+        <observation name="8" value="2.0" />
+        <observation name="9" value="1.0" />
+      </dailyData>
     </factor>
     <factor id="prefixMatchingType">
       <dailyData date="23-11-2023">
@@ -122,6 +185,12 @@
         <observation name="START_WITH" value="75.0" />
         <observation name="WORDS_FIRST_CHAR" value="1.0" />
       </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="START_WITH" value="56.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="START_WITH" value="32.0" />
+      </dailyData>
     </factor>
     <factor id="templatesUsage">
       <dailyData date="23-11-2023">
@@ -132,6 +201,12 @@
       </dailyData>
       <dailyData date="26-11-2023">
         <observation name="totalStartingWithPrefix" value="53.0" />
+      </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="totalStartingWithPrefix" value="33.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="totalStartingWithPrefix" value="13.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
@@ -146,6 +221,14 @@
       <dailyData date="26-11-2023">
         <observation name="average" value="335.938726" />
         <observation name="count" value="408.0" />
+      </dailyData>
+      <dailyData date="28-11-2023">
+        <observation name="average" value="203.692857" />
+        <observation name="count" value="280.0" />
+      </dailyData>
+      <dailyData date="29-11-2023">
+        <observation name="average" value="206.23622" />
+        <observation name="count" value="127.0" />
       </dailyData>
     </factor>
   </component>
