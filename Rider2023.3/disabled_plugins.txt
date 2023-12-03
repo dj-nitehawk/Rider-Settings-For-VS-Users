@@ -17,6 +17,8 @@ com.dmarcotte.handlebars
 com.intellij.css
 com.intellij.database
 com.intellij.jsonpath
+com.intellij.ml.llm
+com.intellij.plugins.dependencyAnalysis
 com.intellij.plugins.html.instantEditing
 com.intellij.plugins.resharperkeymap
 com.intellij.plugins.visualassistkeymap

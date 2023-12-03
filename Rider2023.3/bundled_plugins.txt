@@ -34,8 +34,6 @@ com.jetbrains.dotCommon|null
 
 com.jetbrains.dotCover|null
 
-com.jetbrains.dotTrace.dotMemory|null
-
 com.jetbrains.dpa|null
 
 com.jetbrains.performancePlugin.async|Other Tools
