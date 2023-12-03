@@ -24,7 +24,7 @@
     <size key="find.popup.0.0.1920.1080" width="801" height="747" />
   </component>
   <component name="WindowManager">
-    <frame x="-8" y="-8" width="1936" height="1048" extendedState="6" />
+    <frame x="260" y="20" width="1400" height="992" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="742" y="261" key="#Trusted_Locations" timestamp="1697388292370">
@@ -43,18 +43,18 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="677" y="371" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogReference/1920.0.1920.1032/0.0.1920.1032" timestamp="1701230424697" />
-    <state x="540" y="178" key="IDE.errors.dialog" timestamp="1701136347812">
+    <state x="540" y="178" key="IDE.errors.dialog" timestamp="1701420011356">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="540" y="178" key="IDE.errors.dialog/1920.0.1920.1032/0.0.1920.1032" timestamp="1701136347812" />
+    <state x="540" y="178" key="IDE.errors.dialog/1920.0.1920.1032/0.0.1920.1032" timestamp="1701420011356" />
     <state x="454" y="0" width="600" height="332" key="RegExHelpPopup" timestamp="1697787617041">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="454" y="0" width="600" height="332" key="RegExHelpPopup/1920.0.1920.1032/0.0.1920.1032" timestamp="1697787617041" />
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1701244829242">
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1701576975533">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1701244829242" />
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1701576975533" />
     <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1080/0.0.1920.1080" timestamp="1699452917736" />
     <state x="487" y="401" width="537" height="114" key="ide.config.custom.settings" timestamp="1696859379630">
       <screen x="0" y="0" width="1920" height="1032" />

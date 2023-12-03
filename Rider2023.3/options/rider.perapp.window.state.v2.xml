@@ -33,7 +33,9 @@
             352,
             963
           ],
-          "weight": 0.16484375,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.16588542,
           "sideWeight": 0.4994681,
           "isSplit": true
         },
@@ -47,9 +49,7 @@
             321
           ],
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.16484375,
+          "weight": 0.1653646,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -63,7 +63,6 @@
             514
           ],
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.16432291,
           "isSplit": true
         },
@@ -179,7 +178,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.32994187
         },
@@ -196,6 +194,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.32994187
         },
@@ -212,7 +211,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187,
           "sideWeight": 0.50026965
         },
@@ -253,7 +251,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isShowStripeButton": false,
           "weight": 0.32994187
         },
         {
@@ -270,6 +267,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -372,7 +370,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12734374,
+          "weight": 0.12942708,
           "sideWeight": 0.45478722
         },
         {
@@ -385,16 +383,16 @@
           "id": "Notifications",
           "order": 11,
           "anchor": "RIGHT",
-          "weight": 0.12838542,
+          "weight": 0.12734374,
           "sideWeight": 0.54521275,
           "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16484375,
+        "left": 0.16588542,
         "bottom": 0.32994187,
-        "right": 0.12734374
+        "right": 0.12942708
       }
     }
   }
