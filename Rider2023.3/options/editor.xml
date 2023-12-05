@@ -1,5 +1,6 @@
 <application>
   <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
@@ -62,6 +63,10 @@
     <option name="AUTO_QUOTE_PROP_NAME" value="false" />
     <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
     <option name="ESCAPE_PASTED_TEXT" value="false" />
+  </component>
+  <component name="MarkdownCodeFoldingSettings">
+    <option name="collapseFrontMatter" value="false" />
+    <option name="collapseTableOfContents" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />

@@ -162,6 +162,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "weight": 0.32994187,
           "sideWeight": 0.49972796
         },
@@ -174,12 +175,10 @@
             1928,
             815,
             1911,
-            211
+            215
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -212,8 +211,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187,
           "sideWeight": 0.50026965
         },
@@ -286,7 +283,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
