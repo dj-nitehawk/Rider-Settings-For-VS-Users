@@ -46,6 +46,11 @@
         <observation name="explicitSelect" value="13.0" />
         <observation name="typedSelect" value="9.0" />
       </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="cancelled" value="15.0" />
+        <observation name="explicitSelect" value="7.0" />
+        <observation name="typedSelect" value="11.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="23-11-2023">
@@ -74,6 +79,9 @@
       </dailyData>
       <dailyData date="04-12-2023">
         <observation name="BASIC" value="33.0" />
+      </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="BASIC" value="18.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -104,8 +112,10 @@
       <dailyData date="04-12-2023">
         <observation name="count" value="68.0" />
       </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="count" value="33.0" />
+      </dailyData>
     </factor>
-    <factor id="fullLineFactors" />
     <factor id="itemPosition">
       <dailyData date="23-11-2023">
         <observation name="0" value="18.0" />
@@ -160,6 +170,11 @@
         <observation name="0" value="12.0" />
         <observation name="6" value="1.0" />
       </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="0" value="5.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="1.0" />
+      </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
       <dailyData date="23-11-2023">
@@ -197,6 +212,10 @@
       <dailyData date="04-12-2023">
         <observation name="total" value="12.0" />
         <observation name="withMnemonics" value="11.0" />
+      </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="total" value="5.0" />
+        <observation name="withMnemonics" value="4.0" />
       </dailyData>
     </factor>
     <factor id="prefixLength">
@@ -288,6 +307,13 @@
         <observation name="6" value="1.0" />
         <observation name="7" value="1.0" />
       </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="0" value="2.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="2.0" />
+        <observation name="6" value="1.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
     </factor>
     <factor id="prefixMatchingType">
       <dailyData date="23-11-2023">
@@ -324,6 +350,9 @@
       <dailyData date="04-12-2023">
         <observation name="START_WITH" value="12.0" />
       </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="START_WITH" value="2.0" />
+      </dailyData>
     </factor>
     <factor id="templatesUsage">
       <dailyData date="23-11-2023">
@@ -352,6 +381,9 @@
       </dailyData>
       <dailyData date="04-12-2023">
         <observation name="totalStartingWithPrefix" value="2.0" />
+      </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="totalStartingWithPrefix" value="3.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
@@ -390,6 +422,10 @@
       <dailyData date="04-12-2023">
         <observation name="average" value="157.622222" />
         <observation name="count" value="45.0" />
+      </dailyData>
+      <dailyData date="05-12-2023">
+        <observation name="average" value="124.805555" />
+        <observation name="count" value="36.0" />
       </dailyData>
     </factor>
   </component>
