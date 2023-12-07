@@ -18,7 +18,7 @@
       </component>
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "actions.on.save"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
       <component name="SvnConfiguration">
@@ -42,10 +42,10 @@
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
         <state x="552" y="180" width="816" height="706" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1701162353726" />
-        <state x="174" y="30" width="1638" height="969" key="SettingsEditor" timestamp="1701244000278">
+        <state x="174" y="30" width="1638" height="969" key="SettingsEditor" timestamp="1701951428706">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
-        <state x="174" y="30" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1701244000278" />
+        <state x="174" y="30" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1701951428706" />
       </component>
       <component name="masterDetails">
         <states>

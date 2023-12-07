@@ -17,12 +17,6 @@
       <path value="Unit Tests Tool Window Top Session Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />

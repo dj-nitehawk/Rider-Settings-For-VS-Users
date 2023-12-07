@@ -63,7 +63,6 @@
             514
           ],
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.16432291,
           "isSplit": true
         },
@@ -197,6 +196,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -213,7 +213,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187,
           "sideWeight": 0.50026965
         },
