@@ -52,6 +52,7 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="Arrangement.Rule.Edit" />
+  <action id="AssemblyDiffAction" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
@@ -97,6 +98,7 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.CopyAggregatorResult" />
   <action id="Console.TableResult.DeleteRows">
@@ -121,6 +123,7 @@
   <action id="Diff.FocusOppositePane">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomCollectionControl.Add" />
   <action id="EditPropertiesAction">
@@ -137,6 +140,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="EditorDeleteToWordStart" />
+  <action id="EditorDuplicate" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorScrollToCenter" />
@@ -157,6 +161,7 @@
   <action id="ExtractInterface" />
   <action id="ExtractMethod" />
   <action id="FileChooser.GoToRoot" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
@@ -181,6 +186,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="Graph.RouteEdges" />
+  <action id="HippieCompletion" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
@@ -236,6 +242,9 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
   </action>
@@ -270,6 +279,7 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="RiderCoveringTestsPopupCoverAllTestsAction" />
+  <action id="RiderCoveringTestsPopupDebugSelectedTestsAction" />
   <action id="RiderCoveringTestsPopupRunAllTestsAction" />
   <action id="RiderDebuggerApplyEncChagnes">
     <keyboard-shortcut first-keystroke="f12" />
@@ -277,6 +287,7 @@
   <action id="RiderNuGetContextPopupAction">
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
+  <action id="RiderNuGetToggleDependenciesExpanderAction" />
   <action id="RiderNuGetToggleInfoExpanderAction" />
   <action id="RiderProblemsViewToolsetContextPopupAction">
     <keyboard-shortcut first-keystroke="shift alt f10" />
@@ -287,6 +298,7 @@
   <action id="RiderUnitTestCoverCurrentSessionAction">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="u" />
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl u" />
@@ -306,14 +318,14 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
   <action id="SaveAll" />
   <action id="SearchEverywhere" />
-  <action id="SelectIn">
-    <keyboard-shortcut first-keystroke="alt period" />
-  </action>
+  <action id="SelectIn" />
+  <action id="SendEOF" />
   <action id="ServiceView.AddService" />
   <action id="SetShortcutAction" />
   <action id="ShelvedChanges.Rename" />
@@ -368,8 +380,10 @@
   <action id="ViewSource" />
   <action id="WelcomeScreen.CopyProjectPath" />
   <action id="XDebugger.AttachToProcess" />
+  <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
