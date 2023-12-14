@@ -9,4 +9,9 @@
     <option name="RIGHT_MARGIN" value="999" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
 </code_scheme>
