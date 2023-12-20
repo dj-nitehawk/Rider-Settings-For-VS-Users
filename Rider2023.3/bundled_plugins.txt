@@ -38,8 +38,6 @@ com.jetbrains.dpa|null
 
 com.jetbrains.performancePlugin.async|Other Tools
 
-com.jetbrains.performancePlugin.yourkit|Other Tools
-
 com.jetbrains.performancePlugin|Other Tools
 
 com.jetbrains.restClient|Microservices

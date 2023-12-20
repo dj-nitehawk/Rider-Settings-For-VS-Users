@@ -5,6 +5,7 @@
         <entry key="bigger.font.in.project.view" value="true" />
         <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="debugger.inlay.run.to.cursor" value="false" />
+        <entry key="floating.codeToolbar.hide" value="true" />
         <entry key="ide.max.recent.projects" value="25" />
         <entry key="localHistory.daysToKeep" value="1" />
       </map>
