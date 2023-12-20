@@ -10,13 +10,6 @@
           "isSplit": true
         },
         {
-          "id": "Commit",
-          "order": 1,
-          "isShowStripeButton": false,
-          "weight": 0.13776042,
-          "sideWeight": 0.4994681
-        },
-        {
           "id": "Hierarchy",
           "order": 8,
           "isShowStripeButton": false,
@@ -25,28 +18,28 @@
           "isSplit": true
         },
         {
-          "id": "Structure",
+          "id": "Commit",
           "order": 11,
           "floatingBounds": [
-            682,
-            78,
-            352,
-            963
+            731,
+            39,
+            315,
+            940
           ],
           "weight": 0.16432291,
           "sideWeight": 0.4994681,
           "isSplit": true
         },
         {
-          "id": "Unit Tests",
-          "order": 14,
+          "id": "Structure",
+          "order": 12,
           "floatingBounds": [
-            34,
-            289,
-            1832,
-            321
+            682,
+            78,
+            352,
+            963
           ],
-          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.16432291,
           "sideWeight": 0.5005319,
@@ -54,7 +47,7 @@
         },
         {
           "id": "Rossynt",
-          "order": 16,
+          "order": 17,
           "floatingBounds": [
             1923,
             513,
@@ -64,6 +57,33 @@
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.16432291,
+          "isSplit": true
+        },
+        {
+          "id": "VcsChanges",
+          "order": 18,
+          "floatingBounds": [
+            582,
+            209,
+            658,
+            470
+          ],
+          "weight": 0.16432291,
+          "sideWeight": 0.5005319,
+          "isSplit": true
+        },
+        {
+          "id": "Unit Tests",
+          "order": 20,
+          "floatingBounds": [
+            34,
+            289,
+            1832,
+            321
+          ],
+          "contentUiType": "COMBO",
+          "weight": 0.16432291,
+          "sideWeight": 0.5005319,
           "isSplit": true
         },
         {
@@ -102,9 +122,18 @@
           "id": "Version Control",
           "order": 8,
           "anchor": "BOTTOM",
-          "type": "SLIDING",
+          "floatingBounds": [
+            1921,
+            0,
+            1920,
+            1032
+          ],
+          "isMaximized": true,
+          "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.32994187,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.26889536,
           "sideWeight": 0.50027204
         },
         {
@@ -146,7 +175,7 @@
           "isAutoHide": true,
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.32994187,
+          "weight": 0.26889536,
           "sideWeight": 0.5005133
         },
         {
@@ -180,7 +209,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.32994187
+          "weight": 0.26889536
         },
         {
           "id": "Inspection Results",
@@ -211,7 +240,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.32994187,
+          "weight": 0.7059108,
           "sideWeight": 0.50026965
         },
         {
@@ -235,7 +264,7 @@
             514
           ],
           "type": "FLOATING",
-          "weight": 0.32994187
+          "weight": 0.7059108
         },
         {
           "id": "Run",
@@ -281,7 +310,8 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.32994187
+          "isActiveOnStart": true,
+          "weight": 0.26889536
         },
         {
           "id": "Endpoints",
@@ -296,7 +326,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.32994187,
+          "weight": 0.26889536,
           "sideWeight": 0.5005319
         },
         {
@@ -312,7 +342,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.32994187
+          "weight": 0.26889536
         },
         {
           "id": "Messages",
@@ -388,7 +418,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.16432291,
-        "bottom": 0.32994187,
+        "bottom": 0.26889536,
         "right": 0.12786458
       }
     }

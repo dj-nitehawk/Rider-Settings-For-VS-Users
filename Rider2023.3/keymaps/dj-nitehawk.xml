@@ -172,6 +172,9 @@
   <action id="Forward" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
+  <action id="Git.Squash.Commits">
+    <mouse-shortcut keystroke="shift button3" />
+  </action>
   <action id="GotoAction" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl period" />
@@ -203,9 +206,6 @@
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="MainMenuButton.ShowMenu" />
-  <action id="ManageDotNetSdk">
-    <keyboard-shortcut first-keystroke="ctrl alt k" />
-  </action>
   <action id="MaximizeToolWindow">
     <mouse-shortcut keystroke="shift button1" />
   </action>
@@ -376,6 +376,13 @@
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="ViewSource" />
   <action id="WelcomeScreen.CopyProjectPath" />
