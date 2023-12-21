@@ -1,7 +1,19 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CommitMessageInspectionProfile">
+        <profile version="1.0">
+          <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true" />
+        </profile>
+      </component>
       <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="Git.Settings">
+        <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+        <option name="PUSH_AUTO_UPDATE" value="true" />
+      </component>
+      <component name="GithubDefaultAccount">
+        <option name="defaultAccountId" value="9b5e5ae3-0aa2-4a18-9caf-83af35f2b90f" />
+      </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
           <profile-state>
@@ -16,11 +28,14 @@
           </profile-state>
         </entry>
       </component>
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "vcs.Git"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+      <component name="ShelveChangesManager">
+        <option name="remove_strategy" value="true" />
+      </component>
       <component name="SvnConfiguration">
         <configuration />
       </component>
@@ -33,6 +48,14 @@
         </task>
         <servers />
       </component>
+      <component name="VcsManagerConfiguration">
+        <option name="CHECK_NEW_TODO" value="false" />
+        <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
+        <confirmRemoveEmptyChangelist value="2" />
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+        <option name="MAXIMUM_HISTORY_ROWS" value="500" />
+        <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+      </component>
       <component name="WindowStateProjectService">
         <state x="552" y="104" width="948" height="696" key="#Run/Debug_Configuration_Templates" timestamp="1698849121173">
           <screen x="0" y="0" width="1920" height="1032" />
@@ -42,10 +65,10 @@
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
         <state x="425" y="121" width="1063" height="706" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1702094636036" />
-        <state x="174" y="30" width="1638" height="969" key="SettingsEditor" timestamp="1703133648959">
+        <state x="174" y="30" width="1638" height="969" key="SettingsEditor" timestamp="1703170985692">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
-        <state x="174" y="30" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1703133648959" />
+        <state x="174" y="30" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1703170985692" />
       </component>
       <component name="masterDetails">
         <states>

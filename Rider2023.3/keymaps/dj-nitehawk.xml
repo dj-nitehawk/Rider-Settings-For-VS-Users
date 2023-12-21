@@ -62,9 +62,15 @@
   <action id="CallHierarchy" />
   <action id="ChangeSignature" />
   <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.GroupBy.Module" />
+  <action id="ChangesView.Move" />
   <action id="ChangesView.Rename" />
+  <action id="ChangesView.Revert" />
   <action id="ChangesView.SetDefault" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
   <action id="CloseAllEditorsButActive">
@@ -170,10 +176,20 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="Forward" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
+  </action>
+  <action id="Git.Checkout.Branch">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="Git.Squash.Commits">
     <mouse-shortcut keystroke="shift button3" />
+  </action>
+  <action id="GitNewBranchAction">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="n" />
   </action>
   <action id="GotoAction" />
   <action id="GotoDeclaration">
@@ -206,9 +222,7 @@
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="MainMenuButton.ShowMenu" />
-  <action id="MaximizeToolWindow">
-    <mouse-shortcut keystroke="shift button1" />
-  </action>
+  <action id="MaximizeToolWindow" />
   <action id="Move">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
@@ -327,6 +341,7 @@
   <action id="SelectIn" />
   <action id="SendEOF" />
   <action id="ServiceView.AddService" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="SetShortcutAction" />
   <action id="ShelvedChanges.Rename" />
   <action id="ShowIntentionActions">
@@ -355,6 +370,7 @@
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowModules" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleBookmark" />
   <action id="ToggleCompactMode">
     <keyboard-shortcut first-keystroke="f1" />
@@ -368,22 +384,26 @@
   <action id="Unscramble" />
   <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.ReadAccess" />
+  <action id="UsageGrouping.Directory" />
   <action id="UsageGrouping.FlattenModules" />
   <action id="UsageGrouping.Module" />
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="Vcs.Show.Local.Changes">
-    <keyboard-shortcut first-keystroke="alt g" />
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="WelcomeScreen.CopyProjectPath" />
   <action id="XDebugger.AttachToProcess" />

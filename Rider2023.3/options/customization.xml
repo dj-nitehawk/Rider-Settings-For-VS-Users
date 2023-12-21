@@ -277,22 +277,10 @@
       <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="main.toolbar.git.Branches" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="CloseAllEditors" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="3">
