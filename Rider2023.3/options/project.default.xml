@@ -18,7 +18,7 @@
       </component>
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
       <component name="SvnConfiguration">
@@ -42,10 +42,10 @@
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
         <state x="425" y="121" width="1063" height="706" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1702094636036" />
-        <state x="174" y="30" width="1638" height="969" key="SettingsEditor" timestamp="1703090472287">
+        <state x="174" y="30" width="1638" height="969" key="SettingsEditor" timestamp="1703133648959">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
-        <state x="174" y="30" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1703090472287" />
+        <state x="174" y="30" width="1638" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1703133648959" />
       </component>
       <component name="masterDetails">
         <states>

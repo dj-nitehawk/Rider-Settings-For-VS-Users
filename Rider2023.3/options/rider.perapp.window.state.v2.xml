@@ -39,7 +39,6 @@
             352,
             963
           ],
-          "isActiveOnStart": true,
           "weight": 0.16432291,
           "sideWeight": 0.5005319,
           "isSplit": true
@@ -81,6 +80,7 @@
             321
           ],
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.16432291,
           "sideWeight": 0.5005319,
@@ -122,16 +122,17 @@
           "id": "Version Control",
           "order": 8,
           "anchor": "BOTTOM",
+          "isAutoHide": true,
           "floatingBounds": [
             1921,
             0,
-            1920,
-            1032
+            1915,
+            1028
           ],
           "isMaximized": true,
           "type": "FLOATING",
-          "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.26889536,
           "sideWeight": 0.50027204
         },
@@ -190,7 +191,8 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.32994187,
+          "isActiveOnStart": true,
+          "weight": 0.26889536,
           "sideWeight": 0.49972796
         },
         {
@@ -202,7 +204,7 @@
             1928,
             815,
             1911,
-            215
+            218
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
@@ -239,7 +241,8 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.7059108,
+          "isActiveOnStart": true,
+          "weight": 0.26889536,
           "sideWeight": 0.50026965
         },
         {

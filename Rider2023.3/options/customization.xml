@@ -277,7 +277,7 @@
       <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="1">
+    <group value="main.toolbar.git.Branches" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
@@ -289,7 +289,7 @@
       <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="main.toolbar.git.Branches" is_action="true" action_type="1" position="2">
+    <group seperator="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
@@ -299,12 +299,6 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RiderOpenSolution" is_action="true" action_type="1" position="4">
