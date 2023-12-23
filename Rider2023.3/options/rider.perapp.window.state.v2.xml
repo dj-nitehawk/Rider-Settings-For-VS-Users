@@ -39,8 +39,8 @@
             352,
             963
           ],
-          "isActiveOnStart": true,
-          "weight": 0.16432291,
+          "isVisible": true,
+          "weight": 0.1653646,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -81,8 +81,7 @@
             321
           ],
           "contentUiType": "COMBO",
-          "isVisible": true,
-          "weight": 0.16432291,
+          "weight": 0.1653646,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -131,8 +130,6 @@
           ],
           "isMaximized": true,
           "type": "FLOATING",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.26889536,
           "sideWeight": 0.50027204
         },
@@ -243,7 +240,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.26889536,
           "sideWeight": 0.50026965
         },
@@ -268,7 +264,6 @@
             514
           ],
           "type": "FLOATING",
-          "isVisible": true,
           "weight": 0.7059108
         },
         {
@@ -284,6 +279,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.26889536
         },
         {
@@ -300,7 +296,8 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.32994187
+          "isVisible": true,
+          "weight": 0.26889536
         },
         {
           "id": "NuGet",
@@ -421,7 +418,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16432291,
+        "left": 0.1653646,
         "bottom": 0.26889536,
         "right": 0.12786458
       }
