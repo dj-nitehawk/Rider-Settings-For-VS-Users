@@ -1,5 +1,6 @@
 AngularJS
 Docker
+Git4Idea
 HtmlTools
 JSIntentionPowerPack
 JavaScript
@@ -54,6 +55,7 @@ org.intellij.plugins.postcss
 org.intellij.qodana
 org.jetbrains.fortea
 org.jetbrains.plugins.docker.gateway
+org.jetbrains.plugins.github
 org.jetbrains.plugins.gitlab
 org.jetbrains.plugins.less
 org.jetbrains.plugins.node-remote-interpreter
