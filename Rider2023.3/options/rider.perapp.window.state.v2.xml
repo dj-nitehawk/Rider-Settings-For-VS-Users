@@ -31,49 +31,8 @@
           "isSplit": true
         },
         {
-          "id": "Structure",
-          "order": 12,
-          "floatingBounds": [
-            682,
-            78,
-            352,
-            963
-          ],
-          "isVisible": true,
-          "weight": 0.1653646,
-          "sideWeight": 0.5005319,
-          "isSplit": true
-        },
-        {
-          "id": "Rossynt",
-          "order": 17,
-          "floatingBounds": [
-            1923,
-            513,
-            1916,
-            514
-          ],
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.16432291,
-          "isSplit": true
-        },
-        {
-          "id": "VcsChanges",
-          "order": 18,
-          "floatingBounds": [
-            582,
-            209,
-            658,
-            470
-          ],
-          "weight": 0.16432291,
-          "sideWeight": 0.5005319,
-          "isSplit": true
-        },
-        {
           "id": "Unit Tests",
-          "order": 20,
+          "order": 12,
           "floatingBounds": [
             34,
             289,
@@ -81,7 +40,47 @@
             321
           ],
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.1653646,
+          "sideWeight": 0.5005319,
+          "isSplit": true
+        },
+        {
+          "id": "Structure",
+          "order": 13,
+          "floatingBounds": [
+            682,
+            78,
+            352,
+            963
+          ],
+          "weight": 0.16692708,
+          "sideWeight": 0.5005319,
+          "isSplit": true
+        },
+        {
+          "id": "Rossynt",
+          "order": 18,
+          "floatingBounds": [
+            1923,
+            513,
+            1916,
+            514
+          ],
+          "weight": 0.16432291,
+          "isSplit": true
+        },
+        {
+          "id": "VcsChanges",
+          "order": 19,
+          "floatingBounds": [
+            582,
+            209,
+            658,
+            470
+          ],
+          "weight": 0.16432291,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -108,7 +107,7 @@
             514
           ],
           "type": "FLOATING",
-          "weight": 0.32994187,
+          "weight": 0.26889536,
           "sideWeight": 0.5005133
         },
         {
@@ -189,7 +188,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.26889536,
           "sideWeight": 0.49972796
         },
@@ -239,7 +237,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.26889536,
           "sideWeight": 0.50026965
         },
@@ -264,7 +261,7 @@
             514
           ],
           "type": "FLOATING",
-          "weight": 0.7059108
+          "weight": 0.26889536
         },
         {
           "id": "Run",
@@ -279,6 +276,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isShowStripeButton": false,
           "weight": 0.26889536
         },
         {
@@ -398,7 +396,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12890625,
+          "weight": 0.13046876,
           "sideWeight": 0.45478722
         },
         {
@@ -419,7 +417,7 @@
         "top": 0.33,
         "left": 0.1653646,
         "bottom": 0.26889536,
-        "right": 0.12890625
+        "right": 0.13046876
       }
     }
   }
