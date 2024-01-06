@@ -40,8 +40,6 @@
             321
           ],
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.16588542,
           "sideWeight": 0.5005319,
           "isSplit": true
@@ -55,7 +53,9 @@
             352,
             963
           ],
-          "weight": 0.16588542,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.16953126,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -206,7 +206,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -261,6 +260,7 @@
             514
           ],
           "type": "FLOATING",
+          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
@@ -301,9 +301,9 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            350,
+            358,
             643,
-            1291,
+            1279,
             363
           ],
           "type": "FLOATING",
@@ -324,7 +324,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187,
           "sideWeight": 0.5005319
         },
@@ -396,13 +395,16 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.13046876,
-          "sideWeight": 0.45478722
+          "weight": 0.13098958,
+          "sideWeight": 0.47596154
         },
         {
           "id": "Coverage",
           "order": 11,
           "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.13046876,
+          "sideWeight": 0.52403843,
           "isSplit": true
         },
         {
@@ -415,9 +417,9 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16588542,
+        "left": 0.16953126,
         "bottom": 0.32994187,
-        "right": 0.13046876
+        "right": 0.13098958
       }
     }
   }
