@@ -34,11 +34,11 @@
         <option name="openDirectoriesWithSingleClick" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "actions.on.save"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
-}]]></component>
+}</component>
       <component name="ShelveChangesManager">
         <option name="remove_strategy" value="true" />
       </component>
@@ -67,10 +67,10 @@
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
         <state x="552" y="104" width="948" height="696" key="#Run/Debug_Configuration_Templates/1920.0.1920.1032/0.0.1920.1032" timestamp="1698849121173" />
-        <state x="425" y="121" width="1063" height="706" key="Rider.ProjectTemplateDialog.Size" timestamp="1702094636036">
+        <state x="425" y="121" width="1063" height="706" key="Rider.ProjectTemplateDialog.Size" timestamp="1705215450895">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
-        <state x="425" y="121" width="1063" height="706" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1702094636036" />
+        <state x="425" y="121" width="1063" height="706" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1705215450895" />
         <state x="174" y="30" width="1638" height="969" key="SettingsEditor" timestamp="1704529137242">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>

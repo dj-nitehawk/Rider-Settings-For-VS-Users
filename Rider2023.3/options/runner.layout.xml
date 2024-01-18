@@ -66,9 +66,15 @@
       <ViewImpl>
         <option name="ID" value="HTTP_REQUEST_TAB" />
         <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
       </ViewImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="1" />
+        <option name="index" value="1" />
       </TabImpl>
     </runner>
     <runner id="Embedded http client">
