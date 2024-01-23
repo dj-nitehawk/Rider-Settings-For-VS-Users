@@ -40,7 +40,7 @@
     <size key="GridCell.Tab.3.bottom.1920.0.1920.1080" width="1908" height="476" />
   </component>
   <component name="WindowManager">
-    <frame x="-8" y="-8" width="1930" height="1042" extendedState="6" />
+    <frame x="-8" y="-8" width="1936" height="1048" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="739" y="170" key="#HTTP_Proxy" timestamp="1702114626482">
@@ -67,10 +67,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="454" y="0" width="600" height="332" key="RegExHelpPopup/1920.0.1920.1032/0.0.1920.1032" timestamp="1697787617041" />
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1705980425584">
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1705981347797">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1705980425584" />
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1705981347797" />
     <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1080/0.0.1920.1080" timestamp="1699452917736" />
     <state width="300" height="517" key="manage.recent.projects.popup" timestamp="1700737164878">
       <screen x="0" y="0" width="1920" height="1032" />

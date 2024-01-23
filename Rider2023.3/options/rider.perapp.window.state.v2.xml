@@ -40,6 +40,7 @@
             321
           ],
           "contentUiType": "COMBO",
+          "isVisible": true,
           "weight": 0.16796875,
           "sideWeight": 0.5005319,
           "isSplit": true
@@ -53,7 +54,6 @@
             352,
             963
           ],
-          "isVisible": true,
           "weight": 0.16796875,
           "sideWeight": 0.5005319,
           "isSplit": true

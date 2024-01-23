@@ -8,15 +8,18 @@ PermanentUserId
 
 consentOptions/
 dotTrace/
+IntelliJ/
 Rider2023.2/
 Rider2023.3/.lock
 Rider2023.3/c.kdbx
 Rider2023.3/c.pwd
+Rider2023.3/event-log-metadata/
 Rider2023.3/plugin_DC.license
 Rider2023.3/plugin_DPN.license
 Rider2023.3/rider.key
 Rider2023.3/updatedBrokenPlugins.db
 Rider2023.3/global-model-cache/
+Rider2023.3/options/aeIdeId.xml
 Rider2023.3/options/actionSummary.xml
 Rider2023.3/options/features.usage.statistics.xml
 Rider2023.3/options/github.xml
