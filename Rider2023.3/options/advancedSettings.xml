@@ -8,6 +8,7 @@
         <entry key="floating.codeToolbar.hide" value="true" />
         <entry key="ide.max.recent.projects" value="25" />
         <entry key="localHistory.daysToKeep" value="1" />
+        <entry key="start.run.configurations.pinned" value="true" />
       </map>
     </option>
   </component>

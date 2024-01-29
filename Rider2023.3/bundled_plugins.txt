@@ -28,6 +28,8 @@ com.intellij.swagger|Microservices
 
 com.intellij|null
 
+com.jetbrains.ae.database|null
+
 com.jetbrains.codeWithMe|null
 
 com.jetbrains.dotCommon|null
