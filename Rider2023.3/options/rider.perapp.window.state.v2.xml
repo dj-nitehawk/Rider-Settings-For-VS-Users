@@ -40,9 +40,7 @@
             321
           ],
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.17161459,
+          "weight": 0.17005208,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -55,7 +53,8 @@
             352,
             963
           ],
-          "weight": 0.16796875,
+          "isVisible": true,
+          "weight": 0.17005208,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -192,7 +191,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187,
           "sideWeight": 0.49972796
         },
@@ -209,6 +207,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.32994187
         },
@@ -264,7 +263,6 @@
             514
           ],
           "type": "FLOATING",
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -279,7 +277,8 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isVisible": true,
+          "isActiveOnStart": true,
+          "isShowStripeButton": false,
           "weight": 0.32994187
         },
         {
@@ -296,7 +295,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isShowStripeButton": false,
+          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -312,7 +311,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
@@ -344,7 +342,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.26889536
+          "weight": 0.32994187
         },
         {
           "id": "Messages",
@@ -399,7 +397,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.13098958,
+          "weight": 0.12526041,
           "sideWeight": 0.47596154
         },
         {
@@ -415,15 +413,15 @@
           "id": "Notifications",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.13098958,
+          "weight": 0.12526041,
           "sideWeight": 0.54521275
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.17161459,
+        "left": 0.17005208,
         "bottom": 0.32994187,
-        "right": 0.13098958
+        "right": 0.12526041
       }
     }
   }
