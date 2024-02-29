@@ -13,6 +13,14 @@
         <configuration>
           <option name="groupNonPublicMembers" value="true" />
           <option name="processExceptionsOutsideMyCode" value="true" />
+          <option name="userUnhandledExceptionsIgnoreList">
+            <list>
+              <option value="System.OperationCanceledException" />
+              <option value="System.Threading.Tasks.TaskCanceledException" />
+              <option value="System.Threading.ThreadAbortException" />
+              <option value="System.IO.DirectoryNotFoundException" />
+            </list>
+          </option>
         </configuration>
       </debugger>
       <debugger id="ObjectiveC">

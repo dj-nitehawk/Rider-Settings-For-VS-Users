@@ -40,7 +40,9 @@
             321
           ],
           "contentUiType": "COMBO",
-          "weight": 0.17005208,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.16432291,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -53,8 +55,7 @@
             352,
             963
           ],
-          "isVisible": true,
-          "weight": 0.17005208,
+          "weight": 0.16432291,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -263,6 +264,7 @@
             514
           ],
           "type": "FLOATING",
+          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
@@ -278,7 +280,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isShowStripeButton": false,
           "weight": 0.32994187
         },
         {
@@ -288,14 +289,14 @@
           "isAutoHide": true,
           "floatingBounds": [
             1924,
-            512,
+            511,
             1913,
             516
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
+          "isShowStripeButton": false,
           "weight": 0.32994187
         },
         {
@@ -311,6 +312,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
@@ -397,7 +399,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12526041,
+          "weight": 0.12682292,
           "sideWeight": 0.47596154
         },
         {
@@ -413,15 +415,15 @@
           "id": "Notifications",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.12526041,
+          "weight": 0.12682292,
           "sideWeight": 0.54521275
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.17005208,
+        "left": 0.16432291,
         "bottom": 0.32994187,
-        "right": 0.12526041
+        "right": 0.12682292
       }
     }
   }
