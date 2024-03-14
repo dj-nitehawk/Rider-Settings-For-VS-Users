@@ -13,7 +13,6 @@
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="ParallelStacks" />
-        <option name="minimizedInGrid" value="true" />
         <option name="placeInGrid" value="center" />
         <option name="tabIndex" value="4" />
       </ViewImpl>

@@ -17,10 +17,10 @@
     <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1908" height="466" />
     <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1908" height="466" />
     <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1908" height="466" />
-    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1321" height="274" />
-    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1321" height="274" />
-    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1321" height="274" />
-    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1321" height="274" />
+    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1908" height="466" />
+    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1908" height="466" />
+    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1908" height="466" />
+    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1908" height="466" />
     <size key="find.popup.0.0.1920.1080" width="801" height="747" />
     <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1908" height="476" />
     <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1908" height="476" />
@@ -59,10 +59,6 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="577" y="251" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogProject/1920.0.1920.1032/0.0.1920.1032" timestamp="1708351249811" />
-    <state x="677" y="371" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogReference" timestamp="1701230424697">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="677" y="371" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogReference/1920.0.1920.1032/0.0.1920.1032" timestamp="1701230424697" />
     <state x="627" y="318" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogSolution" timestamp="1708925327429">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -71,7 +67,7 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="540" y="178" key="IDE.errors.dialog/1920.0.1920.1032/0.0.1920.1032" timestamp="1701750159120" />
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1709192492541">
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN" timestamp="1710380980618">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN.ideScale=105" timestamp="1706876722596">
@@ -82,10 +78,6 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN.ideScale=110/1920.0.1920.1032/0.0.1920.1032" timestamp="1706876659948" />
-    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1709192492541" />
-    <state width="300" height="517" key="manage.recent.projects.popup" timestamp="1700737164878">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="300" height="517" key="manage.recent.projects.popup/1920.0.1920.1032/0.0.1920.1032" timestamp="1700737164878" />
+    <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1710380980618" />
   </component>
 </application>
