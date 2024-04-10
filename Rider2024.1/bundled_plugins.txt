@@ -12,8 +12,6 @@ com.intellij.dev|null
 
 com.intellij.diagram|Other Tools
 
-com.intellij.grpc|Microservices
-
 com.intellij.llmInstaller|Other Tools
 
 com.intellij.microservices.ui|Microservices
@@ -52,8 +50,6 @@ com.jetbrains.rider.rdct-shared|null
 
 com.jetbrains.xaml.previewer|null
 
-idea.plugin.protoeditor|Microservices
-
 intellij.charts|null
 
 intellij.grid.core.impl|null
@@ -61,8 +57,6 @@ intellij.grid.core.impl|null
 intellij.grid.impl|null
 
 intellij.rider.cpp.debugger|null
-
-intellij.rider.plugins.cwm|null
 
 org.editorconfig.editorconfigjetbrains|Other Tools
 
