@@ -107,6 +107,8 @@
             514
           ],
           "type": "FLOATING",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.32994187,
           "sideWeight": 0.5005133
         },
@@ -192,6 +194,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "weight": 0.32994187,
           "sideWeight": 0.49972796
         },
@@ -280,7 +283,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -313,7 +315,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
@@ -422,7 +423,7 @@
           "id": "Notifications",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.1263021,
+          "weight": 0.12734374,
           "sideWeight": 0.54521275
         }
       ],
