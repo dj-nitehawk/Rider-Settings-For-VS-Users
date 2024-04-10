@@ -1,0 +1,4 @@
+org.example.githubpang.rossynt
+org.jetbrains.advocates.rider.plugins.dotnetwatch
+com.mallowigi
+com.intellij.resharper.HeapAllocationsViewer

@@ -1,0 +1,8 @@
+<application>
+  <component name="AtomFileIconsConfig">
+    <option name="customIconSize" value="19" />
+    <option name="customLineHeight" value="22" />
+    <option name="hasCustomIconSize" value="true" />
+    <option name="hasCustomLineHeight" value="true" />
+  </component>
+</application>

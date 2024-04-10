@@ -1,0 +1,42 @@
+<application>
+  <component name="RiderSettingsUpdater">
+    <option name="allEditorsZoom" value="1" />
+    <option name="attachDialogVersion" value="1" />
+    <option name="autoPopupSummaryInfoVersion" value="1" />
+    <option name="bigSurAlertsVersion" value="1" />
+    <option name="borderlessTitleClasspathVersion" value="2" />
+    <option name="breakOnUserUnhandledExceptionsVersion" value="1" />
+    <option name="codeVisionSettingsTransfer" value="1" />
+    <option name="commitWindowDoubleClickVersion" value="1" />
+    <option name="commonSshSettingsMigration" value="1" />
+    <option name="completionParenthesisSetting" value="1" />
+    <option name="debuggerCollectionVisualizers" value="1" />
+    <option name="debuggerInlayRunToCursor" value="2" />
+    <option name="debuggerInlineBreakpoints" value="2" />
+    <option name="eaDevelopersListVersion" value="1" />
+    <option name="eaNoDistractionModeVersion" value="3" />
+    <option name="fileChooserNativeVersion" value="2" />
+    <option name="floatingToolbar" value="1" />
+    <option name="flushAbbreviations" value="1" />
+    <option name="ignorePrecompiledAssemblies" value="1" />
+    <option name="ignoredFilesListVersion" value="1" />
+    <option name="initialTooltipDelayVersion" value="1" />
+    <option name="navBarVisibility" value="3" />
+    <option name="newCommonDebugUiVersion" value="4" />
+    <option name="newDebugUiVersion" value="5" />
+    <option name="parallelStackSwitchOnByDefault" value="1" />
+    <option name="perAppToolWindows" value="1" />
+    <option name="problemsViewGotItTooltip" value="1" />
+    <option name="registryMigrationVersion" value="1" />
+    <option name="resetNewUiLayoutForEveryone" value="1" />
+    <option name="showDiffPreviewVersion" value="1" />
+    <option name="solutionOpenVersion" value="1" />
+    <option name="storeOpenedToolwindows" value="1" />
+    <option name="thinClientCaseSensitiveCompletion" value="1" />
+    <option name="thinClientSelectAutopopupSuggestionsByChars" value="1" />
+    <option name="titleDebugVersion" value="2" />
+    <option name="trackHandledExceptionsInAsyncCodeVersion" value="2" />
+    <option name="treeHorizontalDefaultAutoscrollingVersion" value="1" />
+    <option name="userUnhandledExceptionsIgnoreListVersion" value="1" />
+  </component>
+</application>
