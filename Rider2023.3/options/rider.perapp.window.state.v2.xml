@@ -40,7 +40,6 @@
             321
           ],
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.1653646,
           "sideWeight": 0.5005319,
@@ -55,6 +54,7 @@
             352,
             963
           ],
+          "isActiveOnStart": true,
           "weight": 0.1653646,
           "sideWeight": 0.5005319,
           "isSplit": true
@@ -265,7 +265,6 @@
             514
           ],
           "type": "FLOATING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
@@ -289,8 +288,8 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1924,
-            511,
+            1925,
+            512,
             1913,
             516
           ],
@@ -313,7 +312,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
