@@ -41,6 +41,7 @@
           ],
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.16588542,
           "sideWeight": 0.5005319,
           "isSplit": true
@@ -54,7 +55,6 @@
             352,
             963
           ],
-          "isVisible": true,
           "weight": 0.16588542,
           "sideWeight": 0.5005319,
           "isSplit": true
@@ -280,7 +280,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
