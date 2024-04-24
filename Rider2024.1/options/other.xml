@@ -1,5 +1,9 @@
 <application>
-  <component name="FileEditorProviderManager">{}</component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,WinFormsEditor&quot;: &quot;text-editor&quot;
+  }
+}</component>
   <component name="NotRoamableUiSettings">
     <option name="fontFace" value="Segoe UI" />
     <option name="fontSize" value="12.0" />
@@ -52,7 +56,7 @@
     "CUSTOMIZE_ACTIONS": "attach\nvcs widget\nscript\nrun\nvcs",
     "CWM_LOGGING_VERSION": "1",
     "ChangesViewManager.DETAILS_SPLITTER_PROPORTION": "0.16875653",
-    "ColorChooser.RecentColors": "73-73-73-255,,,69-69-69-255,,,132-132-132-255,,,60-111-60-255,,,106-158-175-255,,,157-187-213-255,,,100-142-189-255,,,62-107-165-255,,,72-88-72-255,,,85-103-196-255,,,142-173-173-255,,,158-61-61-255,,,68-95-68-255,,,94-130-94-255,,,120-120-120-255,,,73-84-95-255,,,143-205-198-255,,,241-239-239-255,,,161-74-74-255,,,86-86-86-255",
+    "ColorChooser.RecentColors": "72-88-72-255,,,73-73-73-255,,,69-69-69-255,,,132-132-132-255,,,60-111-60-255,,,106-158-175-255,,,157-187-213-255,,,100-142-189-255,,,62-107-165-255,,,85-103-196-255,,,142-173-173-255,,,158-61-61-255,,,68-95-68-255,,,94-130-94-255,,,120-120-120-255,,,73-84-95-255,,,143-205-198-255,,,241-239-239-255,,,161-74-74-255,,,86-86-86-255",
     "CommitChangeListDialog.DETAILS_SHOW_OPTION_": "false",
     "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.5750916",
     "CommitChangeListDialog.SPLITTER_PROPORTION_2": "0.74840766",
@@ -70,13 +74,13 @@
     "INSPECTION_FILTER_HISTORY": "expression\nimplicit\ninconsistent\nproperty\nuninitializ\nuniniti\nuninitia\nnullable\nauto-property\ninit-only",
     "INTENTION_FILTER_HISTORY": "find\nextension\nalign\nindent\nwrap",
     "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
-    "InstalledPluginsSearchHistory": "spell\nspel\nspe\ns\nlive",
+    "InstalledPluginsSearchHistory": "coverage\nspell\nspel\nspe\ns",
     "KEYMAP": "invalidate\ncommit\npush\nsquash\nupdate",
     "KEYMAP_IN_QUICK_LISTS": "move",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "RD-233.11799.261",
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "RD-232.9921.83",
-    "Markdown Split EditorLayout": "Preview only",
+    "Markdown Split EditorLayout": "Editor only",
     "MarketplacePluginsSearchHistory": "rainbow\nrainbo\norder\nsort\nrainbox",
     "NonModalCommitCustomization.IsApplied": "true",
     "OpenAPI Preview EditorLayout": "Editor only",
@@ -101,7 +105,7 @@
     "RiderUnitTestViewSettings.mainSplitterOrientation": "1",
     "RiderUnitTestViewSettings.progressBarBottom": "true",
     "RiderUnitTestViewSettings.progressBarShowText": "true",
-    "SettingsSearchHistory": "file templ\nmon\nmonito\nlive\nEnable private Source Link support",
+    "SettingsSearchHistory": "gutter\nmarker\ncover\ncoverage\nfile templ",
     "ShelvedChangesViewManager.DETAILS_SPLITTER_PROPORTION": "0.15257841",
     "TextEditorWithPreview.SplitterProportionKey": "0.60046726",
     "ThreadsFramesSelectedView": "Default",
@@ -132,7 +136,7 @@
     "experimental.ui.used.version": "241.14494.325",
     "experimentalFeature.editor.reader.mode": "false",
     "export.settings.path": "D:\\DOWNLOADS\\settings-export.zip",
-    "file.gist.reindex.count": "1575",
+    "file.gist.reindex.count": "1578",
     "fileTypeChangedCounter": "101",
     "find.popup.splitter": "0.60023445",
     "fontSizeToResetConsole": "13.0",
@@ -143,7 +147,7 @@
     "http.client.postman.converter.promotion.hidden": "true",
     "ide.memory.adjusted": "true",
     "ignoreUltimateEdition": "true",
-    "last_open_solution_path": "D:/SOURCE-CONTROL/breakneck-starter",
+    "last_open_solution_path": "D:/SOURCE-CONTROL/Tuya-Device-Monitor",
     "last_opened_file_path": "D:/DOWNLOADS",
     "last_selected_template": "FastEndpoints Starter Project Template With Integrated Testing|Other",
     "last_selected_template_parameters": "TargetFrameworkOverride=net8.0;Type=Empty;Language=F#;DockerSupport=Disabled;Auth=None;SDK=8.0;Framework=net8.0;UseProgramMain=false;",
@@ -156,7 +160,7 @@
     "quick.doc.font.size.v3": "X_SMALL",
     "registry.to.advanced.settings.migration.build": "RD-241.14494.325",
     "rider.eap.whats.new.last.shown.eap.url": "https://www.jetbrains.com/rider/whatsnew-eap/2023-3-5/",
-    "selected.color.option.type": "ERRORS_ATTRIBUTES",
+    "selected.color.option.type": "LINE_NONE_COVERAGE",
     "settings.code.style.selected.tab.C#": "File Layout",
     "settings.code.style.selected.tab.EditorConfig": "Wrapping and Braces",
     "settings.code.style.selected.tab.HTML": "Other",
