@@ -40,7 +40,9 @@
             321
           ],
           "contentUiType": "COMBO",
-          "weight": 0.16692708,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.16484375,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -53,8 +55,6 @@
             352,
             963
           ],
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.16692708,
           "sideWeight": 0.5005319,
           "isSplit": true
@@ -265,7 +265,6 @@
             514
           ],
           "type": "FLOATING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
@@ -273,9 +272,9 @@
           "order": 31,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            1922,
-            514,
-            1909,
+            1923,
+            516,
+            1915,
             513
           ],
           "type": "FLOATING",
@@ -296,6 +295,8 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -311,7 +312,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
@@ -398,7 +398,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12682292,
+          "weight": 0.1263021,
           "sideWeight": 0.47596154
         },
         {
@@ -420,15 +420,15 @@
           "id": "Notifications",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.1263021,
+          "weight": 0.12682292,
           "sideWeight": 0.54521275
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16692708,
+        "left": 0.16484375,
         "bottom": 0.32994187,
-        "right": 0.12682292
+        "right": 0.1263021
       }
     }
   }

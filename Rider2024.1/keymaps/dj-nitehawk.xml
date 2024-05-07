@@ -312,6 +312,7 @@
   <action id="RiderUnitTestCoverCurrentSessionAction">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="RiderUnitTestCoverSolutionAction" />
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="u" />
@@ -323,10 +324,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
-  <action id="RiderUnitTestRunSolutionAction">
-    <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="l" />
-    <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl l" />
-  </action>
+  <action id="RiderUnitTestRunSolutionAction" />
   <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="RiderUnitTestRunTreeTwAction" />
   <action id="Run">
@@ -367,6 +365,7 @@
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="Terminal.SearchInCommandHistory" />
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowModules" />
