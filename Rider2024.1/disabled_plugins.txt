@@ -50,6 +50,7 @@ com.jetbrains.space
 hg4idea
 idea.plugin.protoeditor
 intellij.nextjs
+intellij.platform.ijent.impl
 intellij.prettierJS
 intellij.rider.plugins.cwm
 intellij.vitejs

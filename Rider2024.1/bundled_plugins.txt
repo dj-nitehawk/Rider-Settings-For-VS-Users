@@ -56,6 +56,8 @@ intellij.grid.core.impl|null
 
 intellij.grid.impl|null
 
+intellij.platform.ijent.impl|Deployment
+
 intellij.rider.cpp.debugger|null
 
 org.editorconfig.editorconfigjetbrains|Other Tools
