@@ -26,6 +26,7 @@ Rider2024.1/options/features.usage.statistics.xml
 Rider2024.1/options/github.xml
 Rider2024.1/options/recentSolutions.xml
 Rider2024.1/options/recentSolutionsConfiguration.xml
+Rider2024.1/options/riderProjectTemplateCache.xml
 Rider2024.1/options/spellchecker-dictionary.xml
 Rider2024.1/options/trusted-paths.xml
 Rider2024.1/options/trustedSolutions.xml
@@ -36,6 +37,7 @@ Rider2024.1/resharper-host/SourcesCache/
 Rider2024.1/resharper-host/UsageStatistics2/
 Rider2024.1/resharper-host/UsageStatistics2.0/
 Rider2024.1/resharper-host/event-log-state.json
+Rider2024.1/riderSdks.*
 Rider2024.1/tasks/
 Rider2024.1/user.web.token
 Rider2024.1/scratches/
@@ -48,4 +50,3 @@ WebStorm2024.1/
 
 
 
-Rider2024.1/app-internal-state.db
