@@ -1,0 +1,10 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="me.seclerp.rider.plugins.efcore" />
+        <option value="com.intellij.resharper.azure" />
+      </list>
+    </option>
+  </component>
+</application>

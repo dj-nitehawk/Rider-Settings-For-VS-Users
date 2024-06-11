@@ -1,0 +1,8 @@
+<application>
+  <component name="BlockTerminalUsage">
+    <option name="feedbackNotificationShown" value="true" />
+    <shellToExecutedCommandsNumber>
+      <entry key="powershell" value="32" />
+    </shellToExecutedCommandsNumber>
+  </component>
+</application>
