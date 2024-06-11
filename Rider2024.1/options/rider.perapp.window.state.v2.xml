@@ -299,6 +299,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "isShowStripeButton": false,
           "weight": 0.32994187
         },

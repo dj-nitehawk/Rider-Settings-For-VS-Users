@@ -95,7 +95,7 @@
     "Rider.BuildToolWindow.Splitter.Proportion": "0.33858266",
     "Rider.DotCover.SearchHistory": "summary",
     "Rider.Last.Observed.New.UI.State": "true",
-    "Rider.Last.Started.IDE.Build": "RD-241.15989.179",
+    "Rider.Last.Started.IDE.Build": "RD-241.17011.166",
     "Rider.Pin.Item.Was.Executed": "true",
     "Rider.ProjectTemplateDialog.Splitter": "0.2702961",
     "Rider.UnitTest.SearchHistory": "find",
@@ -136,7 +136,7 @@
     "evlsprt3.RD-233.11799.49": "7",
     "exception.accepted.notices": ":d4a3ab85",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.used.version": "241.15989.179",
+    "experimental.ui.used.version": "241.17011.166",
     "experimentalFeature.editor.reader.mode": "false",
     "export.settings.path": "D:\\DOWNLOADS\\settings-export.zip",
     "file.gist.reindex.count": "1591",
@@ -163,7 +163,7 @@
     "previousColorScheme": "NiteHawk Dark",
     "promo.ignore.ultimate.edition": "true",
     "quick.doc.font.size.v3": "X_SMALL",
-    "registry.to.advanced.settings.migration.build": "RD-241.15989.179",
+    "registry.to.advanced.settings.migration.build": "RD-241.17011.166",
     "rider.eap.whats.new.last.shown.eap.url": "https://www.jetbrains.com/rider/whatsnew-eap/2023-3-5/",
     "selected.color.option.type": "LINE_NONE_COVERAGE",
     "settings.code.style.selected.tab.C#": "File Layout",
@@ -201,7 +201,8 @@
       "RD-233.14475.66",
       "RD-241.14494.307",
       "RD-241.14494.325",
-      "RD-241.15989.179"
+      "RD-241.15989.179",
+      "RD-241.17011.166"
     ],
     "file.chooser.recent.files": [
       "D:/DOWNLOADS",
