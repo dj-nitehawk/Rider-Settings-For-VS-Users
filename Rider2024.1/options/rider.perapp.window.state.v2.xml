@@ -12,8 +12,7 @@
         {
           "id": "Hierarchy",
           "order": 8,
-          "isShowStripeButton": false,
-          "weight": 0.16380209,
+          "weight": 0.16484375,
           "sideWeight": 0.50051975,
           "isSplit": true
         },
@@ -42,7 +41,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16796875,
+          "weight": 0.16484375,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -55,7 +54,7 @@
             352,
             963
           ],
-          "weight": 0.16484375,
+          "weight": 0.1653646,
           "sideWeight": 0.5005319,
           "isSplit": true
         },
@@ -203,14 +202,13 @@
           "isAutoHide": true,
           "floatingBounds": [
             1924,
-            823,
+            519,
             1911,
-            209
+            513
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -241,7 +239,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187,
           "sideWeight": 0.50026965
         },
@@ -275,8 +272,8 @@
           "order": 31,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            1925,
-            513,
+            1924,
+            518,
             1915,
             513
           ],
@@ -291,7 +288,7 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1926,
+            1927,
             512,
             1913,
             516
@@ -299,7 +296,6 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "isShowStripeButton": false,
           "weight": 0.32994187
         },
@@ -425,13 +421,13 @@
           "id": "Notifications",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.12473959,
+          "weight": 0.12578125,
           "sideWeight": 0.54521275
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16796875,
+        "left": 0.16484375,
         "bottom": 0.32994187,
         "right": 0.1263021
       }
