@@ -258,13 +258,12 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1923,
-            516,
-            1914,
+            1920,
+            518,
+            1918,
             514
           ],
           "type": "FLOATING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
