@@ -46,19 +46,6 @@
           "isSplit": true
         },
         {
-          "id": "Structure",
-          "order": 13,
-          "floatingBounds": [
-            682,
-            78,
-            352,
-            963
-          ],
-          "weight": 0.1653646,
-          "sideWeight": 0.5005319,
-          "isSplit": true
-        },
-        {
           "id": "Rossynt",
           "order": 18,
           "floatingBounds": [
@@ -82,6 +69,25 @@
           "weight": 0.16432291,
           "sideWeight": 0.5005319,
           "isSplit": true
+        },
+        {
+          "id": "Tests",
+          "order": 20,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.1653646
+        },
+        {
+          "id": "Structure",
+          "order": 21,
+          "floatingBounds": [
+            682,
+            78,
+            352,
+            963
+          ],
+          "weight": 0.1653646,
+          "sideWeight": 0.5005319
         },
         {
           "id": "dotTrace Profiler",
@@ -140,19 +146,20 @@
           "id": "Services",
           "order": 13,
           "anchor": "BOTTOM",
-          "isAutoHide": true,
           "floatingBounds": [
             33,
             346,
             1854,
             340
           ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
           "weight": 0.32994187,
           "sideWeight": 0.50027204
         },
         {
           "id": "Pull Requests",
-          "order": 14,
+          "order": 15,
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
@@ -161,7 +168,7 @@
         },
         {
           "id": "Dynamic Program Analysis",
-          "order": 19,
+          "order": 20,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -169,8 +176,23 @@
           "weight": 0.32994187
         },
         {
+          "id": "Coverage",
+          "order": 21,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            838,
+            275,
+            243,
+            482
+          ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.32994187,
+          "sideWeight": 0.5244565
+        },
+        {
           "id": "Unit Tests Coverage",
-          "order": 20,
+          "order": 22,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -180,7 +202,7 @@
         },
         {
           "id": "Terminal",
-          "order": 22,
+          "order": 24,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -191,13 +213,12 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187,
           "sideWeight": 0.49972796
         },
         {
           "id": "Build",
-          "order": 26,
+          "order": 28,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -208,12 +229,11 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
           "weight": 0.32994187
         },
         {
           "id": "Inspection Results",
-          "order": 27,
+          "order": 29,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -228,7 +248,7 @@
         },
         {
           "id": "Problems View",
-          "order": 28,
+          "order": 30,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -244,7 +264,7 @@
         },
         {
           "id": "Stacktrace",
-          "order": 29,
+          "order": 31,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -254,7 +274,7 @@
         },
         {
           "id": "Debug",
-          "order": 30,
+          "order": 32,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -268,23 +288,21 @@
         },
         {
           "id": "Run",
-          "order": 31,
+          "order": 33,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            1924,
-            518,
-            1915,
-            513
+            1926,
+            515,
+            1910,
+            518
           ],
-          "type": "FLOATING",
+          "type": "WINDOWED",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "isShowStripeButton": false,
           "weight": 0.32994187
         },
         {
           "id": "Find",
-          "order": 32,
+          "order": 34,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -301,14 +319,14 @@
         },
         {
           "id": "NuGet",
-          "order": 34,
+          "order": 36,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
             358,
-            643,
+            660,
             1279,
-            363
+            340
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
@@ -317,7 +335,7 @@
         },
         {
           "id": "Endpoints",
-          "order": 36,
+          "order": 38,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -333,7 +351,7 @@
         },
         {
           "id": "TODO",
-          "order": 37,
+          "order": 39,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -348,7 +366,7 @@
         },
         {
           "id": "Messages",
-          "order": 37,
+          "order": 39,
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
@@ -400,16 +418,7 @@
           "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.12682292,
-          "sideWeight": 0.47596154
-        },
-        {
-          "id": "Coverage",
-          "order": 11,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.13046876,
-          "sideWeight": 0.52403843,
-          "isSplit": true
+          "sideWeight": 0.47554347
         },
         {
           "id": "Monitoring",

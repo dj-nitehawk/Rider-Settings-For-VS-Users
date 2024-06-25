@@ -116,6 +116,12 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RiderUnitTestRunningTestsFilterAction" is_action="true" action_type="-1" position="11">
+      <path value="root" />
+      <path value="Unit Tests Tool Window Top Session Toolbar" />
+      <path value="Unit Test Filters" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="11">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -148,21 +154,11 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="AtomFileIcons.Actions" is_group="true" forse_popup="false" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="NavbarPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="7">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ScopeViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
-      <path value="root" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="AtomFileIcons.OldToolbar" is_group="true" forse_popup="false" action_type="-1" position="6">
+    <group value="AtomFileIcons.Actions" is_group="true" forse_popup="false" action_type="-1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
@@ -175,6 +171,16 @@
     <group value="Rider.UnitTesting.SessionOptions" is_group="true" forse_popup="false" action_type="-1" position="6">
       <path value="root" />
       <path value="Unit Tests Tool Window Top Session Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScopeViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AtomFileIcons.OldToolbar" is_group="true" forse_popup="false" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ProjectViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="5">
@@ -191,15 +197,15 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Rider.UnitTesting.ExportOptions" is_group="true" forse_popup="false" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Unit Tests Tool Window Top Session Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Rider.UnitTesting.ExportOptions" is_group="true" forse_popup="false" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Unit Tests Tool Window Top Session Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="3">
@@ -216,10 +222,20 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RiderUnitTestAllTestsFilterAction" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Unit Tests Tool Window Top Session Toolbar" />
+      <path value="Unit Test Filters" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ExecutionTargetsToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainToolbarNewUI" is_group="true" forse_popup="false" action_type="-1" position="1">
+      <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="main.toolbar.Project" is_action="true" action_type="-1" position="1">
@@ -230,6 +246,16 @@
     </group>
     <group value="MainToolbarNewUI" is_group="true" forse_popup="false" action_type="-1" position="1">
       <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderUnitTestTargetFrameworkFilterAction" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Unit Tests Tool Window Top Session Toolbar" />
+      <path value="Unit Test Filters" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
@@ -254,28 +280,12 @@
       <path value="Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
-      <path value="root" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RiderUnitTestTargetFrameworkFilterAction" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Unit Tests Tool Window Top Session Toolbar" />
-      <path value="Unit Test Filters" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Center" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Rider.UnitTesting.SessionOptions" is_group="true" forse_popup="false" action_type="1" position="0">
       <path value="root" />
       <path value="Unit Tests Tool Window Top Session Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SaveAll" is_action="true" action_type="1" position="1">
+    <group seperator="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />
@@ -285,6 +295,12 @@
       <path value="root" />
       <path value="Unit Tests Tool Window Top Session Toolbar" />
       <path value="Unit Test Filters" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SaveAll" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CloseAllEditors" is_action="true" action_type="1" position="2">
