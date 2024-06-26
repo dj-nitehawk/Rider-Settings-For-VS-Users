@@ -75,7 +75,8 @@
           "order": 20,
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.1653646
+          "weight": 0.1653646,
+          "sideWeight": 0.5005435
         },
         {
           "id": "Structure",
@@ -176,8 +177,17 @@
           "weight": 0.32994187
         },
         {
-          "id": "Coverage",
+          "id": "Test Coverage",
           "order": 21,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.27374032,
+          "sideWeight": 0.49945652
+        },
+        {
+          "id": "Coverage",
+          "order": 22,
           "anchor": "BOTTOM",
           "floatingBounds": [
             838,
@@ -187,12 +197,13 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
+          "isShowStripeButton": false,
           "weight": 0.32994187,
           "sideWeight": 0.5244565
         },
         {
           "id": "Unit Tests Coverage",
-          "order": 22,
+          "order": 23,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -202,7 +213,7 @@
         },
         {
           "id": "Terminal",
-          "order": 24,
+          "order": 25,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -218,7 +229,7 @@
         },
         {
           "id": "Build",
-          "order": 28,
+          "order": 29,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -229,11 +240,12 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.32994187
+          "isActiveOnStart": true,
+          "weight": 0.27374032
         },
         {
           "id": "Inspection Results",
-          "order": 29,
+          "order": 30,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -248,7 +260,7 @@
         },
         {
           "id": "Problems View",
-          "order": 30,
+          "order": 31,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -259,12 +271,12 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.32994187,
+          "weight": 0.16521318,
           "sideWeight": 0.50026965
         },
         {
           "id": "Stacktrace",
-          "order": 31,
+          "order": 32,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -274,7 +286,7 @@
         },
         {
           "id": "Debug",
-          "order": 32,
+          "order": 33,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -284,11 +296,11 @@
             514
           ],
           "type": "FLOATING",
-          "weight": 0.32994187
+          "weight": 0.27374032
         },
         {
           "id": "Run",
-          "order": 33,
+          "order": 34,
           "anchor": "BOTTOM",
           "floatingBounds": [
             1926,
@@ -302,7 +314,7 @@
         },
         {
           "id": "Find",
-          "order": 34,
+          "order": 35,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -315,11 +327,11 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isShowStripeButton": false,
-          "weight": 0.32994187
+          "weight": 0.27374032
         },
         {
           "id": "NuGet",
-          "order": 36,
+          "order": 37,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -335,7 +347,7 @@
         },
         {
           "id": "Endpoints",
-          "order": 38,
+          "order": 39,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -346,12 +358,12 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.32994187,
+          "weight": 0.16521318,
           "sideWeight": 0.5005319
         },
         {
           "id": "TODO",
-          "order": 39,
+          "order": 40,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -362,11 +374,11 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.32994187
+          "weight": 0.27374032
         },
         {
           "id": "Messages",
-          "order": 39,
+          "order": 40,
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
@@ -437,7 +449,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.1653646,
-        "bottom": 0.32994187,
+        "bottom": 0.27374032,
         "right": 0.12682292
       }
     }
