@@ -2,7 +2,7 @@
   <component name="BlockTerminalUsage">
     <option name="feedbackNotificationShown" value="true" />
     <shellToExecutedCommandsNumber>
-      <entry key="powershell" value="74" />
+      <entry key="powershell" value="77" />
     </shellToExecutedCommandsNumber>
   </component>
 </application>
