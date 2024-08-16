@@ -54,6 +54,7 @@
         </task>
         <servers />
       </component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
       <component name="VcsManagerConfiguration">
         <option name="CHECK_NEW_TODO" value="false" />
         <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
@@ -67,10 +68,10 @@
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
         <state x="502" y="102" width="916" height="740" key="Rider.NewProjectDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1722827117570" />
-        <state x="0" y="30" width="1920" height="969" key="SettingsEditor" timestamp="1715233888873">
+        <state x="0" y="30" width="1920" height="969" key="SettingsEditor" timestamp="1723784039900">
           <screen x="0" y="0" width="1920" height="1032" />
         </state>
-        <state x="0" y="30" width="1920" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1715233888873" />
+        <state x="0" y="30" width="1920" height="969" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032" timestamp="1723784039900" />
       </component>
       <component name="masterDetails">
         <states>

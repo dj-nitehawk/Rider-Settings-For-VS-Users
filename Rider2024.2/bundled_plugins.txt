@@ -12,9 +12,17 @@ com.intellij.dev|null
 
 com.intellij.diagram|Other Tools
 
+com.intellij.ja|IDE Localization
+
+com.intellij.ko|IDE Localization
+
 com.intellij.llmInstaller|Other Tools
 
+com.intellij.marketplace.ml|Local AI/ML Tools
+
 com.intellij.microservices.ui|Microservices
+
+com.intellij.ml.inline.completion|null
 
 com.intellij.platform.ide.provisioner|null
 
@@ -24,9 +32,15 @@ com.intellij.plugins.visualstudio2022keymap|Keymap
 
 com.intellij.plugins.visualstudiokeymap|Keymap
 
+com.intellij.rider.godot.community|null
+
+com.intellij.rider.godot|null
+
 com.intellij.searcheverywhere.ml|Local AI/ML Tools
 
 com.intellij.swagger|Microservices
+
+com.intellij.zh|IDE Localization
 
 com.intellij|null
 
@@ -43,6 +57,8 @@ com.jetbrains.performancePlugin|Other Tools
 com.jetbrains.restClient|Microservices
 
 com.jetbrains.rider.diagram|null
+
+com.jetbrains.rider.plugins.dotnetwatch|null
 
 com.jetbrains.rider.razor|null
 
@@ -63,6 +79,8 @@ org.editorconfig.editorconfigjetbrains|Other Tools
 org.intellij.intelliLang|Other Tools
 
 org.intellij.plugins.markdown|Languages
+
+org.jetbrains.completion.full.line|Local AI/ML Tools
 
 org.jetbrains.plugins.terminal|Other Tools
 
