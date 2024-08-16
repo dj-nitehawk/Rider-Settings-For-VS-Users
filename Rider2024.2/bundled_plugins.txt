@@ -12,10 +12,6 @@ com.intellij.dev|null
 
 com.intellij.diagram|Other Tools
 
-com.intellij.ja|IDE Localization
-
-com.intellij.ko|IDE Localization
-
 com.intellij.llmInstaller|Other Tools
 
 com.intellij.marketplace.ml|Local AI/ML Tools
@@ -32,15 +28,9 @@ com.intellij.plugins.visualstudio2022keymap|Keymap
 
 com.intellij.plugins.visualstudiokeymap|Keymap
 
-com.intellij.rider.godot.community|null
-
-com.intellij.rider.godot|null
-
 com.intellij.searcheverywhere.ml|Local AI/ML Tools
 
 com.intellij.swagger|Microservices
-
-com.intellij.zh|IDE Localization
 
 com.intellij|null
 

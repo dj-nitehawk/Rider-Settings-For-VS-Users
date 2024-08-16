@@ -66,7 +66,6 @@ me.seclerp.rider.plugins.efcore
 org.example.githubpang.rossynt
 org.intellij.plugins.postcss
 org.intellij.qodana
-org.jetbrains.advocates.rider.plugins.dotnetwatch
 org.jetbrains.fortea
 org.jetbrains.plugins.docker.gateway
 org.jetbrains.plugins.github

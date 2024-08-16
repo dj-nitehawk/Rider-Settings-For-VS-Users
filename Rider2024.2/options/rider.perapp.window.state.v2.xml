@@ -286,7 +286,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.27955428,
+          "weight": 0.32994187,
           "sideWeight": 0.50026965
         },
         {
@@ -327,7 +327,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isShowStripeButton": false,
-          "weight": 0.27955428
+          "weight": 0.32994187
         },
         {
           "id": "Find",
