@@ -35,6 +35,11 @@
         <option name="placeInGrid" value="center" />
         <option name="tabIndex" value="3" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="TasksView" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="5" />
+      </ViewImpl>
       <TabImpl />
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
@@ -52,6 +57,10 @@
       <TabImpl>
         <option name="defaultIndex" value="4" />
         <option name="index" value="4" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="6" />
+        <option name="index" value="5" />
       </TabImpl>
       <General>
         <option name="isTabLabelsHidden" value="false" />

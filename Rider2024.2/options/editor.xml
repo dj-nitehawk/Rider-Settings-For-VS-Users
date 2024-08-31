@@ -50,6 +50,9 @@
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="JSEditorOptions">
     <option name="AUTOMATICALLY_REPLACE_WITH_TEMPLATE_STRING_ON_TYPING" value="false" />
     <option name="ESCAPE_PASTED_TEXT" value="false" />
