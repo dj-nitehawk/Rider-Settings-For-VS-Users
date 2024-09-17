@@ -18,6 +18,8 @@
         <entry key="Memory" value="true" />
         <entry key="RiderMemory" value="true" />
         <entry key="VFS_REFRESH" value="true" />
+        <entry key="VfsRefresh" value="true" />
+        <entry key="dotCoverIndicator" value="false" />
       </map>
     </option>
   </component>

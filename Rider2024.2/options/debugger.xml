@@ -20,12 +20,14 @@
               <option value="System.Threading.Tasks.TaskCanceledException" />
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.IO.DirectoryNotFoundException" />
+              <option value="System.NullReferenceException" />
             </list>
           </option>
         </configuration>
       </debugger>
       <debugger id="ObjectiveC">
         <configuration>
+          <macOS-symbol-settings />
           <nt-symbol-settings />
         </configuration>
       </debugger>
