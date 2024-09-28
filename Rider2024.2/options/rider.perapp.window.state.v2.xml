@@ -66,27 +66,31 @@
           "id": "Structure",
           "order": 22,
           "floatingBounds": [
-            682,
-            78,
-            352,
-            963
+            398,
+            1,
+            414,
+            715
           ],
+          "type": "FLOATING",
           "isActiveOnStart": true,
-          "weight": 0.1653646,
+          "isVisible": true,
+          "weight": 0.15589225,
           "sideWeight": 0.5005435
         },
         {
           "id": "Unit Tests",
           "order": 23,
           "floatingBounds": [
-            34,
-            289,
-            1832,
-            321
+            398,
+            715,
+            414,
+            540
           ],
+          "type": "FLOATING",
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16484375,
+          "weight": 0.15589225,
           "sideWeight": 0.49945652
         },
         {
@@ -111,7 +115,7 @@
             512
           ],
           "type": "FLOATING",
-          "weight": 0.1254845
+          "weight": 0.32994187
         },
         {
           "id": "IL Viewer",
@@ -246,15 +250,16 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1924,
-            519,
-            1911,
-            513
+            2301,
+            1,
+            816,
+            337
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.32994187
+          "isVisible": true,
+          "weight": 0.33002383
         },
         {
           "id": "Inspection Results",
@@ -277,15 +282,16 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1926,
-            514,
-            1914,
-            518
+            2301,
+            340,
+            813,
+            459
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.32994187,
+          "isVisible": true,
+          "weight": 0.33002383,
           "sideWeight": 0.50026965
         },
         {
@@ -304,29 +310,31 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1920,
-            518,
-            1918,
-            514
+            2301,
+            793,
+            814,
+            462
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
-          "weight": 0.32994187
+          "isVisible": true,
+          "weight": 0.33002383
         },
         {
           "id": "Run",
           "order": 35,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            1921,
-            514,
-            1915,
-            518
+            2302,
+            794,
+            818,
+            462
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.32994187
+          "isVisible": true,
+          "weight": 0.33002383
         },
         {
           "id": "Find",
@@ -334,15 +342,16 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1924,
-            518,
-            1921,
-            507
+            2021,
+            794,
+            1095,
+            463
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.32994187
+          "isShowStripeButton": false,
+          "weight": 0.33002383
         },
         {
           "id": "NuGet",
@@ -350,15 +359,15 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            358,
-            660,
-            1279,
-            340
+            854,
+            859,
+            1164,
+            368
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.32994187
+          "weight": 0.33002383
         },
         {
           "id": "Endpoints",
@@ -373,7 +382,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.16521318,
+          "weight": 0.33002383,
           "sideWeight": 0.5005319
         },
         {
@@ -389,7 +398,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.27374032
+          "weight": 0.33002383
         },
         {
           "id": "Messages",
@@ -444,7 +453,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.12734374,
+          "weight": 0.16127947,
           "sideWeight": 0.47554347
         },
         {
@@ -457,15 +466,15 @@
           "id": "Notifications",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.12682292,
+          "weight": 0.12734374,
           "sideWeight": 0.54521275
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16484375,
-        "bottom": 0.32994187,
-        "right": 0.12734374
+        "left": 0.15589225,
+        "bottom": 0.33002383,
+        "right": 0.16127947
       }
     }
   }

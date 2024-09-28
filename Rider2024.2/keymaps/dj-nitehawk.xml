@@ -168,8 +168,11 @@
   <action id="ExtractMethod" />
   <action id="FileChooser.GoToRoot" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="FileChooser.NewFolder">
-    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="FileChooser.TogglePathBar" />
   <action id="FindUsages">
@@ -183,6 +186,7 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.New.Branch.In.Log" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="Git.Squash.Commits">
@@ -226,12 +230,12 @@
   <action id="Move">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl alt n" />
-  </action>
+  <action id="NavigateToImmediateWindow" />
+  <action id="NewElement" />
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="NewRiderProject" />
   <action id="OpenFile" />
   <action id="OpenInRightSplit">
     <mouse-shortcut keystroke="alt button1 doubleClick" />
@@ -275,7 +279,6 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="Refresh" />
   <action id="RenameElement">
@@ -284,6 +287,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="Rider.Plugins.FSharp.StartFsi" />
   <action id="RiderBackendAction-EncapsulateField" />
   <action id="RiderBackendAction-MoveIntoMatchingFiles">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
@@ -310,6 +314,7 @@
   <action id="RiderReattach">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="RiderShowIlViewerAction" />
   <action id="RiderTypeHierarchy.BaseOnThisType" />
   <action id="RiderUnitTestCoverCurrentSessionAction">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -344,6 +349,7 @@
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="SetShortcutAction" />
   <action id="ShelvedChanges.Rename" />
+  <action id="ShowFilterPopup" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -386,6 +392,8 @@
   <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.ReadAccess" />
   <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="UsageGrouping.FileStructure" />
   <action id="UsageGrouping.FlattenModules" />
   <action id="UsageGrouping.Module" />
   <action id="Vcs.Log.ShowTooltip">
@@ -396,7 +404,6 @@
   </action>
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="alt k" />
@@ -412,6 +419,7 @@
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.NewWatch" />
   <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />

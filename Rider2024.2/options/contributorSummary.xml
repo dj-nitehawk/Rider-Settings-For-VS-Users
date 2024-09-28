@@ -1,7 +1,7 @@
 <application>
   <component name="ContributorsLocalSummary">
     <e id="ClassSearchEverywhereContributor">
-      <i a="1" c="1726050367399" />
+      <i a="6" c="1727501539543" />
     </e>
     <e id="FileSearchEverywhereContributor">
       <i a="1" c="1725936759286" />
@@ -11,6 +11,9 @@
     </e>
     <e id="SymbolSearchEverywhereContributor">
       <i a="2" c="1724658740262" />
+    </e>
+    <e id="TextSearchContributor">
+      <i a="1" c="1726823880128" />
     </e>
   </component>
 </application>
