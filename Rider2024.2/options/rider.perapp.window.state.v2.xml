@@ -358,14 +358,15 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            851,
-            842,
-            1168,
+            900,
+            839,
+            1067,
             385
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.33002383
         },
         {
@@ -452,7 +453,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.17383513,
+          "weight": 0.17560801,
           "sideWeight": 0.47554347
         },
         {
@@ -473,7 +474,7 @@
         "top": 0.33,
         "left": 0.15589225,
         "bottom": 0.33002383,
-        "right": 0.17383513
+        "right": 0.17560801
       }
     }
   }
