@@ -66,10 +66,10 @@
           "id": "Structure",
           "order": 22,
           "floatingBounds": [
-            398,
-            1,
-            414,
-            1256
+            443,
+            0,
+            417,
+            1258
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
@@ -81,10 +81,10 @@
           "id": "Unit Tests",
           "order": 23,
           "floatingBounds": [
-            397,
+            443,
             1,
-            414,
-            1254
+            417,
+            1256
           ],
           "type": "FLOATING",
           "contentUiType": "COMBO",
@@ -250,9 +250,9 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2301,
+            2255,
             1,
-            816,
+            862,
             337
           ],
           "type": "FLOATING",
@@ -282,9 +282,9 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2301,
+            2254,
             340,
-            813,
+            860,
             455
           ],
           "type": "FLOATING",
@@ -310,9 +310,9 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2301,
+            2255,
             793,
-            814,
+            860,
             462
           ],
           "type": "FLOATING",
@@ -324,9 +324,9 @@
           "order": 35,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            2302,
+            2255,
             794,
-            811,
+            858,
             462
           ],
           "type": "FLOATING",
@@ -341,9 +341,9 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2021,
+            1977,
             794,
-            1095,
+            1139,
             463
           ],
           "type": "FLOATING",
@@ -452,7 +452,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16073826,
+          "weight": 0.17383513,
           "sideWeight": 0.47554347
         },
         {
@@ -473,7 +473,7 @@
         "top": 0.33,
         "left": 0.15589225,
         "bottom": 0.33002383,
-        "right": 0.16073826
+        "right": 0.17383513
       }
     }
   }
