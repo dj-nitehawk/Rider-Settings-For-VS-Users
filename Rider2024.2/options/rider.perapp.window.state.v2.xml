@@ -69,7 +69,7 @@
             398,
             1,
             414,
-            715
+            1256
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
@@ -81,10 +81,10 @@
           "id": "Unit Tests",
           "order": 23,
           "floatingBounds": [
-            398,
-            715,
+            397,
+            1,
             414,
-            540
+            1254
           ],
           "type": "FLOATING",
           "contentUiType": "COMBO",
@@ -285,7 +285,7 @@
             2301,
             340,
             813,
-            459
+            455
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
@@ -316,7 +316,6 @@
             462
           ],
           "type": "FLOATING",
-          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.33002383
         },
@@ -327,7 +326,7 @@
           "floatingBounds": [
             2302,
             794,
-            818,
+            811,
             462
           ],
           "type": "FLOATING",
@@ -359,10 +358,10 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            854,
-            859,
-            1164,
-            368
+            851,
+            842,
+            1168,
+            385
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
@@ -453,7 +452,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16127947,
+          "weight": 0.16073826,
           "sideWeight": 0.47554347
         },
         {
@@ -474,7 +473,7 @@
         "top": 0.33,
         "left": 0.15589225,
         "bottom": 0.33002383,
-        "right": 0.16127947
+        "right": 0.16073826
       }
     }
   }

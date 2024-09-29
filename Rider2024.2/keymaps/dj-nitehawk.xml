@@ -284,6 +284,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ResetIdeScaleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 0" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
@@ -366,6 +369,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="SwitchHeaderSource" />
+  <action id="SwitchIdeScaleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
+  </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Table-startEditing" />
