@@ -1,5 +1,6 @@
 <application>
   <component name="BlockTerminalUsage">
+    <option name="blockTerminalUsedLastVersion" value="242.22855.90" />
     <option name="feedbackNotificationShown" value="true" />
     <shellToExecutedCommandsNumber>
       <entry key="powershell" value="77" />

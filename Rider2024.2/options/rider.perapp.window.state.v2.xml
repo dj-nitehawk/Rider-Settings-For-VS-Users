@@ -63,34 +63,49 @@
           "sideWeight": 0.5005435
         },
         {
-          "id": "Structure",
+          "id": "Project",
           "order": 22,
           "floatingBounds": [
-            443,
+            837,
+            46,
+            245,
+            940
+          ],
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.1740529,
+          "sideWeight": 0.47554347
+        },
+        {
+          "id": "Structure",
+          "order": 23,
+          "floatingBounds": [
+            4,
             0,
-            417,
-            1258
+            416,
+            1256
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15589225,
+          "weight": 0.17395982,
           "sideWeight": 0.5005435
         },
         {
           "id": "Unit Tests",
-          "order": 23,
+          "order": 24,
           "floatingBounds": [
-            443,
-            1,
-            417,
+            423,
+            0,
+            433,
             1256
           ],
           "type": "FLOATING",
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15589225,
+          "weight": 0.17383513,
           "sideWeight": 0.49945652
         },
         {
@@ -109,13 +124,13 @@
           "order": 0,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            1925,
-            519,
-            1913,
-            512
+            2254,
+            3,
+            860,
+            790
           ],
           "type": "FLOATING",
-          "weight": 0.32994187
+          "weight": 0.30381256
         },
         {
           "id": "IL Viewer",
@@ -144,14 +159,14 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1921,
-            0,
-            1918,
-            1032
+            1004,
+            257,
+            1133,
+            801
           ],
           "isMaximized": true,
           "type": "FLOATING",
-          "weight": 0.32994187,
+          "weight": 0.30381256,
           "sideWeight": 0.50027204
         },
         {
@@ -164,14 +179,14 @@
           "order": 14,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            1920,
-            516,
+            568,
+            338,
             1917,
             515
           ],
-          "type": "FLOATING",
+          "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.1254845,
+          "weight": 0.30381256,
           "sideWeight": 0.50027204
         },
         {
@@ -190,7 +205,7 @@
           "isAutoHide": true,
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.32994187
+          "weight": 0.30381256
         },
         {
           "id": "Test Coverage",
@@ -198,7 +213,7 @@
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.32994187,
+          "weight": 0.30405408,
           "sideWeight": 0.49945652
         },
         {
@@ -233,15 +248,15 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1925,
-            514,
-            1914,
-            513
+            2254,
+            340,
+            861,
+            453
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.27955428,
+          "weight": 0.30398405,
           "sideWeight": 0.49972796
         },
         {
@@ -250,16 +265,16 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2255,
+            2259,
             1,
-            862,
+            855,
             337
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.33002383
+          "weight": 0.30405408
         },
         {
           "id": "Inspection Results",
@@ -282,16 +297,16 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2254,
+            2259,
             340,
-            860,
+            856,
             455
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.33002383,
+          "weight": 0.30405408,
           "sideWeight": 0.50026965
         },
         {
@@ -310,30 +325,30 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2255,
-            793,
-            860,
-            462
+            2259,
+            339,
+            856,
+            456
           ],
           "type": "FLOATING",
           "isVisible": true,
-          "weight": 0.33002383
+          "weight": 0.30405408
         },
         {
           "id": "Run",
           "order": 35,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            2255,
+            2259,
             794,
-            858,
+            859,
             462
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.33002383
+          "weight": 0.30405408
         },
         {
           "id": "Find",
@@ -341,16 +356,14 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1977,
-            794,
-            1139,
-            463
+            1188,
+            690,
+            901,
+            464
           ],
-          "type": "FLOATING",
+          "type": "SLIDING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "isShowStripeButton": false,
-          "weight": 0.33002383
+          "weight": 0.30405408
         },
         {
           "id": "NuGet",
@@ -358,16 +371,14 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            900,
+            902,
             839,
-            1067,
+            1308,
             385
           ],
-          "type": "FLOATING",
+          "type": "SLIDING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.33002383
+          "weight": 0.30429596
         },
         {
           "id": "Endpoints",
@@ -375,14 +386,14 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            1924,
-            514,
+            902,
+            416,
             1915,
             520
           ],
-          "type": "FLOATING",
+          "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.33002383,
+          "weight": 0.30381256,
           "sideWeight": 0.5005319
         },
         {
@@ -398,7 +409,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.33002383
+          "weight": 0.30381256
         },
         {
           "id": "Messages",
@@ -441,22 +452,6 @@
           "weight": 0.25
         },
         {
-          "id": "Project",
-          "order": 9,
-          "anchor": "RIGHT",
-          "floatingBounds": [
-            837,
-            46,
-            245,
-            940
-          ],
-          "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.17560801,
-          "sideWeight": 0.47554347
-        },
-        {
           "id": "Monitoring",
           "order": 12,
           "anchor": "RIGHT",
@@ -472,9 +467,9 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15589225,
-        "bottom": 0.33002383,
-        "right": 0.17560801
+        "left": 0.1740529,
+        "bottom": 0.30405408,
+        "right": 0.17324248
       }
     }
   }
