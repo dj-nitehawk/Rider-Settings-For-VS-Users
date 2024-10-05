@@ -74,7 +74,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.1740529,
+          "weight": 0.17380443,
           "sideWeight": 0.47554347
         },
         {
@@ -83,13 +83,13 @@
           "floatingBounds": [
             4,
             0,
-            416,
+            417,
             1256
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.17395982,
+          "weight": 0.17392856,
           "sideWeight": 0.5005435
         },
         {
@@ -98,14 +98,14 @@
           "floatingBounds": [
             423,
             0,
-            433,
+            435,
             1256
           ],
           "type": "FLOATING",
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.17383513,
+          "weight": 0.17392856,
           "sideWeight": 0.49945652
         },
         {
@@ -265,16 +265,16 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2259,
+            2256,
             1,
-            855,
+            858,
             337
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30405408
+          "weight": 0.30374205
         },
         {
           "id": "Inspection Results",
@@ -297,10 +297,10 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2259,
-            340,
-            856,
-            455
+            2256,
+            337,
+            859,
+            458
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
@@ -325,12 +325,13 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2259,
-            339,
-            856,
-            456
+            2256,
+            337,
+            859,
+            458
           ],
           "type": "FLOATING",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.30405408
         },
@@ -339,7 +340,7 @@
           "order": 35,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            2259,
+            2256,
             794,
             859,
             462
@@ -348,7 +349,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30405408
+          "weight": 0.30374205
         },
         {
           "id": "Find",
@@ -363,7 +364,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30405408
+          "weight": 0.30374205
         },
         {
           "id": "NuGet",
@@ -467,8 +468,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.1740529,
-        "bottom": 0.30405408,
+        "left": 0.17380443,
+        "bottom": 0.30374205,
         "right": 0.17324248
       }
     }
