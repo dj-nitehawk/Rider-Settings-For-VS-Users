@@ -139,6 +139,12 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="shift alt button1" />
   </action>
@@ -149,7 +155,9 @@
   <action id="EditorDuplicate" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
+  <action id="EditorScrollDown" />
   <action id="EditorScrollToCenter" />
+  <action id="EditorScrollUp" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleShowWhitespaces" />
   <action id="EditorToggleUseSoftWraps" />
