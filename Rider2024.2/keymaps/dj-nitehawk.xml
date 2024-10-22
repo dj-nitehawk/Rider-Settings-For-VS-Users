@@ -76,6 +76,9 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
+  <action id="CloseAllToTheRight">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
@@ -183,6 +186,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="FileChooser.TogglePathBar" />
+  <action id="FileStructurePopup" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>

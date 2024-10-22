@@ -70,8 +70,6 @@ org.intellij.intelliLang|Other Tools
 
 org.intellij.plugins.markdown|Languages
 
-org.jetbrains.completion.full.line|Local AI/ML Tools
-
 org.jetbrains.plugins.terminal|Other Tools
 
 org.jetbrains.plugins.textmate|Other Tools
