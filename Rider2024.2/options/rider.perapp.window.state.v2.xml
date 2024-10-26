@@ -62,7 +62,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.17762688,
+          "weight": 0.18165596,
           "sideWeight": 0.48775154
         },
         {
@@ -77,7 +77,7 @@
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.17750001,
+          "weight": 0.1825,
           "sideWeight": 0.5005435
         },
         {
@@ -87,13 +87,13 @@
             422,
             1,
             435,
-            1256
+            1258
           ],
           "type": "FLOATING",
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.17750001,
+          "weight": 0.18165596,
           "sideWeight": 0.49945652
         },
         {
@@ -275,7 +275,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30374205
+          "weight": 0.30405408
         },
         {
           "id": "Inspection Results",
@@ -306,7 +306,8 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.30374205,
+          "isVisible": true,
+          "weight": 0.30405408,
           "sideWeight": 0.50026965
         },
         {
@@ -331,8 +332,7 @@
             458
           ],
           "type": "FLOATING",
-          "isVisible": true,
-          "weight": 0.30374205
+          "weight": 0.30405408
         },
         {
           "id": "Run",
@@ -347,8 +347,8 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isShowStripeButton": false,
-          "weight": 0.30374205
+          "isVisible": true,
+          "weight": 0.30405408
         },
         {
           "id": "Find",
@@ -363,7 +363,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30398405
+          "weight": 0.30405408
         },
         {
           "id": "NuGet",
@@ -460,15 +460,15 @@
           "id": "Notifications",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.17321429,
+          "weight": 0.17355666,
           "sideWeight": 0.54521275
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.17762688,
-        "bottom": 0.30398405,
-        "right": 0.17321429
+        "left": 0.18165596,
+        "bottom": 0.30405408,
+        "right": 0.17355666
       }
     }
   }
