@@ -1,9 +1,9 @@
 <application>
   <component name="BlockTerminalUsage">
-    <option name="blockTerminalUsedLastVersion" value="242.23339.62" />
+    <option name="blockTerminalUsedLastVersion" value="242.23726.100" />
     <option name="feedbackNotificationShown" value="true" />
     <shellToExecutedCommandsNumber>
-      <entry key="powershell" value="77" />
+      <entry key="powershell" value="79" />
     </shellToExecutedCommandsNumber>
   </component>
 </application>

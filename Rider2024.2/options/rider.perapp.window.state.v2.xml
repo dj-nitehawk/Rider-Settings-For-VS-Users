@@ -62,7 +62,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18165596,
+          "weight": 0.18249469,
           "sideWeight": 0.48775154
         },
         {
@@ -93,8 +93,14 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18165596,
+          "weight": 0.18295293,
           "sideWeight": 0.49945652
+        },
+        {
+          "id": "Activity",
+          "order": 25,
+          "isShowStripeButton": false,
+          "weight": 0.18295293
         },
         {
           "id": "Rossynt",
@@ -214,7 +220,7 @@
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.3239044,
+          "weight": 0.30374205,
           "sideWeight": 0.49945652
         },
         {
@@ -250,14 +256,15 @@
           "isAutoHide": true,
           "floatingBounds": [
             2256,
-            339,
+            793,
             861,
-            457
+            465
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.3239044,
+          "isVisible": true,
+          "weight": 0.30325913,
           "sideWeight": 0.49972796
         },
         {
@@ -275,7 +282,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30405408
+          "weight": 0.30325913
         },
         {
           "id": "Inspection Results",
@@ -307,7 +314,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30405408,
+          "weight": 0.30398405,
           "sideWeight": 0.50026965
         },
         {
@@ -332,7 +339,7 @@
             458
           ],
           "type": "FLOATING",
-          "weight": 0.30405408
+          "weight": 0.30325913
         },
         {
           "id": "Run",
@@ -347,8 +354,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.30405408
+          "weight": 0.30325913
         },
         {
           "id": "Find",
@@ -363,7 +369,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30405408
+          "weight": 0.30325913
         },
         {
           "id": "NuGet",
@@ -466,8 +472,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.18165596,
-        "bottom": 0.30405408,
+        "left": 0.18249469,
+        "bottom": 0.30325913,
         "right": 0.17355666
       }
     }
