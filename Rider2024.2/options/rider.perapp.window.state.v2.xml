@@ -62,7 +62,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18249469,
+          "weight": 0.16369472,
           "sideWeight": 0.48775154
         },
         {
@@ -77,7 +77,7 @@
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.1825,
+          "weight": 0.18406004,
           "sideWeight": 0.5005435
         },
         {
@@ -93,14 +93,13 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18295293,
+          "weight": 0.16369472,
           "sideWeight": 0.49945652
         },
         {
           "id": "Activity",
           "order": 25,
-          "isShowStripeButton": false,
-          "weight": 0.18295293
+          "weight": 0.18406004
         },
         {
           "id": "Rossynt",
@@ -264,7 +263,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30325913,
+          "weight": 0.30294585,
           "sideWeight": 0.49972796
         },
         {
@@ -282,7 +281,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30325913
+          "weight": 0.30294585
         },
         {
           "id": "Inspection Results",
@@ -314,7 +313,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30398405,
+          "weight": 0.30318725,
           "sideWeight": 0.50026965
         },
         {
@@ -339,22 +338,23 @@
             458
           ],
           "type": "FLOATING",
-          "weight": 0.30325913
+          "isVisible": true,
+          "weight": 0.30294585
         },
         {
           "id": "Run",
           "order": 35,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            2256,
-            793,
+            2255,
+            794,
             859,
             462
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "weight": 0.30325913
+          "isVisible": true,
+          "weight": 0.30318725
         },
         {
           "id": "Find",
@@ -369,7 +369,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30325913
+          "weight": 0.30294585
         },
         {
           "id": "NuGet",
@@ -383,7 +383,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30398405
+          "weight": 0.30318725
         },
         {
           "id": "Endpoints",
@@ -472,8 +472,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.18249469,
-        "bottom": 0.30325913,
+        "left": 0.16369472,
+        "bottom": 0.30294585,
         "right": 0.17355666
       }
     }

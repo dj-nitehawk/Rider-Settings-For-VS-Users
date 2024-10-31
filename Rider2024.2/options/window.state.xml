@@ -70,21 +70,21 @@
     <size key="find.popup.0.0.3440.1440@106dpi" width="901" height="948" />
   </component>
   <component name="WindowManager">
-    <frame x="926" y="0" width="1574" height="1398" />
+    <frame x="937" y="0" width="1563" height="1396" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="1275" y="482" width="564" height="675" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1728794905788">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
     <state x="1275" y="482" width="564" height="675" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile/0.0.3115.1256" timestamp="1728794905788" />
-    <state width="555" height="158" key="ShowUsagesActions.dimensionServiceKey" timestamp="1730118776316">
+    <state width="530" height="134" key="ShowUsagesActions.dimensionServiceKey" timestamp="1730305071713">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state width="555" height="158" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1730118776316" />
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1730212402297">
+    <state width="530" height="134" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1730305071713" />
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1730354732521">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1730212402297" />
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1730354732521" />
     <state x="1719" y="572" width="933" height="650" key="WELCOME_SCREEN/0.0.3440.1392" timestamp="1727528042349" />
     <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1727518920542" />
     <state x="859" y="389" key="ide.config.custom.settings" timestamp="1725545341940">

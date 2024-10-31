@@ -286,6 +286,10 @@
   <action id="ReSharperNavigateTo">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
@@ -425,9 +429,6 @@
   </action>
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="alt k" />
-  </action>
-  <action id="Vcs.Show.Log">
-    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
