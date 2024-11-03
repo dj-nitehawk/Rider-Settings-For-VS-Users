@@ -62,7 +62,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16369472,
+          "weight": 0.17548248,
           "sideWeight": 0.48775154
         },
         {
@@ -77,7 +77,7 @@
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18406004,
+          "weight": 0.17905647,
           "sideWeight": 0.5005435
         },
         {
@@ -93,7 +93,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16369472,
+          "weight": 0.17548248,
           "sideWeight": 0.49945652
         },
         {
@@ -254,7 +254,7 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2256,
+            2257,
             793,
             861,
             465
@@ -263,7 +263,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30294585,
+          "weight": 0.30318725,
           "sideWeight": 0.49972796
         },
         {
@@ -281,7 +281,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30294585
+          "weight": 0.30318725
         },
         {
           "id": "Inspection Results",
@@ -338,8 +338,7 @@
             458
           ],
           "type": "FLOATING",
-          "isVisible": true,
-          "weight": 0.30294585
+          "weight": 0.30318725
         },
         {
           "id": "Run",
@@ -353,6 +352,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.30318725
         },
@@ -369,7 +369,8 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30294585
+          "isVisible": true,
+          "weight": 0.30318725
         },
         {
           "id": "NuGet",
@@ -472,8 +473,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16369472,
-        "bottom": 0.30294585,
+        "left": 0.17548248,
+        "bottom": 0.30318725,
         "right": 0.17355666
       }
     }
