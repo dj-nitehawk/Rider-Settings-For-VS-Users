@@ -36,11 +36,11 @@
         <option name="openDirectoriesWithSingleClick" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
       <component name="ShelveChangesManager">
         <option name="remove_strategy" value="true" />
       </component>
@@ -66,10 +66,10 @@
         <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
       </component>
       <component name="WindowStateProjectService">
-        <state x="814" y="124" width="916" height="740" key="Rider.NewProjectDialog.Size" timestamp="1729263629836">
+        <state x="814" y="124" width="916" height="740" key="Rider.NewProjectDialog.Size" timestamp="1730879349692">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
-        <state x="814" y="124" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1729263629836" />
+        <state x="814" y="124" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1730879349692" />
         <state x="502" y="102" width="916" height="740" key="Rider.NewProjectDialog.Size/1920.0.1920.1032/0.0.1920.1032" timestamp="1722827117570" />
         <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1729564517618">
           <screen x="0" y="0" width="3115" height="1256" />
