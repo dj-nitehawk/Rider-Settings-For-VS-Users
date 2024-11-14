@@ -2,6 +2,8 @@ Remote Development Server|null
 
 Rider UI Theme Pack|null
 
+com.intellij.cidr.debugger.dap|null
+
 com.intellij.cidr.debugger|null
 
 com.intellij.cidr.parallelStacks|null
@@ -19,6 +21,8 @@ com.intellij.marketplace.ml|Local AI/ML Tools
 com.intellij.microservices.ui|Microservices
 
 com.intellij.ml.inline.completion|null
+
+com.intellij.modules.json|Languages
 
 com.intellij.platform.ide.provisioner|null
 
@@ -50,9 +54,13 @@ com.jetbrains.rider.diagram|null
 
 com.jetbrains.rider.plugins.dotnetwatch|null
 
+com.jetbrains.rider.plugins.verse|null
+
 com.jetbrains.rider.razor|null
 
 com.jetbrains.rider.rdct-shared|null
+
+com.jetbrains.station|null
 
 com.jetbrains.xaml.previewer|null
 

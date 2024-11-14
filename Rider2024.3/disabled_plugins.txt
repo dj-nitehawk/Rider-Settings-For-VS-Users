@@ -50,6 +50,8 @@ com.jetbrains.plugins.webDeployment
 com.jetbrains.rider-cpp
 com.jetbrains.rider-cpp-injection
 com.jetbrains.rider.fsharp
+com.jetbrains.rider.livePlusPlus
+com.jetbrains.rider.plugins.verse
 com.jetbrains.rider.publish.webDeploy
 com.jetbrains.sh
 com.jetbrains.space
