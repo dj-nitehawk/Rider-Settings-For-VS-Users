@@ -10,6 +10,11 @@
           "isSplit": true
         },
         {
+          "id": "Assembly Explorer",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
           "id": "Hierarchy",
           "order": 8,
           "weight": 0.16484375,
@@ -62,7 +67,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.17333809,
+          "weight": 0.16178572,
           "sideWeight": 0.48775154
         },
         {
@@ -77,7 +82,7 @@
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.1747677,
+          "weight": 0.16476053,
           "sideWeight": 0.5005435
         },
         {
@@ -93,7 +98,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.17321429,
+          "weight": 0.16190135,
           "sideWeight": 0.49945652
         },
         {
@@ -192,7 +197,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.23966613,
+          "weight": 0.3007968,
           "sideWeight": 0.50027204
         },
         {
@@ -263,7 +268,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.23966613,
+          "weight": 0.30318725,
           "sideWeight": 0.49972796
         },
         {
@@ -313,7 +318,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30301827,
+          "weight": 0.30325913,
           "sideWeight": 0.50026965
         },
         {
@@ -338,7 +343,7 @@
             458
           ],
           "type": "FLOATING",
-          "weight": 0.24023905
+          "weight": 0.30318725
         },
         {
           "id": "Run",
@@ -352,8 +357,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "weight": 0.23966613
+          "weight": 0.30318725
         },
         {
           "id": "Find",
@@ -368,7 +372,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30301827
+          "weight": 0.30325913
         },
         {
           "id": "NuGet",
@@ -382,7 +386,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.23985681
+          "weight": 0.30318725
         },
         {
           "id": "Endpoints",
@@ -459,7 +463,8 @@
           "id": "Monitoring",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.32994792
+          "isShowStripeButton": false,
+          "weight": 0.17333809
         },
         {
           "id": "Notifications",
@@ -471,8 +476,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.17333809,
-        "bottom": 0.23966613,
+        "left": 0.16178572,
+        "bottom": 0.30318725,
         "right": 0.17333809
       }
     }

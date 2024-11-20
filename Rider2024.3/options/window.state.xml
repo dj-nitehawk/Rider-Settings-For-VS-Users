@@ -43,34 +43,34 @@
     <size key="GridCell.Tab.5.center.0.0.1920.1080" width="1912" height="466" />
     <size key="GridCell.Tab.5.right.0.0.1920.1080" width="1912" height="466" />
     <size key="GridCell.Tab.5.bottom.0.0.1920.1080" width="1912" height="466" />
-    <size key="GridCell.Tab.0.left.0.0.3440.1440@106dpi" width="1020" height="285" />
-    <size key="GridCell.Tab.0.center.0.0.3440.1440@106dpi" width="1020" height="285" />
-    <size key="GridCell.Tab.0.right.0.0.3440.1440@106dpi" width="1020" height="285" />
-    <size key="GridCell.Tab.0.bottom.0.0.3440.1440@106dpi" width="1020" height="285" />
-    <size key="GridCell.Tab.1.left.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.1.center.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.1.right.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.1.bottom.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.2.left.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.2.center.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.2.right.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.2.bottom.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.3.left.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.3.center.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.3.right.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.3.bottom.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.4.left.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.4.center.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.4.right.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.4.bottom.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.5.left.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.5.center.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.5.right.0.0.3440.1440@106dpi" width="942" height="453" />
-    <size key="GridCell.Tab.5.bottom.0.0.3440.1440@106dpi" width="942" height="453" />
+    <size key="GridCell.Tab.0.left.0.0.3440.1440@106dpi" width="942" height="459" />
+    <size key="GridCell.Tab.0.center.0.0.3440.1440@106dpi" width="942" height="459" />
+    <size key="GridCell.Tab.0.right.0.0.3440.1440@106dpi" width="942" height="459" />
+    <size key="GridCell.Tab.0.bottom.0.0.3440.1440@106dpi" width="942" height="459" />
+    <size key="GridCell.Tab.1.left.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.1.center.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.1.right.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.1.bottom.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.2.left.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.2.center.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.2.right.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.2.bottom.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.3.left.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.3.center.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.3.right.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.3.bottom.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.4.left.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.4.center.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.4.right.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.4.bottom.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.5.left.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.5.center.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.5.right.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.5.bottom.0.0.3440.1440@106dpi" width="942" height="454" />
     <size key="find.popup.0.0.3440.1440@106dpi" width="833" height="632" />
   </component>
   <component name="WindowManager">
-    <frame x="939" y="0" width="1561" height="1394" />
+    <frame x="938" y="0" width="1562" height="1395" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="1275" y="482" width="564" height="675" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1728794905788">
@@ -81,14 +81,14 @@
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
     <state x="1274" y="482" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder/0.0.3115.1256" timestamp="1731464190071" />
-    <state width="530" height="134" key="ShowUsagesActions.dimensionServiceKey" timestamp="1730305071713">
+    <state width="530" height="134" key="ShowUsagesActions.dimensionServiceKey" timestamp="1731919020321">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state width="530" height="134" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1730305071713" />
-    <state x="1251" y="325" width="800" height="650" key="WELCOME_SCREEN" timestamp="1731564959699">
+    <state width="530" height="134" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1731919020321" />
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1732078311907">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1251" y="325" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1731564959699" />
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1732078311907" />
     <state x="1719" y="572" width="933" height="650" key="WELCOME_SCREEN/0.0.3440.1392" timestamp="1727528042349" />
     <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1727518920542" />
     <state x="859" y="389" key="ide.config.custom.settings" timestamp="1725545341940">

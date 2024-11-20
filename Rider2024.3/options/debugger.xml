@@ -1,6 +1,7 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
+      <option name="showLibraryStackFrames" value="true" />
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="150" />
     </data-views>
@@ -25,6 +26,7 @@
       </debugger>
       <debugger id="ObjectiveC">
         <configuration>
+          <child-process-debugging-settings />
           <macOS-symbol-settings />
           <nt-symbol-settings />
         </configuration>

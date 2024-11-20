@@ -54,8 +54,6 @@ com.jetbrains.rider.diagram|null
 
 com.jetbrains.rider.plugins.dotnetwatch|null
 
-com.jetbrains.rider.plugins.verse|null
-
 com.jetbrains.rider.razor|null
 
 com.jetbrains.rider.rdct-shared|null
