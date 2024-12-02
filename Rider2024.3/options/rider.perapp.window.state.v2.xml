@@ -67,22 +67,22 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16178572,
+          "weight": 0.18540925,
           "sideWeight": 0.48775154
         },
         {
           "id": "Structure",
           "order": 23,
           "floatingBounds": [
-            4,
+            -1,
             0,
-            417,
+            422,
             1256
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16476053,
+          "weight": 0.18548962,
           "sideWeight": 0.5005435
         },
         {
@@ -90,15 +90,15 @@
           "order": 24,
           "floatingBounds": [
             422,
-            1,
-            435,
+            0,
+            436,
             1258
           ],
           "type": "FLOATING",
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16190135,
+          "weight": 0.18548962,
           "sideWeight": 0.49945652
         },
         {
@@ -177,7 +177,8 @@
           ],
           "isMaximized": true,
           "type": "FLOATING",
-          "weight": 0.30318725,
+          "isActiveOnStart": true,
+          "weight": 0.30374205,
           "sideWeight": 0.50027204
         },
         {
@@ -224,7 +225,7 @@
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30374205,
+          "weight": 0.30350038,
           "sideWeight": 0.49945652
         },
         {
@@ -259,8 +260,8 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2256,
-            793,
+            2253,
+            792,
             862,
             465
           ],
@@ -309,7 +310,7 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2256,
+            2253,
             338,
             862,
             457
@@ -318,7 +319,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30325913,
+          "weight": 0.30318725,
           "sideWeight": 0.50026965
         },
         {
@@ -372,7 +373,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30325913
+          "weight": 0.30318725
         },
         {
           "id": "NuGet",
@@ -476,7 +477,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16178572,
+        "left": 0.18540925,
         "bottom": 0.30318725,
         "right": 0.17333809
       }

@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="pre &amp; post processor" />
+            <option value="required set" />
           </set>
         </option>
       </SuppressingContext>
