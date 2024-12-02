@@ -67,7 +67,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18540925,
+          "weight": 0.18691923,
           "sideWeight": 0.48775154
         },
         {
@@ -98,7 +98,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.18548962,
+          "weight": 0.18691923,
           "sideWeight": 0.49945652
         },
         {
@@ -110,13 +110,13 @@
           "id": "Rossynt",
           "order": 25,
           "floatingBounds": [
-            425,
+            418,
             0,
-            434,
+            441,
             1256
           ],
           "type": "FLOATING",
-          "weight": 0.17762688,
+          "weight": 0.18620443,
           "sideWeight": 0.51224846
         },
         {
@@ -477,7 +477,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.18540925,
+        "left": 0.18691923,
         "bottom": 0.30318725,
         "right": 0.17333809
       }
