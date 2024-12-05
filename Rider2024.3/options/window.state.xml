@@ -70,7 +70,7 @@
     <size key="find.popup.0.0.3440.1440@106dpi" width="833" height="632" />
   </component>
   <component name="WindowManager">
-    <frame x="939" y="0" width="1561" height="1394" />
+    <frame x="936" y="0" width="1564" height="1397" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="1275" y="482" width="564" height="675" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1728794905788">
@@ -89,10 +89,10 @@
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
     <state width="530" height="814" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1732195551462" />
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1733145555957">
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1733398913210">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1733145555957" />
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1733398913210" />
     <state x="1719" y="572" width="933" height="650" key="WELCOME_SCREEN/0.0.3440.1392" timestamp="1727528042349" />
     <state x="960" y="452" width="958" height="650" key="WELCOME_SCREEN/1920.0.1920.1032/0.0.1920.1032" timestamp="1727518920542" />
     <state x="859" y="389" key="ide.config.custom.settings" timestamp="1725545341940">
