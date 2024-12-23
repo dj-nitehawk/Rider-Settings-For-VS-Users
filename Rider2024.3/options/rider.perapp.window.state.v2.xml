@@ -1,0 +1,526 @@
+<application>
+  <component name="RiderPerAppToolWindowLayoutV2"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Bookmarks",
+          "isShowStripeButton": false,
+          "weight": 0.14817709,
+          "isSplit": true
+        },
+        {
+          "id": "Assembly Explorer",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Hierarchy",
+          "order": 8,
+          "isShowStripeButton": false,
+          "weight": 0.16690493,
+          "sideWeight": 0.50612426,
+          "isSplit": true
+        },
+        {
+          "id": "Commit",
+          "order": 11,
+          "floatingBounds": [
+            731,
+            39,
+            315,
+            940
+          ],
+          "weight": 0.16432291,
+          "sideWeight": 0.4994681,
+          "isSplit": true
+        },
+        {
+          "id": "VcsChanges",
+          "order": 19,
+          "floatingBounds": [
+            582,
+            209,
+            658,
+            470
+          ],
+          "weight": 0.16432291,
+          "sideWeight": 0.5005319,
+          "isSplit": true
+        },
+        {
+          "id": "Tests",
+          "order": 20,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.1653646,
+          "sideWeight": 0.5005435
+        },
+        {
+          "id": "Project",
+          "order": 22,
+          "floatingBounds": [
+            837,
+            46,
+            245,
+            940
+          ],
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.14974982,
+          "sideWeight": 0.47687608
+        },
+        {
+          "id": "Structure",
+          "order": 23,
+          "floatingBounds": [
+            -1,
+            0,
+            422,
+            1256
+          ],
+          "type": "FLOATING",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.14260185,
+          "sideWeight": 0.5005435
+        },
+        {
+          "id": "Unit Tests",
+          "order": 24,
+          "floatingBounds": [
+            422,
+            0,
+            436,
+            1258
+          ],
+          "type": "FLOATING",
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.15113798,
+          "sideWeight": 0.49945652
+        },
+        {
+          "id": "Activity",
+          "order": 25,
+          "weight": 0.18406004
+        },
+        {
+          "id": "Rossynt",
+          "order": 25,
+          "floatingBounds": [
+            418,
+            0,
+            441,
+            1256
+          ],
+          "type": "FLOATING",
+          "weight": 0.18620443,
+          "sideWeight": 0.51224846
+        },
+        {
+          "id": "Welcome to GitHub Copilot",
+          "order": 26,
+          "isShowStripeButton": false,
+          "weight": 0.33012134
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 27,
+          "floatingBounds": [
+            1120,
+            2,
+            1137,
+            1256
+          ],
+          "type": "FLOATING",
+          "isShowStripeButton": false,
+          "weight": 0.1575,
+          "sideWeight": 0.5061135,
+          "isSplit": true
+        },
+        {
+          "id": "GitHub Copilot Chat",
+          "order": 28,
+          "floatingBounds": [
+            1094,
+            1,
+            1163,
+            1256
+          ],
+          "type": "FLOATING",
+          "weight": 0.15113798,
+          "sideWeight": 0.5061135,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 29,
+          "isActiveOnStart": true,
+          "weight": 0.14229672,
+          "sideWeight": 0.5231239,
+          "isSplit": true
+        },
+        {
+          "id": "dotTrace Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.2989341
+        },
+        {
+          "id": "dotMemory Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "IL",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            2254,
+            3,
+            860,
+            790
+          ],
+          "type": "FLOATING",
+          "weight": 0.30381256
+        },
+        {
+          "id": "IL Viewer",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            1922,
+            516,
+            1916,
+            514
+          ],
+          "type": "FLOATING",
+          "weight": 0.32994187,
+          "sideWeight": 0.5005133
+        },
+        {
+          "id": "documentation.v2",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.34350777
+        },
+        {
+          "id": "Version Control",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            1004,
+            257,
+            1133,
+            801
+          ],
+          "isMaximized": true,
+          "type": "FLOATING",
+          "isActiveOnStart": true,
+          "weight": 0.30374205,
+          "sideWeight": 0.50027204
+        },
+        {
+          "id": "Problems",
+          "order": 11,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            568,
+            338,
+            1917,
+            515
+          ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.30007946,
+          "sideWeight": 0.50027204
+        },
+        {
+          "id": "Pull Requests",
+          "order": 16,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.26889536,
+          "sideWeight": 0.50051975
+        },
+        {
+          "id": "Dynamic Program Analysis",
+          "order": 21,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.30381256
+        },
+        {
+          "id": "Test Coverage",
+          "order": 22,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.30301827,
+          "sideWeight": 0.49945652
+        },
+        {
+          "id": "Coverage",
+          "order": 23,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            838,
+            275,
+            243,
+            482
+          ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "isShowStripeButton": false,
+          "weight": 0.32994187,
+          "sideWeight": 0.5244565
+        },
+        {
+          "id": "Unit Tests Coverage",
+          "order": 24,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.32994187,
+          "sideWeight": 0.5005133
+        },
+        {
+          "id": "Terminal",
+          "order": 26,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            2253,
+            792,
+            862,
+            465
+          ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.30301827,
+          "sideWeight": 0.49972796
+        },
+        {
+          "id": "Build",
+          "order": 30,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            2256,
+            1,
+            858,
+            337
+          ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.30301827
+        },
+        {
+          "id": "Inspection Results",
+          "order": 31,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            1925,
+            515,
+            1914,
+            519
+          ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "weight": 0.32994187
+        },
+        {
+          "id": "Problems View",
+          "order": 32,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            2254,
+            338,
+            862,
+            457
+          ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.3007968,
+          "sideWeight": 0.50026965
+        },
+        {
+          "id": "Stacktrace",
+          "order": 33,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "isShowStripeButton": false,
+          "weight": 0.32994187
+        },
+        {
+          "id": "Debug",
+          "order": 34,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            2256,
+            337,
+            859,
+            458
+          ],
+          "type": "FLOATING",
+          "isActiveOnStart": true,
+          "weight": 0.30301827
+        },
+        {
+          "id": "Run",
+          "order": 35,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            2255,
+            794,
+            859,
+            462
+          ],
+          "type": "FLOATING",
+          "internalType": "SLIDING",
+          "isActiveOnStart": true,
+          "weight": 0.30007946
+        },
+        {
+          "id": "Find",
+          "order": 36,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            1188,
+            690,
+            901,
+            464
+          ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.30301827
+        },
+        {
+          "id": "NuGet",
+          "order": 38,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            902,
+            839,
+            1308,
+            385
+          ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.30318725
+        },
+        {
+          "id": "Endpoints",
+          "order": 40,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            902,
+            416,
+            1915,
+            520
+          ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.3239044,
+          "sideWeight": 0.5005319
+        },
+        {
+          "id": "TODO",
+          "order": 41,
+          "anchor": "BOTTOM",
+          "isAutoHide": true,
+          "floatingBounds": [
+            4,
+            829,
+            1854,
+            158
+          ],
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.3239044
+        },
+        {
+          "id": "Messages",
+          "order": 41,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.2989341
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.12734374
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.18307292,
+          "sideWeight": 0.50051975
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Monitoring",
+          "order": 12,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.33012134
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.14974982,
+        "bottom": 0.30301827,
+        "right": 0.33012134
+      }
+    }
+  }
+}]]></component>
+</application>

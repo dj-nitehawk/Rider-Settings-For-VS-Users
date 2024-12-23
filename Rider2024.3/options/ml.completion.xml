@@ -1,0 +1,7 @@
+<application>
+  <component name="Inline Third Parties">
+    <thirdParties>
+      <entry id="com.github.copilot" is-enabled="true" />
+    </thirdParties>
+  </component>
+</application>

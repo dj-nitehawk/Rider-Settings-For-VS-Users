@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <removed_mapping ext="inputactions" approved="true" type="JSON" />
+      <removed_mapping ext="tps" approved="true" type="XML" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<application>
+  <component name="GraziConfig">
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="pre &amp; post processor" />
+            <option value="required set" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>

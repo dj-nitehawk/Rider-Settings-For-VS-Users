@@ -1,0 +1,31 @@
+<application>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+      </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Default.Author.ColumnIdVisibility" value="true" />
+      </map>
+    </option>
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
+    <option name="CUSTOM_BOOLEAN_PROPERTIES">
+      <map>
+        <entry key="Change.Log.Filter.on.Branch.Selection" value="false" />
+        <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
+    <option name="SHOW_TAG_NAMES" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="CREATE_CHANGELISTS_AUTOMATICALLY" value="true" />
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="false" />
+  </component>
+</application>

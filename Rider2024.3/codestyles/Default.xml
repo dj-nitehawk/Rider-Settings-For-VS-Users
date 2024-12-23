@@ -1,0 +1,17 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="165" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <Markdown>
+    <option name="WRAP_TEXT_IF_LONG" value="false" />
+    <option name="WRAP_TEXT_INSIDE_BLOCKQUOTES" value="false" />
+  </Markdown>
+  <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="999" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+</code_scheme>

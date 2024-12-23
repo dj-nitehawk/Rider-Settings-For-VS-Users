@@ -1,0 +1,2 @@
+org.example.githubpang.rossynt
+com.intellij.resharper.HeapAllocationsViewer
