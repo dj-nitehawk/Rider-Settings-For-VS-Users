@@ -68,8 +68,8 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15046462,
-          "sideWeight": 0.47687608
+          "weight": 0.14546105,
+          "sideWeight": 0.47733217
         },
         {
           "id": "Structure",
@@ -83,7 +83,7 @@
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.14260185,
+          "weight": 0.16190135,
           "sideWeight": 0.5005435
         },
         {
@@ -99,7 +99,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15113798,
+          "weight": 0.16107142,
           "sideWeight": 0.49945652
         },
         {
@@ -136,6 +136,7 @@
             1256
           ],
           "type": "FLOATING",
+          "isVisible": true,
           "isShowStripeButton": false,
           "weight": 0.1575,
           "sideWeight": 0.5061135,
@@ -158,9 +159,8 @@
         {
           "id": "Notifications",
           "order": 29,
-          "isActiveOnStart": true,
-          "weight": 0.14229672,
-          "sideWeight": 0.5231239,
+          "weight": 0.16038406,
+          "sideWeight": 0.5226679,
           "isSplit": true
         },
         {
@@ -242,7 +242,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30007946,
+          "weight": 0.29984114,
           "sideWeight": 0.50027204
         },
         {
@@ -313,7 +313,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30301827,
+          "weight": 0.30270484,
           "sideWeight": 0.49972796
         },
         {
@@ -331,7 +331,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30301827
+          "weight": 0.29984114
         },
         {
           "id": "Inspection Results",
@@ -388,8 +388,7 @@
             458
           ],
           "type": "FLOATING",
-          "isActiveOnStart": true,
-          "weight": 0.30301827
+          "weight": 0.29984114
         },
         {
           "id": "Run",
@@ -404,7 +403,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.30007946
+          "weight": 0.29984114
         },
         {
           "id": "Find",
@@ -419,7 +418,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30301827
+          "weight": 0.30270484
         },
         {
           "id": "NuGet",
@@ -433,7 +432,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30318725
+          "weight": 0.30270484
         },
         {
           "id": "Endpoints",
@@ -516,8 +515,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15046462,
-        "bottom": 0.30301827,
+        "left": 0.14546105,
+        "bottom": 0.30270484,
         "right": 0.33012134
       }
     }

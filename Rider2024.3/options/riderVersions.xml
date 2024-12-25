@@ -30,6 +30,7 @@
     <option name="perAppToolWindows" value="1" />
     <option name="problemsViewGotItTooltip" value="1" />
     <option name="registryMigrationVersion" value="2" />
+    <option name="repoViewFromRegistryToAdvanced" value="1" />
     <option name="resetNewUiLayoutForEveryone" value="1" />
     <option name="showDiffPreviewVersion" value="1" />
     <option name="solutionOpenVersion" value="1" />
