@@ -36,11 +36,11 @@
         <option name="openDirectoriesWithSingleClick" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;
   }
-}]]></component>
+}</component>
       <component name="ReaderModeSettings">
         <option name="enabled" value="false" />
         <option name="showRenderedDocs" value="false" />
@@ -74,10 +74,10 @@
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
         <state x="110" y="0" key="#Trusted_Locations/0.0.3115.1256" timestamp="1732627647273" />
-        <state x="814" y="124" width="916" height="740" key="Rider.NewProjectDialog.Size" timestamp="1734496969093">
+        <state x="814" y="124" width="916" height="740" key="Rider.NewProjectDialog.Size" timestamp="1735747312068">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
-        <state x="814" y="124" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1734496969093" />
+        <state x="814" y="124" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1735747312068" />
         <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1734845377161">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>

@@ -783,7 +783,7 @@
     
 &lt;/Patterns&gt;</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/Generate/=Implementations/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/CodeStyle/Generate/=Implementations/Options/=Async/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/CodeStyle/Generate/=Implementations/Options/=Async/@EntryIndexedValue">False</s:String>
 	<s:String x:Key="/Default/CodeStyle/Generate/=Implementations/Options/=Mutable/@EntryIndexedValue">False</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/Generate/=Overrides/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/CodeStyle/Generate/=Overrides/Options/=Async/@EntryIndexedValue">True</s:String>
@@ -826,7 +826,7 @@
 	<s:Boolean x:Key="/Default/Environment/General/RunTestClassesInParallel/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/LogToFile/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/LogToOutput/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">510305</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">518363</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/NuGetOptions/IncludePrerelease/@EntryValue">False</s:Boolean>
 	
 	
@@ -882,6 +882,7 @@
 	
 	<s:String x:Key="/Default/Environment/Highlighting/HighlightingMode/@EntryValue">OnlyMarkers</s:String>
 	<s:Boolean x:Key="/Default/Environment/Highlighting/UseShapedMarkers/@EntryValue">False</s:Boolean>
+	<s:String x:Key="/Default/Environment/InlayHints/CSharpOtherInlayHintsOptions/ShowBlockHeaderAfterItsClosingBrace/@EntryValue">Default</s:String>
 	
 	
 	
@@ -900,8 +901,23 @@
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpOtherInlayHintsOptions/ShowDeconstructionPatternComponentNamesHints/@EntryValue">PushToShowHints</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpOtherInlayHintsOptions/ShowPragmaDescriptionHints/@EntryValue">PushToShowHints</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpOtherInlayHintsOptions/ShowTupleComponentNamesHints/@EntryValue">PushToShowHints</s:String>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpParameterNameHintsOptions/HideForBuilderLikeMethods/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpParameterNameHintsOptions/HideForMethodsWithSameNamedNumberedParameters/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpParameterNameHintsOptions/HideForNonLiterals/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpParameterNameHintsOptions/HideIfIntentionOfArgumentIsClearFromUsage/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpParameterNameHintsOptions/HideIfIntentionOfFirstParameterIsClearFromMethodName/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpParameterNameHintsOptions/HideIfMethodIsAnnotatedAsStringFormatMethod/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpParameterNameHintsOptions/ShowParameterNameHints/@EntryValue">PushToShowHints</s:String>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeConversionHintsOptions/ShowHintsInSimplifiedMode/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeConversionHintsOptions/ShowOnlyUserDefinedConversions/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpTypeConversionHintsOptions/ShowTypeConversionHints/@EntryValue">PushToShowHints</s:String>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/HideForLastInvocation/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/HideForSingleAndOneLineInvocations/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/HideTypeNameHintsForImplicitlyTypedVariablesWhenTypeIsEvident/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/HideTypeNameHintsForLambdaExpressionParametersWhenEvident/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/HideTypeNameHintsForTargetTypedNewExpressionsWhenEvident/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/HideTypeNameHintsWhenTypeNameIsEvidentFromVariableName/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/JoinHintsForMethodsWithSameReturnTypes/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/ShowMethodReturnTypeNameHints/@EntryValue">PushToShowHints</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/ShowTypeNameHintsForImplicitlyTypedVariables/@EntryValue">PushToShowHints</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/ShowTypeNameHintsForLambdaExpressionParameters/@EntryValue">PushToShowHints</s:String>
@@ -909,7 +925,7 @@
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/ShowTypeNameHintsForPatternMatchingExpressions/@EntryValue">PushToShowHints</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/ShowTypeNameHintsForTargetTypedNewExpression/@EntryValue">PushToShowHints</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/GeneralInlayHintsOptions/DefaultMode/@EntryValue">Never</s:String>
-	<s:Boolean x:Key="/Default/Environment/InlayHints/GeneralInlayHintsOptions/EnableInlayHints/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/GeneralInlayHintsOptions/EnableInlayHints/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/InlayHints/GeneralInlayHintsOptions/EnablePushToHint/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpKeepExistingMigration/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EPsi_002ECSharp_002ECodeStyle_002ECSharpPlaceEmbeddedOnSameLineMigration/@EntryIndexedValue">True</s:Boolean>
@@ -930,7 +946,7 @@
 	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/Layout/SolBuilderDuoView/ShowBuildProgressInToolWindow/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/Housekeeping/Layout/SolBuilderDuoView/ShowBuildResultsMode/@EntryValue">ForWarningsOrErrors</s:String>
-	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">MonitoringPageId</s:String>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">CSharpOtherInlayHintsOptions</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/RefactoringsMru/InlineMethod/RemoveInitialDeclaration/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RefactoringsMru/InlineMethod/ReplaceAllUsages/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RefactoringsMru/RenameRefactoring/DoQuickRename/@EntryValue">True</s:Boolean>
