@@ -10,11 +10,6 @@
           "isSplit": true
         },
         {
-          "id": "Assembly Explorer",
-          "isShowStripeButton": false,
-          "isSplit": true
-        },
-        {
           "id": "Hierarchy",
           "order": 8,
           "isShowStripeButton": false,
@@ -68,8 +63,8 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16155493,
-          "sideWeight": 0.47725284
+          "weight": 0.15990028,
+          "sideWeight": 0.4886661
         },
         {
           "id": "Structure",
@@ -83,7 +78,7 @@
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16333094,
+          "weight": 0.15975696,
           "sideWeight": 0.5005435
         },
         {
@@ -99,7 +94,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16167024,
+          "weight": 0.15975696,
           "sideWeight": 0.49945652
         },
         {
@@ -156,10 +151,18 @@
           "isSplit": true
         },
         {
+          "id": "Assembly Explorer",
+          "order": 29,
+          "isShowStripeButton": false,
+          "weight": 0.16132478,
+          "sideWeight": 0.51133394,
+          "isSplit": true
+        },
+        {
           "id": "Notifications",
           "order": 29,
-          "weight": 0.15403861,
-          "sideWeight": 0.52274716,
+          "weight": 0.16178572,
+          "sideWeight": 0.5222902,
           "isSplit": true
         },
         {
@@ -184,7 +187,7 @@
             790
           ],
           "type": "FLOATING",
-          "weight": 0.30381256
+          "weight": 0.3
         },
         {
           "id": "IL Viewer",
@@ -268,7 +271,7 @@
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30301827,
+          "weight": 0.3003182,
           "sideWeight": 0.49945652
         },
         {
@@ -312,7 +315,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30007946,
+          "weight": 0.3,
           "sideWeight": 0.49972796
         },
         {
@@ -330,7 +333,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30007946
+          "weight": 0.3
         },
         {
           "id": "Inspection Results",
@@ -353,7 +356,7 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2254,
+            2253,
             338,
             862,
             457
@@ -362,7 +365,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.29984114,
+          "weight": 0.3,
           "sideWeight": 0.50026965
         },
         {
@@ -387,7 +390,7 @@
             458
           ],
           "type": "FLOATING",
-          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.3
         },
         {
@@ -402,6 +405,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
+          "isActiveOnStart": true,
           "weight": 0.3
         },
         {
@@ -410,9 +414,9 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2254,
-            340,
-            861,
+            2257,
+            339,
+            858,
             456
           ],
           "type": "FLOATING",
@@ -433,7 +437,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30007946
+          "weight": 0.29952267
         },
         {
           "id": "Endpoints",
@@ -516,8 +520,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16155493,
-        "bottom": 0.30007946,
+        "left": 0.15990028,
+        "bottom": 0.3,
         "right": 0.33012134
       }
     }
