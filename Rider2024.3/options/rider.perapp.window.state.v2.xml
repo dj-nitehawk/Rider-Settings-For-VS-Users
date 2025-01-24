@@ -63,8 +63,8 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15990028,
-          "sideWeight": 0.4886661
+          "weight": 0.15678573,
+          "sideWeight": 0.48382866
         },
         {
           "id": "Structure",
@@ -72,35 +72,30 @@
           "floatingBounds": [
             -1,
             0,
-            422,
+            420,
             1256
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15975696,
+          "weight": 0.15678573,
           "sideWeight": 0.5005435
         },
         {
           "id": "Unit Tests",
           "order": 24,
           "floatingBounds": [
-            422,
-            0,
-            436,
+            421,
+            1,
+            438,
             1258
           ],
           "type": "FLOATING",
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15975696,
+          "weight": 0.15689778,
           "sideWeight": 0.49945652
-        },
-        {
-          "id": "Activity",
-          "order": 25,
-          "weight": 0.18406004
         },
         {
           "id": "Rossynt",
@@ -146,7 +141,7 @@
             1256
           ],
           "type": "FLOATING",
-          "weight": 0.152609,
+          "weight": 0.15316275,
           "sideWeight": 0.5061135,
           "isSplit": true
         },
@@ -154,15 +149,17 @@
           "id": "Assembly Explorer",
           "order": 29,
           "isShowStripeButton": false,
-          "weight": 0.16132478,
+          "weight": 0.15813789,
           "sideWeight": 0.51133394,
           "isSplit": true
         },
         {
           "id": "Notifications",
           "order": 29,
-          "weight": 0.16178572,
-          "sideWeight": 0.5222902,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.15678573,
+          "sideWeight": 0.51617134,
           "isSplit": true
         },
         {
@@ -177,8 +174,14 @@
           "isShowStripeButton": false
         },
         {
-          "id": "IL",
+          "id": "Activity",
           "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.29984114
+        },
+        {
+          "id": "IL",
+          "order": 1,
           "anchor": "BOTTOM",
           "floatingBounds": [
             2254,
@@ -191,7 +194,7 @@
         },
         {
           "id": "IL Viewer",
-          "order": 2,
+          "order": 3,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -206,13 +209,13 @@
         },
         {
           "id": "documentation.v2",
-          "order": 4,
+          "order": 5,
           "anchor": "BOTTOM",
           "weight": 0.34350777
         },
         {
           "id": "Version Control",
-          "order": 9,
+          "order": 10,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -229,12 +232,12 @@
         },
         {
           "id": "Problems",
-          "order": 11,
+          "order": 12,
           "anchor": "BOTTOM"
         },
         {
           "id": "Services",
-          "order": 14,
+          "order": 15,
           "anchor": "BOTTOM",
           "floatingBounds": [
             568,
@@ -249,7 +252,7 @@
         },
         {
           "id": "Pull Requests",
-          "order": 16,
+          "order": 17,
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
@@ -258,7 +261,7 @@
         },
         {
           "id": "Dynamic Program Analysis",
-          "order": 21,
+          "order": 22,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -267,7 +270,7 @@
         },
         {
           "id": "Test Coverage",
-          "order": 22,
+          "order": 23,
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
@@ -276,7 +279,7 @@
         },
         {
           "id": "Coverage",
-          "order": 23,
+          "order": 24,
           "anchor": "BOTTOM",
           "floatingBounds": [
             838,
@@ -292,7 +295,7 @@
         },
         {
           "id": "Unit Tests Coverage",
-          "order": 24,
+          "order": 25,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -302,12 +305,12 @@
         },
         {
           "id": "Terminal",
-          "order": 26,
+          "order": 27,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2253,
-            792,
+            2256,
+            794,
             862,
             465
           ],
@@ -315,12 +318,12 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.3,
+          "weight": 0.30007946,
           "sideWeight": 0.49972796
         },
         {
           "id": "Build",
-          "order": 30,
+          "order": 31,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -333,11 +336,11 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.3
+          "weight": 0.30007946
         },
         {
           "id": "Inspection Results",
-          "order": 31,
+          "order": 32,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -352,12 +355,12 @@
         },
         {
           "id": "Problems View",
-          "order": 32,
+          "order": 33,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2253,
-            338,
+            2256,
+            339,
             862,
             457
           ],
@@ -370,7 +373,7 @@
         },
         {
           "id": "Stacktrace",
-          "order": 33,
+          "order": 34,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "type": "SLIDING",
@@ -380,7 +383,7 @@
         },
         {
           "id": "Debug",
-          "order": 34,
+          "order": 35,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -390,12 +393,11 @@
             458
           ],
           "type": "FLOATING",
-          "isVisible": true,
-          "weight": 0.3
+          "weight": 0.30007946
         },
         {
           "id": "Run",
-          "order": 35,
+          "order": 36,
           "anchor": "BOTTOM",
           "floatingBounds": [
             2255,
@@ -405,17 +407,16 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "weight": 0.3
+          "weight": 0.30007946
         },
         {
           "id": "Find",
-          "order": 36,
+          "order": 37,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
             2257,
-            339,
+            338,
             858,
             456
           ],
@@ -423,11 +424,11 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.3
+          "weight": 0.30007946
         },
         {
           "id": "NuGet",
-          "order": 38,
+          "order": 39,
           "anchor": "BOTTOM",
           "floatingBounds": [
             902,
@@ -437,11 +438,11 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.29952267
+          "weight": 0.30007946
         },
         {
           "id": "Endpoints",
-          "order": 40,
+          "order": 41,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -457,7 +458,7 @@
         },
         {
           "id": "TODO",
-          "order": 41,
+          "order": 42,
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
@@ -472,7 +473,7 @@
         },
         {
           "id": "Messages",
-          "order": 41,
+          "order": 42,
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
@@ -520,8 +521,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15990028,
-        "bottom": 0.3,
+        "left": 0.15678573,
+        "bottom": 0.30007946,
         "right": 0.33012134
       }
     }

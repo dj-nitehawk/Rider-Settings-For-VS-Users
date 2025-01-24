@@ -14,8 +14,6 @@ com.intellij.dev|null
 
 com.intellij.diagram|Other Tools
 
-com.intellij.llmInstaller|Other Tools
-
 com.intellij.marketplace.ml|Local AI/ML Tools
 
 com.intellij.microservices.ui|Microservices
