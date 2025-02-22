@@ -4,12 +4,21 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="required set" />
-            <option value="pre &amp; post processor" />
             <option value="&quot;" />
+            <option value="pre &amp; post processor" />
+            <option value="required set" />
           </set>
         </option>
       </SuppressingContext>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="SWEDISH" />
+          </set>
+        </option>
+      </State>
     </option>
   </component>
 </application>

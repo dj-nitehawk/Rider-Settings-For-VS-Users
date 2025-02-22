@@ -63,8 +63,8 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15678573,
-          "sideWeight": 0.48382866
+          "weight": 0.162384,
+          "sideWeight": 0.4847028
         },
         {
           "id": "Structure",
@@ -78,7 +78,7 @@
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15678573,
+          "weight": 0.14300999,
           "sideWeight": 0.5005435
         },
         {
@@ -94,7 +94,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15689778,
+          "weight": 0.162384,
           "sideWeight": 0.49945652
         },
         {
@@ -135,13 +135,14 @@
           "id": "GitHub Copilot Chat",
           "order": 28,
           "floatingBounds": [
-            1094,
+            1123,
             1,
-            1163,
+            1134,
             1256
           ],
           "type": "FLOATING",
-          "weight": 0.15316275,
+          "isActiveOnStart": true,
+          "weight": 0.1625,
           "sideWeight": 0.5061135,
           "isSplit": true
         },
@@ -156,10 +157,8 @@
         {
           "id": "Notifications",
           "order": 29,
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.15678573,
-          "sideWeight": 0.51617134,
+          "weight": 0.14750001,
+          "sideWeight": 0.5152972,
           "isSplit": true
         },
         {
@@ -190,7 +189,7 @@
             790
           ],
           "type": "FLOATING",
-          "weight": 0.3
+          "weight": 0.30007946
         },
         {
           "id": "IL Viewer",
@@ -318,7 +317,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30007946,
+          "weight": 0.29896498,
           "sideWeight": 0.49972796
         },
         {
@@ -336,7 +335,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30007946
+          "weight": 0.29896498
         },
         {
           "id": "Inspection Results",
@@ -368,7 +367,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.3,
+          "weight": 0.29896498,
           "sideWeight": 0.50026965
         },
         {
@@ -393,7 +392,8 @@
             458
           ],
           "type": "FLOATING",
-          "weight": 0.30007946
+          "isActiveOnStart": true,
+          "weight": 0.29896498
         },
         {
           "id": "Run",
@@ -407,7 +407,7 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "weight": 0.30007946
+          "weight": 0.29896498
         },
         {
           "id": "Find",
@@ -424,7 +424,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.30007946
+          "weight": 0.29896498
         },
         {
           "id": "NuGet",
@@ -438,7 +438,8 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.30007946
+          "isActiveOnStart": true,
+          "weight": 0.29896498
         },
         {
           "id": "Endpoints",
@@ -469,7 +470,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.3239044
+          "weight": 0.2992032
         },
         {
           "id": "Messages",
@@ -521,8 +522,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15678573,
-        "bottom": 0.30007946,
+        "left": 0.162384,
+        "bottom": 0.29896498,
         "right": 0.33012134
       }
     }
