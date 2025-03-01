@@ -126,7 +126,6 @@
             1256
           ],
           "type": "FLOATING",
-          "isVisible": true,
           "isShowStripeButton": false,
           "weight": 0.1575,
           "sideWeight": 0.5061135,
@@ -408,7 +407,6 @@
           ],
           "type": "FLOATING",
           "internalType": "SLIDING",
-          "isVisible": true,
           "weight": 0.2992032
         },
         {
@@ -425,6 +423,7 @@
           "type": "FLOATING",
           "internalType": "SLIDING",
           "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.2992032
         },
         {
