@@ -1,10 +1,10 @@
 <application>
   <component name="BlockTerminalUsage">
-    <option name="blockTerminalUsedLastTimeMillis" value="1740816732764" />
+    <option name="blockTerminalUsedLastTimeMillis" value="1744268949280" />
     <option name="blockTerminalUsedLastVersion" value="243.25659.34" />
     <option name="feedbackNotificationShown" value="true" />
     <shellToExecutedCommandsNumber>
-      <entry key="powershell" value="95" />
+      <entry key="powershell" value="101" />
     </shellToExecutedCommandsNumber>
   </component>
 </application>

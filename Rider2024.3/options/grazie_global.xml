@@ -5,8 +5,11 @@
         <option name="suppressed">
           <set>
             <option value="&quot;" />
-            <option value="pre &amp; post processor" />
             <option value="required set" />
+            <option value="pre &amp; post processor" />
+            <option value="The settings registers" />
+            <option value="the write" />
+            <option value=":" />
           </set>
         </option>
       </SuppressingContext>

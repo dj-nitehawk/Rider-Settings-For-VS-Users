@@ -21,6 +21,7 @@
               <option value="System.Threading.ThreadAbortException" />
               <option value="System.IO.DirectoryNotFoundException" />
               <option value="System.NullReferenceException" />
+              <option value="System.ArgumentException" />
             </list>
           </option>
         </configuration>

@@ -63,8 +63,8 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.14892858,
-          "sideWeight": 0.48425198
+          "weight": 0.14871612,
+          "sideWeight": 0.48951966
         },
         {
           "id": "Structure",
@@ -78,23 +78,23 @@
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15046462,
+          "weight": 0.1511794,
           "sideWeight": 0.5005435
         },
         {
           "id": "Unit Tests",
           "order": 24,
           "floatingBounds": [
-            421,
-            1,
-            438,
+            418,
+            0,
+            440,
             1258
           ],
           "type": "FLOATING",
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15046462,
+          "weight": 0.14871612,
           "sideWeight": 0.49945652
         },
         {
@@ -141,8 +141,7 @@
             1256
           ],
           "type": "FLOATING",
-          "isActiveOnStart": true,
-          "weight": 0.1625,
+          "weight": 0.15810135,
           "sideWeight": 0.5061135,
           "isSplit": true
         },
@@ -157,8 +156,8 @@
         {
           "id": "Notifications",
           "order": 29,
-          "weight": 0.15832737,
-          "sideWeight": 0.515748,
+          "weight": 0.14882228,
+          "sideWeight": 0.51048034,
           "isSplit": true
         },
         {
@@ -189,7 +188,7 @@
             790
           ],
           "type": "FLOATING",
-          "weight": 0.30007946
+          "weight": 0.29904687
         },
         {
           "id": "IL Viewer",
@@ -246,7 +245,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.2992032,
+          "weight": 0.29896498,
           "sideWeight": 0.50027204
         },
         {
@@ -273,7 +272,7 @@
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.29928458,
+          "weight": 0.2992032,
           "sideWeight": 0.49945652
         },
         {
@@ -308,8 +307,8 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2256,
-            794,
+            2253,
+            792,
             862,
             465
           ],
@@ -326,7 +325,7 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2256,
+            2255,
             1,
             858,
             340
@@ -358,8 +357,8 @@
           "anchor": "BOTTOM",
           "isAutoHide": true,
           "floatingBounds": [
-            2256,
-            339,
+            2253,
+            338,
             862,
             457
           ],
@@ -378,7 +377,7 @@
           "type": "SLIDING",
           "internalType": "SLIDING",
           "isShowStripeButton": false,
-          "weight": 0.32994187
+          "weight": 0.29904687
         },
         {
           "id": "Debug",
@@ -416,7 +415,7 @@
           "isAutoHide": true,
           "floatingBounds": [
             2257,
-            338,
+            337,
             858,
             456
           ],
@@ -424,7 +423,7 @@
           "internalType": "SLIDING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.2992032
+          "weight": 0.29928458
         },
         {
           "id": "NuGet",
@@ -438,7 +437,7 @@
           ],
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.2992032
+          "weight": 0.29928458
         },
         {
           "id": "Endpoints",
@@ -517,13 +516,21 @@
           "anchor": "RIGHT",
           "isShowStripeButton": false,
           "weight": 0.33012134
+        },
+        {
+          "id": "Designer Toolbox",
+          "order": 12,
+          "anchor": "RIGHT",
+          "isVisible": true,
+          "isShowStripeButton": false,
+          "weight": 0.118298784
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.14892858,
-        "bottom": 0.2992032,
-        "right": 0.33012134
+        "left": 0.14871612,
+        "bottom": 0.29928458,
+        "right": 0.118298784
       }
     }
   }

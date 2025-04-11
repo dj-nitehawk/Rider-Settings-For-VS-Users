@@ -43,10 +43,10 @@
     <size key="GridCell.Tab.5.center.0.0.1920.1080" width="1912" height="466" />
     <size key="GridCell.Tab.5.right.0.0.1920.1080" width="1912" height="466" />
     <size key="GridCell.Tab.5.bottom.0.0.1920.1080" width="1912" height="466" />
-    <size key="GridCell.Tab.0.left.0.0.3440.1440@106dpi" width="942" height="459" />
-    <size key="GridCell.Tab.0.center.0.0.3440.1440@106dpi" width="942" height="459" />
-    <size key="GridCell.Tab.0.right.0.0.3440.1440@106dpi" width="942" height="459" />
-    <size key="GridCell.Tab.0.bottom.0.0.3440.1440@106dpi" width="942" height="459" />
+    <size key="GridCell.Tab.0.left.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.0.center.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.0.right.0.0.3440.1440@106dpi" width="942" height="454" />
+    <size key="GridCell.Tab.0.bottom.0.0.3440.1440@106dpi" width="942" height="454" />
     <size key="GridCell.Tab.1.left.0.0.3440.1440@106dpi" width="942" height="454" />
     <size key="GridCell.Tab.1.center.0.0.3440.1440@106dpi" width="942" height="454" />
     <size key="GridCell.Tab.1.right.0.0.3440.1440@106dpi" width="942" height="454" />
@@ -70,25 +70,21 @@
     <size key="find.popup.0.0.3440.1440@106dpi" width="833" height="632" />
   </component>
   <component name="WindowManager">
-    <frame x="938" y="0" width="1562" height="1395" />
+    <frame x="936" y="0" width="1564" height="1397" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="1274" y="482" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder" timestamp="1732549106940">
-      <screen x="0" y="0" width="3115" height="1256" />
-    </state>
-    <state x="1274" y="482" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder/0.0.3115.1256" timestamp="1732549106940" />
     <state x="1173" y="363" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogProject" timestamp="1740583708766">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
     <state x="1173" y="363" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogProject/0.0.3115.1256" timestamp="1740583708766" />
-    <state width="530" height="254" key="ShowUsagesActions.dimensionServiceKey" timestamp="1740741922409">
+    <state width="530" height="814" key="ShowUsagesActions.dimensionServiceKey" timestamp="1743835798494">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state width="530" height="254" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1740741922409" />
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1740816807428">
+    <state width="530" height="814" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1743835798494" />
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1744342315648">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1740816807428" />
-    <state x="1236" y="215" width="159" height="27" key="WELCOME_SCREEN/0.0.3115.1304" timestamp="1739180820918" />
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1744342315648" />
+    <state x="1236" y="215" width="159" height="27" key="WELCOME_SCREEN/0.0.3115.1304" timestamp="1741614955548" />
   </component>
 </application>
