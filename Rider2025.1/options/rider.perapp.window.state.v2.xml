@@ -4,509 +4,168 @@
     "Custom": {
       "v2": [
         {
-          "id": "Bookmarks",
-          "isShowStripeButton": false,
-          "weight": 0.14817709,
-          "isSplit": true
-        },
-        {
-          "id": "Hierarchy",
+          "id": "Project",
           "order": 0,
-          "isShowStripeButton": false,
-          "weight": 0.16690493,
-          "sideWeight": 0.50612426,
-          "isSplit": true
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.22107142,
+          "sideWeight": 0.500437
         },
         {
           "id": "Commit",
           "order": 1,
-          "floatingBounds": [
-            731,
-            39,
-            315,
-            940
-          ],
-          "isShowStripeButton": false,
-          "weight": 0.16261616,
-          "sideWeight": 0.5048077,
-          "isSplit": true
-        },
-        {
-          "id": "VcsChanges",
-          "order": 2,
-          "floatingBounds": [
-            582,
-            209,
-            658,
-            470
-          ],
-          "weight": 0.16432291,
-          "sideWeight": 0.5005319,
-          "isSplit": true
-        },
-        {
-          "id": "Tests",
-          "order": 3,
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.1653646,
-          "sideWeight": 0.5005435
-        },
-        {
-          "id": "Project",
-          "order": 4,
-          "floatingBounds": [
-            837,
-            46,
-            245,
-            940
-          ],
-          "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.1625,
-          "sideWeight": 0.4951923
+          "weight": 0.25
         },
         {
           "id": "Structure",
-          "order": 5,
+          "order": 2,
           "floatingBounds": [
-            -1,
             0,
-            420,
-            1256
+            1,
+            412,
+            1251
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16215253,
-          "sideWeight": 0.5005435
+          "weight": 0.25035715,
+          "isSplit": true
         },
         {
           "id": "Unit Tests",
-          "order": 6,
+          "order": 3,
           "floatingBounds": [
-            418,
+            413,
             0,
-            440,
+            445,
             1258
           ],
           "type": "FLOATING",
-          "contentUiType": "COMBO",
-          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.162384,
-          "sideWeight": 0.49945652
-        },
-        {
-          "id": "Rossynt",
-          "order": 7,
-          "floatingBounds": [
-            418,
-            0,
-            441,
-            1256
-          ],
-          "type": "FLOATING",
-          "weight": 0.18620443,
-          "sideWeight": 0.51224846
-        },
-        {
-          "id": "Welcome to GitHub Copilot",
-          "order": 8,
-          "isShowStripeButton": false,
-          "weight": 0.33012134
-        },
-        {
-          "id": "github.copilotToolWindow",
-          "order": 9,
-          "floatingBounds": [
-            1120,
-            2,
-            1137,
-            1256
-          ],
-          "type": "FLOATING",
-          "isVisible": true,
-          "isShowStripeButton": false,
-          "weight": 0.1575,
-          "sideWeight": 0.5061135,
-          "isSplit": true
-        },
-        {
-          "id": "GitHub Copilot Chat",
-          "order": 10,
-          "floatingBounds": [
-            1123,
-            1,
-            1134,
-            1256
-          ],
-          "type": "FLOATING",
-          "weight": 0.15810135,
-          "sideWeight": 0.5061135,
-          "isSplit": true
-        },
-        {
-          "id": "Assembly Explorer",
-          "order": 11,
-          "isShowStripeButton": false,
-          "weight": 0.15813789,
-          "sideWeight": 0.51133394,
-          "isSplit": true
-        },
-        {
-          "id": "RoslynVisualizer",
-          "order": 12,
-          "floatingBounds": [
-            416,
-            0,
-            442,
-            1258
-          ],
-          "type": "FLOATING",
-          "weight": 0.32987848,
+          "weight": 0.33001593,
           "isSplit": true
         },
         {
           "id": "Notifications",
-          "order": 13,
-          "weight": 0.16226819,
-          "sideWeight": 0.51046205,
+          "order": 4,
+          "weight": 0.25053608,
+          "sideWeight": 0.49956292,
           "isSplit": true
-        },
-        {
-          "id": "dotTrace Profiler",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.2989341
-        },
-        {
-          "id": "dotMemory Profiler",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Activity",
-          "order": 0,
-          "anchor": "BOTTOM",
-          "weight": 0.29984114
-        },
-        {
-          "id": "IL",
-          "order": 1,
-          "anchor": "BOTTOM",
-          "floatingBounds": [
-            2254,
-            3,
-            860,
-            790
-          ],
-          "type": "FLOATING",
-          "weight": 0.29904687
-        },
-        {
-          "id": "IL Viewer",
-          "order": 2,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "floatingBounds": [
-            1922,
-            516,
-            1916,
-            514
-          ],
-          "type": "FLOATING",
-          "weight": 0.32994187,
-          "sideWeight": 0.5005133
-        },
-        {
-          "id": "documentation.v2",
-          "order": 3,
-          "anchor": "BOTTOM",
-          "weight": 0.34350777
         },
         {
           "id": "Version Control",
-          "order": 4,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "floatingBounds": [
-            1004,
-            257,
-            1133,
-            801
-          ],
-          "isMaximized": true,
-          "type": "FLOATING",
-          "isActiveOnStart": true,
-          "weight": 0.30374205,
-          "sideWeight": 0.50027204
-        },
-        {
-          "id": "Problems",
-          "order": 5,
+          "order": 0,
           "anchor": "BOTTOM"
         },
         {
-          "id": "Services",
-          "order": 6,
-          "anchor": "BOTTOM",
-          "floatingBounds": [
-            568,
-            338,
-            1917,
-            515
-          ],
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.29896498,
-          "sideWeight": 0.50027204
-        },
-        {
-          "id": "Pull Requests",
-          "order": 7,
-          "anchor": "BOTTOM",
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.26889536,
-          "sideWeight": 0.50051975
-        },
-        {
-          "id": "Dynamic Program Analysis",
-          "order": 8,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.30381256
-        },
-        {
-          "id": "Test Coverage",
-          "order": 9,
-          "anchor": "BOTTOM",
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.29928458,
-          "sideWeight": 0.49945652
-        },
-        {
-          "id": "Coverage",
-          "order": 10,
-          "anchor": "BOTTOM",
-          "floatingBounds": [
-            838,
-            275,
-            243,
-            482
-          ],
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "isShowStripeButton": false,
-          "weight": 0.32994187,
-          "sideWeight": 0.5244565
-        },
-        {
-          "id": "Unit Tests Coverage",
-          "order": 11,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.32994187,
-          "sideWeight": 0.5005133
-        },
-        {
-          "id": "Terminal",
-          "order": 12,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "floatingBounds": [
-            2256,
-            794,
-            859,
-            463
-          ],
-          "type": "FLOATING",
-          "internalType": "SLIDING",
-          "weight": 0.29872712,
-          "sideWeight": 0.49972796
-        },
-        {
-          "id": "Run",
-          "order": 13,
-          "anchor": "BOTTOM",
-          "floatingBounds": [
-            2255,
-            794,
-            859,
-            462
-          ],
-          "type": "FLOATING",
-          "internalType": "SLIDING",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.29872712
-        },
-        {
-          "id": "Find",
-          "order": 14,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "floatingBounds": [
-            2256,
-            340,
-            858,
-            456
-          ],
-          "type": "FLOATING",
-          "internalType": "SLIDING",
-          "weight": 0.29872712
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
         },
         {
           "id": "Problems View",
-          "order": 15,
+          "order": 2,
           "anchor": "BOTTOM",
-          "isAutoHide": true,
           "floatingBounds": [
-            2257,
-            341,
+            2256,
+            369,
             860,
-            455
+            546
           ],
           "type": "FLOATING",
-          "internalType": "SLIDING",
-          "weight": 0.162384,
-          "sideWeight": 0.50026965
-        },
-        {
-          "id": "Inspection Results",
-          "order": 16,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "floatingBounds": [
-            1925,
-            515,
-            1914,
-            519
-          ],
-          "type": "FLOATING",
-          "internalType": "SLIDING",
-          "weight": 0.32994187
-        },
-        {
-          "id": "Stacktrace",
-          "order": 17,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "isShowStripeButton": false,
-          "weight": 0.29904687
-        },
-        {
-          "id": "Debug",
-          "order": 18,
-          "anchor": "BOTTOM",
-          "isAutoHide": true,
-          "floatingBounds": [
-            2255,
-            339,
-            859,
-            458
-          ],
-          "type": "FLOATING",
-          "internalType": "SLIDING",
           "isActiveOnStart": true,
-          "weight": 0.29840636
+          "isVisible": true,
+          "weight": 0.33027887
         },
         {
-          "id": "Build",
-          "order": 19,
+          "id": "Terminal",
+          "order": 3,
           "anchor": "BOTTOM",
-          "isAutoHide": true,
           "floatingBounds": [
             2255,
-            1,
-            858,
+            916,
+            861,
             340
           ],
           "type": "FLOATING",
-          "internalType": "SLIDING",
-          "weight": 0.29840636
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.33027887
         },
         {
-          "id": "NuGet",
-          "order": 20,
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Build",
+          "order": 5,
           "anchor": "BOTTOM",
           "floatingBounds": [
-            902,
-            839,
-            1308,
-            385
+            2256,
+            1,
+            860,
+            373
           ],
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.29840636
+          "type": "FLOATING",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.33001593
         },
         {
-          "id": "Endpoints",
-          "order": 21,
+          "id": "Run",
+          "order": 6,
           "anchor": "BOTTOM",
-          "isAutoHide": true,
           "floatingBounds": [
-            902,
-            416,
-            1915,
-            520
+            2255,
+            916,
+            861,
+            340
           ],
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.3239044,
-          "sideWeight": 0.5005319
+          "type": "FLOATING",
+          "isVisible": true,
+          "weight": 0.33027887
         },
         {
-          "id": "TODO",
-          "order": 22,
+          "id": "Find",
+          "order": 7,
           "anchor": "BOTTOM",
-          "isAutoHide": true,
           "floatingBounds": [
-            4,
-            829,
-            1854,
-            158
+            2256,
+            370,
+            860,
+            545
           ],
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.29872712
+          "type": "FLOATING",
+          "isVisible": true,
+          "weight": 0.33027887
         },
         {
-          "id": "Messages",
-          "order": 23,
+          "id": "Debug",
+          "order": 8,
           "anchor": "BOTTOM",
-          "type": "SLIDING",
-          "internalType": "SLIDING",
-          "weight": 0.2989341
-        },
-        {
-          "id": "Meet New UI",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "isSplit": true
+          "floatingBounds": [
+            2256,
+            414,
+            861,
+            501
+          ],
+          "type": "FLOATING",
+          "isVisible": true,
+          "weight": 0.33027887
         },
         {
           "id": "AIAssistant",
           "order": 0,
           "anchor": "RIGHT",
-          "weight": 0.12734374
+          "weight": 0.25
         },
         {
           "id": "Database",
           "order": 1,
           "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.18307292,
-          "sideWeight": 0.50051975
+          "weight": 0.25
         },
         {
           "id": "Gradle",
@@ -519,28 +178,13 @@
           "order": 3,
           "anchor": "RIGHT",
           "weight": 0.25
-        },
-        {
-          "id": "Monitoring",
-          "order": 4,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.33012134
-        },
-        {
-          "id": "Designer Toolbox",
-          "order": 5,
-          "anchor": "RIGHT",
-          "isVisible": true,
-          "isShowStripeButton": false,
-          "weight": 0.118298784
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.1625,
-        "bottom": 0.29840636,
-        "right": 0.32987848
+        "left": 0.22107142,
+        "bottom": 0.33027887,
+        "right": 0.33
       }
     }
   }
