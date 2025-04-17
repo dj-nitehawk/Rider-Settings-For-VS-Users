@@ -42,8 +42,6 @@ com.jetbrains.performancePlugin.async|Other Tools
 
 com.jetbrains.performancePlugin|Other Tools
 
-com.jetbrains.plugins.rider.privateFeedAuth|null
-
 com.jetbrains.restClient|Microservices
 
 com.jetbrains.rider.diagram|null
@@ -53,8 +51,6 @@ com.jetbrains.rider.frontend|null
 com.jetbrains.rider.plugins.debuggerLinq|Other Tools
 
 com.jetbrains.rider.plugins.dotnetwatch|null
-
-com.jetbrains.rider.plugins.noesis|null
 
 com.jetbrains.rider.razor|null
 

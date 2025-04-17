@@ -9,7 +9,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15798858,
+          "weight": 0.15761259,
           "sideWeight": 0.5008733
         },
         {
@@ -207,7 +207,6 @@
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.33027887
         },
         {
@@ -253,7 +252,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15798858,
+        "left": 0.15761259,
         "bottom": 0.32975337,
         "right": 0.33012134
       }
