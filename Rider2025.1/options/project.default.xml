@@ -1,0 +1,99 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CommitMessageInspectionProfile">
+        <profile version="1.0">
+          <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true" />
+        </profile>
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="Git.Settings">
+        <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+        <option name="PUSH_AUTO_UPDATE" value="true" />
+      </component>
+      <component name="GithubDefaultAccount">
+        <option name="defaultAccountId" value="9b5e5ae3-0aa2-4a18-9caf-83af35f2b90f" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id>EditorConfig</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>EditorConfigValueCorrectness</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollToSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="openDirectoriesWithSingleClick" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+      <component name="ReaderModeSettings">
+        <option name="enabled" value="false" />
+        <option name="showRenderedDocs" value="false" />
+      </component>
+      <component name="ShelveChangesManager">
+        <option name="remove_strategy" value="true" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1696760591573</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1696760591573</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="VcsManagerConfiguration">
+        <option name="CHECK_NEW_TODO" value="false" />
+        <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
+        <confirmRemoveEmptyChangelist value="2" />
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+        <option name="MAXIMUM_HISTORY_ROWS" value="500" />
+        <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="814" y="124" width="916" height="740" key="Rider.NewProjectDialog.Size" timestamp="1740756795613">
+          <screen x="0" y="0" width="3115" height="1256" />
+        </state>
+        <state x="814" y="124" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1740756795613" />
+        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1741509593559">
+          <screen x="0" y="0" width="3115" height="1256" />
+        </state>
+        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor/0.0.3115.1256" timestamp="1741509593559" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.28963795" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

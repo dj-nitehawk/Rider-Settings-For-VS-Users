@@ -1,0 +1,8 @@
+<application>
+  <component name="InlineShortcutChoice">
+    <option name="choiceShownTimes" value="50" />
+  </component>
+  <component name="MLServerCompletionSettings">
+    <option name="enable" value="false" />
+  </component>
+</application>

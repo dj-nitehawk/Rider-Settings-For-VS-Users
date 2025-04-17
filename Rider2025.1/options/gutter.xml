@@ -1,0 +1,19 @@
+<application>
+  <component name="LineMarkerSettings">
+    <option name="providers">
+      <map>
+        <entry key="RenderedDoc" value="true" />
+        <entry key="SwOpenInHttpClientLineMarkerProvider" value="true" />
+        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+        <entry key="com.intellij.httpClient.http.request.codeInsight.HttpClientOverrideLineMarkerProvider" value="true" />
+        <entry key="com.intellij.httpClient.http.request.codeInsight.HttpRequestDiffLineMarkerProvider" value="true" />
+        <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
+        <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureHtmlImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureMarkdownImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureTextHtmlImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.extensions.common.plantuml.PlantUMLCodeFenceDownloadLineMarkerProvider" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
