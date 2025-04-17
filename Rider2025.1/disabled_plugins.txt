@@ -47,11 +47,13 @@ com.jetbrains.dotTrace.dotMemory
 com.jetbrains.gateway
 com.jetbrains.plugins.ini4idea
 com.jetbrains.plugins.jade
+com.jetbrains.plugins.rider.privateFeedAuth
 com.jetbrains.plugins.webDeployment
 com.jetbrains.rider-cpp
 com.jetbrains.rider-cpp-injection
 com.jetbrains.rider.fsharp
 com.jetbrains.rider.livePlusPlus
+com.jetbrains.rider.plugins.noesis
 com.jetbrains.rider.plugins.verse
 com.jetbrains.rider.publish.webDeploy
 com.jetbrains.sh
@@ -75,6 +77,7 @@ org.jetbrains.plugins.github
 org.jetbrains.plugins.gitlab
 org.jetbrains.plugins.less
 org.jetbrains.plugins.node-remote-interpreter
+org.jetbrains.plugins.remote-run
 org.jetbrains.plugins.sass
 org.jetbrains.plugins.vagrant
 org.jetbrains.plugins.vue
