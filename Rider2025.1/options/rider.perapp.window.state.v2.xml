@@ -9,8 +9,8 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.22107142,
-          "sideWeight": 0.500437
+          "weight": 0.15798858,
+          "sideWeight": 0.5008733
         },
         {
           "id": "Commit",
@@ -24,7 +24,7 @@
             0,
             1,
             412,
-            1251
+            1257
           ],
           "type": "FLOATING",
           "isActiveOnStart": true,
@@ -47,25 +47,77 @@
           "isSplit": true
         },
         {
-          "id": "Notifications",
+          "id": "RoslynVisualizer",
           "order": 4,
-          "weight": 0.25053608,
-          "sideWeight": 0.49956292,
+          "floatingBounds": [
+            411,
+            1,
+            446,
+            1257
+          ],
+          "type": "FLOATING",
+          "weight": 0.33012134,
           "isSplit": true
         },
         {
-          "id": "Version Control",
+          "id": "Notifications",
+          "order": 5,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.16452533,
+          "sideWeight": 0.4991266,
+          "isSplit": true
+        },
+        {
+          "id": "IL",
           "order": 0,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            2257,
+            1,
+            860,
+            917
+          ],
+          "type": "FLOATING",
+          "weight": 0.32975337
+        },
+        {
+          "id": "Services",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.32975337
+        },
+        {
+          "id": "Version Control",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "floatingBounds": [
+            1127,
+            81,
+            1130,
+            1178
+          ],
+          "type": "FLOATING",
+          "weight": 0.32975337
+        },
+        {
+          "id": "Test Coverage",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.32975337
         },
         {
           "id": "Problems",
-          "order": 1,
+          "order": 4,
           "anchor": "BOTTOM"
         },
         {
           "id": "Problems View",
-          "order": 2,
+          "order": 5,
           "anchor": "BOTTOM",
           "floatingBounds": [
             2256,
@@ -80,7 +132,7 @@
         },
         {
           "id": "Terminal",
-          "order": 3,
+          "order": 6,
           "anchor": "BOTTOM",
           "floatingBounds": [
             2255,
@@ -94,13 +146,17 @@
           "weight": 0.33027887
         },
         {
-          "id": "Services",
-          "order": 4,
-          "anchor": "BOTTOM"
+          "id": "Coverage",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "isShowStripeButton": false,
+          "weight": 0.32975337
         },
         {
           "id": "Build",
-          "order": 5,
+          "order": 8,
           "anchor": "BOTTOM",
           "floatingBounds": [
             2256,
@@ -115,7 +171,7 @@
         },
         {
           "id": "Run",
-          "order": 6,
+          "order": 9,
           "anchor": "BOTTOM",
           "floatingBounds": [
             2255,
@@ -124,12 +180,11 @@
             340
           ],
           "type": "FLOATING",
-          "isVisible": true,
           "weight": 0.33027887
         },
         {
           "id": "Find",
-          "order": 7,
+          "order": 10,
           "anchor": "BOTTOM",
           "floatingBounds": [
             2256,
@@ -138,22 +193,38 @@
             545
           ],
           "type": "FLOATING",
-          "isVisible": true,
           "weight": 0.33027887
         },
         {
           "id": "Debug",
-          "order": 8,
+          "order": 11,
           "anchor": "BOTTOM",
           "floatingBounds": [
             2256,
-            414,
+            372,
             861,
-            501
+            543
           ],
           "type": "FLOATING",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.33027887
+        },
+        {
+          "id": "NuGet",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.32975337
+        },
+        {
+          "id": "TODO",
+          "order": 13,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.32975337
         },
         {
           "id": "AIAssistant",
@@ -182,9 +253,9 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.22107142,
-        "bottom": 0.33027887,
-        "right": 0.33
+        "left": 0.15798858,
+        "bottom": 0.32975337,
+        "right": 0.33012134
       }
     }
   }
