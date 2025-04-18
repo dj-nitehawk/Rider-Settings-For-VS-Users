@@ -9,7 +9,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.15761259,
+          "weight": 0.1575,
           "sideWeight": 0.5008733
         },
         {
@@ -38,7 +38,7 @@
           "floatingBounds": [
             413,
             0,
-            445,
+            446,
             1258
           ],
           "type": "FLOATING",
@@ -64,7 +64,7 @@
           "order": 5,
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.16452533,
+          "weight": 0.16476053,
           "sideWeight": 0.4991266,
           "isSplit": true
         },
@@ -108,7 +108,7 @@
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.32975337
+          "weight": 0.32948208
         },
         {
           "id": "Problems",
@@ -215,7 +215,7 @@
           "anchor": "BOTTOM",
           "type": "SLIDING",
           "internalType": "SLIDING",
-          "weight": 0.32975337
+          "weight": 0.32948208
         },
         {
           "id": "TODO",
@@ -252,8 +252,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.15761259,
-        "bottom": 0.32975337,
+        "left": 0.1575,
+        "bottom": 0.32948208,
         "right": 0.33012134
       }
     }

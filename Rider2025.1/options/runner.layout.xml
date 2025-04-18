@@ -51,12 +51,13 @@
         <option name="tabIndex" value="1" />
       </ViewImpl>
       <TabImpl>
-        <option name="index" value="1" />
-        <option name="leftProportion" value="0.22508793" />
-      </TabImpl>
-      <TabImpl>
         <option name="bottomProportion" value="0.0" />
         <option name="defaultIndex" value="2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="1" />
+        <option name="index" value="1" />
+        <option name="leftProportion" value="0.22508793" />
       </TabImpl>
       <TabImpl>
         <option name="defaultIndex" value="4" />
