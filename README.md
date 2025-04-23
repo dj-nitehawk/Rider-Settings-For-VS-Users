@@ -22,7 +22,7 @@ This repository contains JetBrains Rider IDE configuration files that tries to b
     - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
     - [Nested Brackets Colorer](https://plugins.jetbrains.com/plugin/10210-nested-brackets-colorer)
 
-8. Re-adjust the window positions to suit your monitor.
+8. Change the tool window (run/debug/find/terminal/etc.) positions to suit your needs as the default positions are not very productive, specially on [ultrawide monitors](https://raw.githubusercontent.com/dj-nitehawk/Rider-Settings-For-VS-Users/main/ultrawide.png).
 
 That's it!
 
@@ -32,19 +32,21 @@ The keymap has been customized to suit my personal needs. You may want to change
 
 - Close current solution (open welcome screen): `CTRL + ALT + X`
 - Settings window: `CTRL + Q`
-- Find usages of a symbol: `CTRL + /`
-- Jump to definition/source: `CTRL + .`
-- Navigate back: `CTRL + ,`
+- Find usages of a symbol: `CTRL + ?`
+- Peek in to definition: `ALT + ?`
+- Jump to definition/source: `CTRL + >`
+- Navigate back: `CTRL + <`
 - Expand all: `CTRL + "`
-- Collapse to definitions: `CTRL + ;`
+- Collapse to definitions: `CTRL + :`
 - Collapse only doc/xml comments: `CTRL + L`
 - Toggle line comment: `CTRL + ALT + C`
 - Move selected definition to separate file: `CTRL + M`
 - Run project: `F5`
 - Debug project: `CTRL + F5`
 - Run tests in current session: `CTRL + R`
+- Run only failed tests: `CTRL + E`
 - Close current tab: `CTRL + F4`
-- Close other tabs except current: `CTRL + \`
+- Close other tabs except current: `CTRL + |`
 - Close all tabs: `CTRL + Backspace`
 - Show file structure/outline: `CTRL + O`
 - Show unit tests: `CTRL + P`
