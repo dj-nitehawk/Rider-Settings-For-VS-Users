@@ -9,6 +9,7 @@ PermanentUserId
 consentOptions/
 dotTrace/
 IntelliJ/
+PrivacyPolicy/
 Rider2025.1/.lock
 Rider2025.1/app-internal-state.db
 Rider2025.1/c.kdbx
@@ -47,10 +48,3 @@ Rider2025.1/scratches/
 Rider2025.1/workspace/
 Shared/
 WebStorm2024.3/
-
-
-
-
-
-
-

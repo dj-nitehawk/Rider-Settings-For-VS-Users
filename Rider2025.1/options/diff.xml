@@ -44,6 +44,12 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="BlankDiffWindow">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+        </PlaceSettings>
+      </entry>
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
