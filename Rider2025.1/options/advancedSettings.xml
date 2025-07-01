@@ -6,6 +6,7 @@
         <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="editor.maximize.on.double.click" value="false" />
         <entry key="floating.codeToolbar.hide" value="true" />
+        <entry key="git.non.modal.commit" value="true" />
         <entry key="ide.always.show.tool.window.header.icons" value="true" />
         <entry key="ide.max.recent.projects" value="10" />
         <entry key="ide.tool.window.header.dnd" value="false" />

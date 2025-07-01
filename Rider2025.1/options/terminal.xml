@@ -7,4 +7,7 @@
       <entry key="powershell" value="101" />
     </shellToExecutedCommandsNumber>
   </component>
+  <component name="TerminalOptionsProvider">
+    <option name="terminalEngine" value="REWORKED" />
+  </component>
 </application>

@@ -28,7 +28,7 @@
     <option name="newCommonDebugUiVersion" value="4" />
     <option name="newDebugUiVersion" value="5" />
     <option name="parallelStackSwitchOnByDefault" value="1" />
-    <option name="patchEngine" value="1" />
+    <option name="patchEngine" value="2" />
     <option name="perAppToolWindows" value="1" />
     <option name="problemsViewGotItTooltip" value="1" />
     <option name="registryMigrationVersion" value="2" />

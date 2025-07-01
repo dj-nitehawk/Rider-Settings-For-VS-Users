@@ -52,13 +52,13 @@ com.jetbrains.rider.plugins.debuggerLinq|Other Tools
 
 com.jetbrains.rider.plugins.dotnetwatch|null
 
-com.jetbrains.rider.razor|null
-
 com.jetbrains.station|null
 
 com.jetbrains.xaml.previewer|null
 
 intellij.charts|null
+
+intellij.git.commit.modal|Version Controls
 
 intellij.grid.plugin|null
 
@@ -69,8 +69,6 @@ org.editorconfig.editorconfigjetbrains|Other Tools
 org.intellij.intelliLang|Other Tools
 
 org.intellij.plugins.markdown|Languages
-
-org.jetbrains.platform.debugger.streams|Other Tools
 
 org.jetbrains.plugins.terminal|Other Tools
 
