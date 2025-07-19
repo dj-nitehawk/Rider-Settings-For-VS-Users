@@ -1,64 +1,64 @@
 <application>
   <component name="TimeBetweenTyping">
     <dailyDataMap>
-      <entry key="2025-06-19">
+      <entry key="2025-07-09">
         <DailyData>
-          <option name="count" value="393" />
-          <option name="totalTime" value="225688" />
+          <option name="count" value="323" />
+          <option name="totalTime" value="238945" />
         </DailyData>
       </entry>
-      <entry key="2025-06-20">
+      <entry key="2025-07-10">
         <DailyData>
-          <option name="count" value="36" />
-          <option name="totalTime" value="53344" />
+          <option name="count" value="598" />
+          <option name="totalTime" value="350589" />
         </DailyData>
       </entry>
-      <entry key="2025-06-21">
-        <DailyData>
-          <option name="count" value="757" />
-          <option name="totalTime" value="450952" />
-        </DailyData>
-      </entry>
-      <entry key="2025-06-22">
-        <DailyData>
-          <option name="count" value="763" />
-          <option name="totalTime" value="668290" />
-        </DailyData>
-      </entry>
-      <entry key="2025-06-23">
-        <DailyData>
-          <option name="count" value="140" />
-          <option name="totalTime" value="102870" />
-        </DailyData>
-      </entry>
-      <entry key="2025-06-26">
+      <entry key="2025-07-11">
         <DailyData>
           <option name="count" value="3" />
-          <option name="totalTime" value="10566" />
+          <option name="totalTime" value="1574" />
         </DailyData>
       </entry>
-      <entry key="2025-06-27">
+      <entry key="2025-07-13">
         <DailyData>
-          <option name="count" value="169" />
-          <option name="totalTime" value="166856" />
+          <option name="count" value="3334" />
+          <option name="totalTime" value="2633516" />
         </DailyData>
       </entry>
-      <entry key="2025-06-29">
+      <entry key="2025-07-14">
         <DailyData>
-          <option name="count" value="25" />
-          <option name="totalTime" value="32058" />
+          <option name="count" value="736" />
+          <option name="totalTime" value="459995" />
         </DailyData>
       </entry>
-      <entry key="2025-06-30">
+      <entry key="2025-07-15">
         <DailyData>
-          <option name="count" value="338" />
-          <option name="totalTime" value="316766" />
+          <option name="count" value="2335" />
+          <option name="totalTime" value="1668446" />
         </DailyData>
       </entry>
-      <entry key="2025-07-01">
+      <entry key="2025-07-16">
         <DailyData>
-          <option name="count" value="1140" />
-          <option name="totalTime" value="777758" />
+          <option name="count" value="159" />
+          <option name="totalTime" value="111568" />
+        </DailyData>
+      </entry>
+      <entry key="2025-07-17">
+        <DailyData>
+          <option name="count" value="572" />
+          <option name="totalTime" value="499571" />
+        </DailyData>
+      </entry>
+      <entry key="2025-07-18">
+        <DailyData>
+          <option name="count" value="2931" />
+          <option name="totalTime" value="1601369" />
+        </DailyData>
+      </entry>
+      <entry key="2025-07-19">
+        <DailyData>
+          <option name="count" value="459" />
+          <option name="totalTime" value="209238" />
         </DailyData>
       </entry>
     </dailyDataMap>
