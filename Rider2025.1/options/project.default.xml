@@ -69,10 +69,14 @@
         <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
       </component>
       <component name="WindowStateProjectService">
-        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1751368901067">
+        <state x="1100" y="178" key="Rider.NewProjectDialog.Size" timestamp="1754660559513">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
-        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor/0.0.3115.1256" timestamp="1751368901067" />
+        <state x="1100" y="178" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1754660559513" />
+        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1754995251828">
+          <screen x="0" y="0" width="3115" height="1256" />
+        </state>
+        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor/0.0.3115.1256" timestamp="1754995251828" />
       </component>
       <component name="masterDetails">
         <states>

@@ -56,10 +56,12 @@ com.jetbrains.rider.livePlusPlus
 com.jetbrains.rider.plugins.noesis
 com.jetbrains.rider.plugins.verse
 com.jetbrains.rider.publish.webDeploy
+com.jetbrains.rider.razor
 com.jetbrains.sh
 com.jetbrains.space
 hg4idea
 idea.plugin.protoeditor
+intellij.git.commit.modal
 intellij.nextjs
 intellij.platform.ijent.impl
 intellij.prettierJS
