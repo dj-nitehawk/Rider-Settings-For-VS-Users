@@ -8,15 +8,15 @@ This repository contains JetBrains Rider IDE configuration files that tries to b
 
 **Note:** Do not use the import/export settings wizard in Rider, as it only does a subset of the configuration.
 
-1. Find the directory on your harddrive where Rider stores it's config files. Typically in Windows, it's located in the following location: `%AppData%\JetBrains\Rider2025.1\`
+1. Find the directory on your harddrive where Rider stores it's config files. Typically in Windows, it's located in the following location: `%AppData%\JetBrains\Rider2025.2\`
 
 2. Backup all the files and folders in the above location, in case you want to revert back to your existing configuration.
 
-3. After backing up the files, delete everything in the `Rider2025.1` folder.
+3. After backing up the files, delete everything in the `Rider2025.2` folder.
 
 4. Install the fonts included in the [Fonts.zip](https://github.com/dj-nitehawk/Rider-Settings-For-VS-Users/raw/main/Fonts.zip) file to your system by right-clicking the fonts and selecting `Install For All Users`.
 
-5. Copy everything from this repository's [Rider2025.1](/Rider2025.1) folder to your local folder.
+5. Copy everything from this repository's [Rider2025.2](/Rider2025.2) folder to your local folder.
 
 6. Launch Rider and go through the license activation process and install the following two plugins:
     - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)

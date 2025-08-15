@@ -69,12 +69,12 @@
         <option name="index" value="4" />
       </TabImpl>
       <TabImpl>
-        <option name="defaultIndex" value="6" />
-        <option name="index" value="-1" />
-      </TabImpl>
-      <TabImpl>
         <option name="defaultIndex" value="7" />
         <option name="index" value="5" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="6" />
+        <option name="index" value="-1" />
       </TabImpl>
       <General>
         <option name="isTabLabelsHidden" value="false" />
