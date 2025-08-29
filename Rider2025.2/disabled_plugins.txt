@@ -34,7 +34,6 @@ com.intellij.plugins.watcher
 com.intellij.plugins.webcomponents
 com.intellij.properties
 com.intellij.react
-com.intellij.resharper.unity
 com.intellij.rider.godot
 com.intellij.rider.godot.community
 com.intellij.rider.godot.gdscript

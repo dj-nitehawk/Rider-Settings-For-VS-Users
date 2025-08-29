@@ -8,9 +8,7 @@
     </shellToExecutedCommandsNumber>
   </component>
   <component name="ReworkedTerminalUsage"><![CDATA[{
-  "enterKeyPressedTimes": 42
+  "feedbackNotificationShown": true,
+  "enterKeyPressedTimes": 139
 }]]></component>
-  <component name="TerminalOptionsProvider">
-    <option name="terminalEngine" value="REWORKED" />
-  </component>
 </application>
