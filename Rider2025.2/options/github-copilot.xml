@@ -9,6 +9,7 @@
       </map>
     </languageAllowList>
     <option name="inlayTextColor" value="#3c6f3c" />
-    <option name="chatNaturalLanguage" value="English" />
+    <option name="selectedCompletionModel" value="gpt-41-copilot" />
+    <option name="enableAutoScrollToBottom" value="false" />
   </component>
 </application>
