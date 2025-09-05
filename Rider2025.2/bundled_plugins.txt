@@ -2,36 +2,31 @@ Rider UI Theme Pack|null
 com.intellij.cidr.debugger|null
 com.intellij.cidr.parallelStacks|null
 com.intellij.completion.ml.ranking|Local AI/ML Tools
-com.intellij.dev|Plugin Development
 com.intellij.diagram|Other Tools
 com.intellij.marketplace.ml|Local AI/ML Tools
-com.intellij.mcpServer|AI-Powered
 com.intellij.microservices.ui|Microservices
 com.intellij.modules.json|Languages
 com.intellij.platform.images|null
 com.intellij.plugins.visualstudio2022keymap|Keymap
 com.intellij.plugins.visualstudiokeymap|Keymap
+com.intellij.resharper.unity|null
 com.intellij.searcheverywhere.ml|Local AI/ML Tools
-com.intellij.swagger|Microservices
 com.intellij|null
 com.jetbrains.dotCommon|null
+com.jetbrains.dotCover|null
 com.jetbrains.dpa|null
 com.jetbrains.performancePlugin.async|Platform Development
 com.jetbrains.performancePlugin|Platform Development
-com.jetbrains.remoteDevServer|Remote Development
-com.jetbrains.restClient|Microservices
 com.jetbrains.rider.diagram|null
 com.jetbrains.rider.frontend|null
 com.jetbrains.rider.plugins.debuggerLinq|Other Tools
 com.jetbrains.rider.plugins.dotnetwatch|null
-com.jetbrains.station|Remote Development
 com.jetbrains.xaml.previewer|null
 intellij.grid.plugin|null
 intellij.rider.cpp.debugger|null
 org.editorconfig.editorconfigjetbrains|IDE Settings
 org.intellij.intelliLang|IDE Settings
 org.intellij.plugins.markdown|Languages
-org.jetbrains.plugins.renderdoc|null
 org.jetbrains.plugins.terminal|Other Tools
 org.jetbrains.plugins.textmate|Languages
 org.jetbrains.plugins.yaml|Languages

@@ -21,7 +21,6 @@ com.intellij.dev
 com.intellij.grpc
 com.intellij.hardcodedPasswords
 com.intellij.ja
-com.intellij.jsonpath
 com.intellij.ko
 com.intellij.kubernetes
 com.intellij.mcpServer
