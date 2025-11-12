@@ -6,10 +6,67 @@
     <languageAllowList>
       <map>
         <entry key="*" value="true" />
+        <entry key="ASM" value="false" />
+        <entry key="C#" value="false" />
+        <entry key="C++" value="false" />
+        <entry key="Config" value="false" />
+        <entry key="Cookie" value="false" />
+        <entry key="DTD" value="false" />
+        <entry key="EditorConfig" value="false" />
+        <entry key="GDB" value="false" />
+        <entry key="HEXDUMP" value="false" />
+        <entry key="HTML" value="false" />
+        <entry key="HTTP Request" value="false" />
+        <entry key="HtmlCompatible" value="false" />
+        <entry key="IL" value="false" />
+        <entry key="IgnoreLang" value="false" />
+        <entry key="JSON" value="false" />
+        <entry key="JSON Lines" value="false" />
+        <entry key="JSON5" value="false" />
+        <entry key="JSONPath" value="false" />
+        <entry key="JSRegexp" value="false" />
+        <entry key="JSUnicodeRegexp" value="false" />
+        <entry key="LLDB" value="false" />
+        <entry key="MSBuild" value="false" />
+        <entry key="Markdown" value="false" />
+        <entry key="PolySymbolEnabledLanguage" value="false" />
+        <entry key="RELAX-NG" value="false" />
+        <entry key="RegExp" value="false" />
+        <entry key="Resx" value="false" />
+        <entry key="RuleSet" value="false" />
+        <entry key="SVG" value="false" />
+        <entry key="ShaderLab" value="false" />
+        <entry key="SlnLaunchLanguage" value="false" />
+        <entry key="SolutionFile" value="false" />
+        <entry key="TEXT" value="false" />
+        <entry key="TerminalOutput" value="false" />
+        <entry key="UXML" value="false" />
+        <entry key="UnityYaml" value="false" />
+        <entry key="VB" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="false" />
+        <entry key="Xaml" value="false" />
+        <entry key="XsdRegExp" value="false" />
+        <entry key="textmate" value="false" />
+        <entry key="yaml" value="false" />
       </map>
     </languageAllowList>
-    <option name="inlayTextColor" value="#3c6f3c" />
+    <option name="enableCompletionsToolWindow" value="false" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="enableAutoScrollToBottom" value="false" />
+    <editAutoApprove>
+      <FileSafetyRule>
+        <option name="description" value="Github instructions files" />
+        <option name="pattern" value="**/.github/instructions/*" />
+      </FileSafetyRule>
+      <FileSafetyRule>
+        <option name="description" value="JetBrains settings files" />
+        <option name="pattern" value="**/.idea/**/*" />
+      </FileSafetyRule>
+      <FileSafetyRule>
+        <option name="description" value="Github Copilot settings and token files" />
+        <option name="pattern" value="**/github-copilot/**/*" />
+      </FileSafetyRule>
+    </editAutoApprove>
   </component>
 </application>

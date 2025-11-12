@@ -6,6 +6,7 @@
 	<s:String x:Key="/Default/CodeEditing/TypingAssist/FormatOnPaste/@EntryValue">FullFormat</s:String>
 	<s:Boolean x:Key="/Default/CodeEditing/TypingAssist/SmartIndentOnEnter/@EntryValue">True</s:Boolean>
 	
+	
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ArrangeAttributes/@EntryIndexedValue">SUGGESTION</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ArrangeConstructorOrDestructorBody/@EntryIndexedValue">SUGGESTION</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ArrangeDefaultValueWhenTypeNotEvident/@EntryIndexedValue">SUGGESTION</s:String>
@@ -845,6 +846,9 @@
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/UserRules/=8a85b61a_002D1024_002D4f87_002Db9ef_002D1fdae19930a1/@EntryIndexedValue">&lt;Policy&gt;&lt;Descriptor Staticness="Any" AccessRightKinds="Any" Description="Parameters"&gt;&lt;ElementKinds&gt;&lt;Kind Name="PARAMETER" /&gt;&lt;/ElementKinds&gt;&lt;/Descriptor&gt;&lt;Policy Inspect="True" Prefix="" Suffix="" Style="aaBb"&gt;&lt;ExtraRule Prefix="" Suffix="" Style="AaBb" /&gt;&lt;/Policy&gt;&lt;/Policy&gt;</s:String>
 	<s:String x:Key="/Default/CustomTools/CustomToolsData/@EntryValue"></s:String>
 	<s:Boolean x:Key="/Default/DesignerToolboxVisibility/ShouldShow/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/dotCover/Editor/HighlightingEnabled/@EntryValue">False</s:Boolean>
+	
+	
 	<s:String x:Key="/Default/dotCover/Filtering/ExcludedAssembliesString/@EntryValue">System.*||Microsoft.*||JetBrains.*</s:String>
 	<s:String x:Key="/Default/dotCover/Filtering/ExcludedAttributesString/@EntryValue">System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute||System.CodeDom.Compiler.GeneratedCodeAttribute||System.Runtime.CompilerServices.CompilerGeneratedAttribute</s:String>
 	<s:Int64 x:Key="/Default/dotCover/General/SettingsVersion/@EntryValue">1</s:Int64>
@@ -871,7 +875,7 @@
 	<s:Boolean x:Key="/Default/Environment/General/RunTestClassesInParallel/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/LogToFile/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/LogToOutput/@EntryValue">False</s:Boolean>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">689178</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">702757</s:Int64>
 	<s:Boolean x:Key="/Default/Environment/Hierarchy/NuGetOptions/IncludePrerelease/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/Highlighting/HighlightingEnabled/@EntryValue">False</s:Boolean>
 	
@@ -1014,7 +1018,7 @@
 	<s:Boolean x:Key="/Default/Housekeeping/Layout/SolBuilderDuoView/ShowBuildProgressInToolWindow/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/Housekeeping/Layout/SolBuilderDuoView/ShowBuildResultsMode/@EntryValue">ForWarningsOrErrors</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">CSharpOtherPage</s:String>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">UnityPluginSettings</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/RefactoringsMru/InlineMethod/RemoveInitialDeclaration/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RefactoringsMru/InlineMethod/ReplaceAllUsages/@EntryValue">False</s:Boolean>
 	

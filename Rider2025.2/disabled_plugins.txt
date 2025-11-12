@@ -14,7 +14,6 @@ W3Validators
 XPathView
 com.deadlock.scsyntax
 com.dmarcotte.handlebars
-com.github.copilot
 com.intellij.css
 com.intellij.database
 com.intellij.dev

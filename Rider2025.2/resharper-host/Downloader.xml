@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cookies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cookie>
+    <Comment />
+    <Discard>false</Discard>
+    <Domain>symbols.nuget.org</Domain>
+    <Expired>false</Expired>
+    <Expires>0001-01-01T00:00:00</Expires>
+    <HttpOnly>true</HttpOnly>
+    <Name>ARRAffinity</Name>
+    <Path>/</Path>
+    <Port />
+    <Secure>true</Secure>
+    <Value>1bf1fa7ef58a2ee2d7a44c3046cbe5c763c69a7c47c896aacbb04ba8a00ffc3b</Value>
+    <Version>0</Version>
+  </Cookie>
+  <Cookie>
+    <Comment />
+    <Discard>false</Discard>
+    <Domain>symbols.nuget.org</Domain>
+    <Expired>false</Expired>
+    <Expires>0001-01-01T00:00:00</Expires>
+    <HttpOnly>true</HttpOnly>
+    <Name>ARRAffinitySameSite</Name>
+    <Path>/</Path>
+    <Port />
+    <Secure>true</Secure>
+    <Value>1bf1fa7ef58a2ee2d7a44c3046cbe5c763c69a7c47c896aacbb04ba8a00ffc3b</Value>
+    <Version>0</Version>
+  </Cookie>
+</Cookies>

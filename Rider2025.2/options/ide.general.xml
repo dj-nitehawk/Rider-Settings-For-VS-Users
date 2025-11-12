@@ -14,7 +14,11 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CodeStyleStatusBarWidget" value="false" />
+        <entry key="Encoding" value="false" />
+        <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="RiderMemory" value="true" />
         <entry key="VFS_REFRESH" value="true" />
         <entry key="VfsRefresh" value="true" />
