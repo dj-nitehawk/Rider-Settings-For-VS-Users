@@ -1,16 +1,22 @@
 <application>
   <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
+      </set>
+    </option>
     <option name="suppressingContext">
       <SuppressingContext>
         <option name="suppressed">
           <set>
             <option value="&quot;" />
-            <option value="required set" />
-            <option value="pre &amp; post processor" />
+            <option value=")" />
             <option value=":" />
             <option value="The settings registers" />
+            <option value="pre &amp; post processor" />
+            <option value="required set" />
             <option value="the write" />
-            <option value=")" />
           </set>
         </option>
       </SuppressingContext>

@@ -1,37 +1,124 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="MainToolBar" is_group="true" forse_popup="false" action_type="-1" position="30">
+      <path value="root" />
+    </group>
+    <group value="Vcs.Operations.Popup" is_group="true" forse_popup="false" action_type="-1" position="29">
+      <path value="root" />
+    </group>
+    <group value="Vcs.Log.Toolbar.RightCorner" is_group="true" forse_popup="false" action_type="-1" position="28">
+      <path value="root" />
+    </group>
+    <group value="Vcs.Log.ChangesBrowser.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="27">
+      <path value="root" />
+    </group>
+    <group value="ChangesViewToolbar" is_group="true" forse_popup="false" action_type="-1" position="26">
+      <path value="root" />
+    </group>
+    <group value="Rider.UnitTesting.TopSessionToolbar" is_group="true" forse_popup="false" action_type="-1" position="25">
+      <path value="root" />
+    </group>
+    <group value="Rider.UnitTesting.TopExplorerToolbar" is_group="true" forse_popup="false" action_type="-1" position="24">
+      <path value="root" />
+    </group>
+    <group value="Rider.UnitTesting.SessionPopup" is_group="true" forse_popup="false" action_type="-1" position="23">
+      <path value="root" />
+    </group>
+    <group value="Rider.UnitTesting.LeftSessionToolbar" is_group="true" forse_popup="false" action_type="-1" position="22">
+      <path value="root" />
+    </group>
+    <group value="Rider.UnitTesting.LeftExplorerToolbar" is_group="true" forse_popup="false" action_type="-1" position="21">
+      <path value="root" />
+    </group>
+    <group value="Rider.UnitTesting.ExplorerPopup" is_group="true" forse_popup="false" action_type="-1" position="20">
+      <path value="root" />
+    </group>
+    <group value="Rider.UnitTesting.QuickList" is_group="true" forse_popup="false" action_type="-1" position="19">
+      <path value="root" />
+    </group>
+    <group value="SolutionExplorerPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="18">
+      <path value="root" />
+    </group>
+    <group value="RunTab.TopToolbar" is_group="true" forse_popup="false" action_type="-1" position="17">
+      <path value="root" />
+    </group>
+    <group value="RunTab.TopToolbar.More" is_group="true" forse_popup="false" action_type="-1" position="16">
+      <path value="root" />
+    </group>
+    <group value="Console.TableResult.FloatingToolbarGroup" is_group="true" forse_popup="false" action_type="-1" position="15">
+      <path value="root" />
+    </group>
+    <group value="Markdown.Toolbar.Floating" is_group="true" forse_popup="false" action_type="-1" position="14">
+      <path value="root" />
+    </group>
+    <group value="Floating.CodeToolbar" is_group="true" forse_popup="false" action_type="-1" position="13">
+      <path value="root" />
+    </group>
+    <group value="Vcs.FileHistory.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="12">
+      <path value="root" />
+    </group>
+    <group value="XDebugger.Watches.Tree.Toolbar" is_group="true" forse_popup="false" action_type="-1" position="11">
+      <path value="root" />
+    </group>
     <group value="RiderUnitTestRunningTestsFilterAction" is_action="true" action_type="-1" position="11">
       <path value="root" />
       <path value="Unit Tests Tool Window Top Session Toolbar" />
       <path value="Unit Test Filters" />
+    </group>
+    <group value="XDebugger.ToolWindow.TopToolbar3" is_group="true" forse_popup="false" action_type="-1" position="10">
+      <path value="root" />
+    </group>
+    <group value="XDebugger.ToolWindow.TopToolbar3.Extra" is_group="true" forse_popup="false" action_type="-1" position="9">
+      <path value="root" />
+    </group>
+    <group value="NavBarToolBar" is_group="true" forse_popup="false" action_type="-1" position="8">
+      <path value="root" />
     </group>
     <group value="AtomFileIcons.Actions" is_group="true" forse_popup="false" action_type="-1" position="8">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
     </group>
+    <group value="NavbarPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="7">
+      <path value="root" />
+    </group>
     <group value="AtomFileIcons.OldToolbar" is_group="true" forse_popup="false" action_type="-1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
     </group>
+    <group value="ScopeViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="6">
+      <path value="root" />
+    </group>
     <group value="Rider.UnitTesting.SessionOptions" is_group="true" forse_popup="false" action_type="-1" position="6">
       <path value="root" />
       <path value="Unit Tests Tool Window Top Session Toolbar" />
+    </group>
+    <group value="ProjectViewPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="5">
+      <path value="root" />
     </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
     </group>
+    <group value="EditorTabPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="4">
+      <path value="root" />
+    </group>
     <group value="Rider.UnitTesting.ExportOptions" is_group="true" forse_popup="false" action_type="-1" position="4">
       <path value="root" />
       <path value="Unit Tests Tool Window Top Session Toolbar" />
+    </group>
+    <group value="EditorGutterPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="3">
+      <path value="root" />
     </group>
     <group value="NewUiRunWidget" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
+    </group>
+    <group value="EditorPopupMenu" is_group="true" forse_popup="false" action_type="-1" position="2">
+      <path value="root" />
     </group>
     <group value="ActiveDeviceGroup" is_group="true" forse_popup="false" action_type="-1" position="2">
       <path value="root" />
@@ -52,6 +139,9 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
+    </group>
+    <group value="MainMenu" is_group="true" forse_popup="false" action_type="-1" position="0">
+      <path value="root" />
     </group>
     <group value="MainToolBarNavigation" is_group="true" forse_popup="false" action_type="-1" position="0">
       <path value="root" />
@@ -113,32 +203,37 @@
       <path value="Main Toolbar" />
       <path value="Center" />
     </group>
-    <group value="main.toolbar.Project" is_action="true" action_type="1" position="6">
+    <group seperator="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />
     </group>
-    <group seperator="true" action_type="1" position="7">
+    <group value="main.toolbar.Project" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />
     </group>
-    <group value="CleanSolutionAction" is_action="true" action_type="1" position="8">
+    <group seperator="true" action_type="1" position="8">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />
     </group>
-    <group value="BuildSolutionBar" is_group="true" forse_popup="false" action_type="1" position="9">
+    <group value="CleanSolutionAction" is_action="true" action_type="1" position="9">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />
     </group>
-    <group seperator="true" action_type="1" position="10">
+    <group value="BuildSolutionBar" is_group="true" forse_popup="false" action_type="1" position="10">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />
     </group>
-    <group value="NewUiRunWidget" is_action="true" action_type="1" position="11">
+    <group seperator="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+    </group>
+    <group value="NewUiRunWidget" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Center" />

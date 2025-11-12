@@ -26,7 +26,7 @@
     <size key="GridCell.Tab.5.bottom.0.0.3440.1440@106dpi" width="943" height="595" />
   </component>
   <component name="WindowManager">
-    <frame x="935" y="0" width="1565" height="1398" />
+    <frame x="939" y="0" width="1561" height="1394" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="1275" y="481" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1758099246284">
@@ -45,10 +45,10 @@
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
     <state width="583" height="134" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1759684298980" />
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1762916795608">
+    <state x="1251" y="325" width="800" height="650" key="WELCOME_SCREEN" timestamp="1762920173749">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1762916795608" />
+    <state x="1251" y="325" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1762920173749" />
     <state x="1236" y="215" width="159" height="27" key="WELCOME_SCREEN/0.0.927.648" timestamp="1754920537571" />
   </component>
 </application>

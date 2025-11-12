@@ -8,9 +8,11 @@
     <option name="borderlessTitleClasspathVersion" value="2" />
     <option name="breakOnUserUnhandledExceptionsVersion" value="1" />
     <option name="bringDebuggeeIntoForeground" value="1" />
+    <option name="calculateRenderDocsSwitchedToNewModel" value="1" />
     <option name="codeVisionSettingsTransfer" value="1" />
     <option name="commitWindowDoubleClickVersion" value="2" />
     <option name="commonSshSettingsMigration" value="1" />
+    <option name="compactLenses" value="1" />
     <option name="completionParenthesisSetting" value="1" />
     <option name="debuggerCollectionVisualizers" value="1" />
     <option name="debuggerInlayRunToCursor" value="2" />
@@ -29,12 +31,14 @@
     <option name="navBarVisibility" value="4" />
     <option name="newCommonDebugUiVersion" value="4" />
     <option name="newDebugUiVersion" value="5" />
+    <option name="newFindInFilesUi" value="1" />
     <option name="parallelStackSwitchOnByDefault" value="1" />
     <option name="patchEngine" value="2" />
     <option name="pencilsStatusBarWidget" value="1" />
     <option name="perAppToolWindows" value="1" />
     <option name="problemsViewGotItTooltip" value="1" />
     <option name="registryMigrationVersion" value="2" />
+    <option name="reserveSpaceForLenses" value="1" />
     <option name="resetNewUiLayoutForEveryone" value="1" />
     <option name="searchEverywherePreviewByDefaultEnabled" value="1" />
     <option name="showDiffPreviewVersion" value="1" />

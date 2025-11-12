@@ -17,6 +17,7 @@ com.dmarcotte.handlebars
 com.intellij.css
 com.intellij.database
 com.intellij.dev
+com.intellij.diagram
 com.intellij.grpc
 com.intellij.hardcodedPasswords
 com.intellij.ja
@@ -32,6 +33,7 @@ com.intellij.plugins.watcher
 com.intellij.plugins.webcomponents
 com.intellij.properties
 com.intellij.react
+com.intellij.resharper.unity
 com.intellij.rider.godot
 com.intellij.rider.godot.community
 com.intellij.rider.godot.gdscript
@@ -45,6 +47,7 @@ com.intellij.zh
 com.jetbrains.changeReminder
 com.jetbrains.dotTrace.dotMemory
 com.jetbrains.gateway
+com.jetbrains.performancePlugin
 com.jetbrains.plugins.ini4idea
 com.jetbrains.plugins.jade
 com.jetbrains.plugins.rider.privateFeedAuth
@@ -52,6 +55,7 @@ com.jetbrains.plugins.webDeployment
 com.jetbrains.remoteDevServer
 com.jetbrains.rider-cpp
 com.jetbrains.rider-cpp-injection
+com.jetbrains.rider.diagram
 com.jetbrains.rider.fsharp
 com.jetbrains.rider.livePlusPlus
 com.jetbrains.rider.plugins.noesis
