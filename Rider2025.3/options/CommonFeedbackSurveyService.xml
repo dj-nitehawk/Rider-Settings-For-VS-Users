@@ -2,12 +2,12 @@
   <component name="CommonFeedbackSurveyService"><![CDATA[{
   "feedbackSurveyToNumberNotificationShows": {
     "new_terminal": 1,
-    "csat_feedback": 1,
+    "csat_feedback": 2,
     "reworked_terminal": 1
   },
   "feedbackSurveyToNumberDisableActionInvoked": {
     "new_terminal": 1,
-    "csat_feedback": 1,
+    "csat_feedback": 2,
     "reworked_terminal": 1
   }
 }]]></component>

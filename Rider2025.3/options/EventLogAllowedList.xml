@@ -1,15 +1,15 @@
 <application>
   <component name="EventLogAllowedList">
-    <update recorder-id="ML" last-modified="1762361112000" />
-    <build recorder-id="MP" build-number="RD-253.28294.88" />
-    <build recorder-id="FUS" build-number="RD-253.28294.88" />
-    <build recorder-id="MLSE" build-number="RD-253.28294.88" />
-    <build recorder-id="ML" build-number="RD-253.28294.88" />
+    <update recorder-id="ML" last-modified="1764709493000" />
+    <build recorder-id="MP" build-number="RD-253.28294.112" />
+    <build recorder-id="FUS" build-number="RD-253.28294.112" />
+    <build recorder-id="MLSE" build-number="RD-253.28294.112" />
+    <build recorder-id="ML" build-number="RD-253.28294.112" />
     <options recorder-id="ML">
       <option name="cloud_logs_share" value="1" />
-      <option name="groupAlertThreshold" value="6000" />
       <option name="local_logs_share" value="1" />
       <option name="dataThreshold" value="15000" />
+      <option name="groupAlertThreshold" value="6000" />
       <option name="groupDataThreshold" value="10000" />
       <option name="basic_logs" value="analyzed_triggered_filters,cache_extension_length,cache_hit_length,cloud_filter_model_probability,cloud_filter_model_response_type,completion_client,context_assemble_time,editor_type,experiment_group,file_language,fim_cache_hit,fim_cache_line_difference,fim_context_size,final_proposal_length,final_proposal_line,finish_type,first_proposal_len_generated,full_inference_time,full_insert_actions,generated_proposals,generation_id,incompatible_ux_mode,inline_api_provider,invalidation_event,lines_count,local_filter_model_pass,local_filter_model_response,local_filter_model_score,local_filter_model_time,next_line_actions,next_word_actions,proposal_id,proposal_length,proposal_next_line_similarity,proposal_prev_line_similarity,rag_context_computation_time,rag_context_size,rag_suggestion_similarity,raw_triggered_filters,received_proposal_length,received_proposal_lines,recent_context_computation_time,recent_context_number_of_chunks,recent_context_size,request_id,result_proposals,semantic_state,showing_time,silent_completion,time_to_start_showing,total_inserted_length,total_inserted_lines,used_generation_id,was_shown" />
     </options>

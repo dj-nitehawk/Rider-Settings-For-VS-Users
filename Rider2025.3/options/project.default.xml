@@ -36,11 +36,11 @@
         <option name="openDirectoriesWithSingleClick" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
       <component name="ReaderModeSettings">
         <option name="enabled" value="false" />
         <option name="showRenderedDocs" value="false" />
@@ -69,10 +69,14 @@
         <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
       </component>
       <component name="WindowStateProjectService">
-        <state x="1100" y="178" key="Rider.NewProjectDialog.Size" timestamp="1757503545238">
+        <state x="1336" y="324" key="#Updates" timestamp="1763099990025">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
-        <state x="1100" y="178" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1757503545238" />
+        <state x="1336" y="324" key="#Updates/0.0.3115.1256" timestamp="1763099990025" />
+        <state x="1100" y="178" key="Rider.NewProjectDialog.Size" timestamp="1764603163940">
+          <screen x="0" y="0" width="3115" height="1256" />
+        </state>
+        <state x="1100" y="178" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1764603163940" />
         <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1759458812200">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>

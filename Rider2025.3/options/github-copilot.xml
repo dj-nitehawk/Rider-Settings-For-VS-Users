@@ -52,8 +52,10 @@
       </map>
     </languageAllowList>
     <option name="enableCompletionsToolWindow" value="false" />
+    <option name="checkForUpdate" value="false" />
     <option name="selectedCompletionModel" value="gpt-41-copilot" />
     <option name="enableAutoScrollToBottom" value="false" />
+    <option name="terminalRulesVersion" value="1" />
     <editAutoApprove>
       <FileSafetyRule>
         <option name="description" value="Github instructions files" />
