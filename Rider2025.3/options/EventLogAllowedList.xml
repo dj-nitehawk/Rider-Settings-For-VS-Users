@@ -1,10 +1,10 @@
 <application>
   <component name="EventLogAllowedList">
-    <update recorder-id="ML" last-modified="1764709493000" />
-    <build recorder-id="MP" build-number="RD-253.28294.112" />
-    <build recorder-id="FUS" build-number="RD-253.28294.112" />
-    <build recorder-id="MLSE" build-number="RD-253.28294.112" />
-    <build recorder-id="ML" build-number="RD-253.28294.112" />
+    <update recorder-id="ML" last-modified="1765919072000" />
+    <build recorder-id="MP" build-number="RD-253.29346.144" />
+    <build recorder-id="FUS" build-number="RD-253.29346.144" />
+    <build recorder-id="MLSE" build-number="RD-253.29346.144" />
+    <build recorder-id="ML" build-number="RD-253.29346.144" />
     <options recorder-id="ML">
       <option name="cloud_logs_share" value="1" />
       <option name="local_logs_share" value="1" />

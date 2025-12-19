@@ -38,7 +38,7 @@
       </component>
       <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
       <component name="ReaderModeSettings">
@@ -77,10 +77,10 @@
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
         <state x="1100" y="178" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1764603163940" />
-        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1759458812200">
+        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1764776944527">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
-        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor/0.0.3115.1256" timestamp="1759458812200" />
+        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor/0.0.3115.1256" timestamp="1764776944527" />
       </component>
       <component name="masterDetails">
         <states>

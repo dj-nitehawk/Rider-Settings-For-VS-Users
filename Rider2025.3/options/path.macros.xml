@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="BUNDLED_DOTNET_LOCATION" value="C:\Program Files\JetBrains\Rider\lib\ReSharperHost\windows-x64\dotnet\dotnet.exe" />
+    <macro name="JB_DRIVER_LOCATION" value="C:\Program Files\JetBrains\Rider\tools\JbMsDriver" />
+  </component>
+</application>
