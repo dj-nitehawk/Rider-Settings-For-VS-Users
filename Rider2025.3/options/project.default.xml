@@ -38,7 +38,7 @@
       </component>
       <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
       <component name="ReaderModeSettings">
@@ -73,14 +73,14 @@
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
         <state x="1336" y="324" key="#Updates/0.0.3115.1256" timestamp="1763099990025" />
-        <state x="1100" y="178" key="Rider.NewProjectDialog.Size" timestamp="1764603163940">
+        <state x="1100" y="178" key="Rider.NewProjectDialog.Size" timestamp="1766803962360">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
-        <state x="1100" y="178" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1764603163940" />
-        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1764776944527">
+        <state x="1100" y="178" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1766803962360" />
+        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor" timestamp="1766140034073">
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
-        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor/0.0.3115.1256" timestamp="1764776944527" />
+        <state x="735" y="51" width="1605" height="1167" key="SettingsEditor/0.0.3115.1256" timestamp="1766140034073" />
       </component>
       <component name="masterDetails">
         <states>
