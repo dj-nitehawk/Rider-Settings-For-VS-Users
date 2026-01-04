@@ -28,7 +28,7 @@
     <size key="find.popup.0.0.3440.1440@106dpi" width="769" height="1070" />
   </component>
   <component name="WindowManager">
-    <frame x="936" y="0" width="1564" height="1397" />
+    <frame x="939" y="0" width="1561" height="1394" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="1275" y="481" width="564" height="561" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1766667841101">
@@ -43,9 +43,9 @@
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
     <state width="507" height="138" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1766644949754" />
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN" timestamp="1767257555428">
+    <state x="1251" y="325" width="800" height="650" key="WELCOME_SCREEN" timestamp="1767511627362">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1767257555428" />
+    <state x="1251" y="325" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1767511627362" />
   </component>
 </application>
