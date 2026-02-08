@@ -1,6 +1,5 @@
 bl
-backup.ps1
-BackupSettings.lnk
+backup.sh
 crl
 feature_usage_event_log_salt
 PermanentDeviceId

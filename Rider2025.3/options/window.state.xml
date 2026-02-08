@@ -52,7 +52,7 @@
     <size key="GridCell.Tab.5.bottom.0.0.3440.1440" width="893" height="513" />
   </component>
   <component name="WindowManager">
-    <frame x="905" y="2" width="1628" height="1382" />
+    <frame x="1020" y="196" width="1400" height="1000" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="1275" y="481" width="564" height="561" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1768399645711">
@@ -76,11 +76,11 @@
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
     <state width="507" height="764" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1769937672018" />
-    <state x="1720" y="584" width="884" height="722" key="WELCOME_SCREEN" timestamp="1770513024214">
+    <state x="1720" y="584" width="884" height="722" key="WELCOME_SCREEN" timestamp="1770526095374">
       <screen x="0" y="0" width="3440" height="1392" />
     </state>
     <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1770335464547" />
     <state x="1720" y="581" width="884" height="718" key="WELCOME_SCREEN/0.0.3440.1386" timestamp="1770370022297" />
-    <state x="1720" y="584" width="884" height="722" key="WELCOME_SCREEN/0.0.3440.1392" timestamp="1770513024214" />
+    <state x="1720" y="584" width="884" height="722" key="WELCOME_SCREEN/0.0.3440.1392" timestamp="1770526095374" />
   </component>
 </application>
