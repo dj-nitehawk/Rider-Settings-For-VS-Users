@@ -1,10 +1,10 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.3440.1440@106dpi" x="1400" y="149" />
-    <size key="GridCell.Tab.0.left.0.0.3440.1440@106dpi" width="936" height="341" />
-    <size key="GridCell.Tab.0.center.0.0.3440.1440@106dpi" width="936" height="341" />
-    <size key="GridCell.Tab.0.right.0.0.3440.1440@106dpi" width="936" height="341" />
-    <size key="GridCell.Tab.0.bottom.0.0.3440.1440@106dpi" width="936" height="341" />
+    <size key="GridCell.Tab.0.left.0.0.3440.1440@106dpi" width="937" height="599" />
+    <size key="GridCell.Tab.0.center.0.0.3440.1440@106dpi" width="937" height="599" />
+    <size key="GridCell.Tab.0.right.0.0.3440.1440@106dpi" width="937" height="599" />
+    <size key="GridCell.Tab.0.bottom.0.0.3440.1440@106dpi" width="937" height="599" />
     <size key="GridCell.Tab.1.left.0.0.3440.1440@106dpi" width="937" height="599" />
     <size key="GridCell.Tab.1.center.0.0.3440.1440@106dpi" width="937" height="599" />
     <size key="GridCell.Tab.1.right.0.0.3440.1440@106dpi" width="937" height="599" />
@@ -26,26 +26,61 @@
     <size key="GridCell.Tab.5.right.0.0.3440.1440@106dpi" width="937" height="599" />
     <size key="GridCell.Tab.5.bottom.0.0.3440.1440@106dpi" width="937" height="599" />
     <size key="find.popup.0.0.3440.1440@106dpi" width="769" height="1070" />
+    <size key="GridCell.Tab.0.left.0.0.3440.1440" width="893" height="404" />
+    <size key="GridCell.Tab.0.center.0.0.3440.1440" width="893" height="404" />
+    <size key="GridCell.Tab.0.right.0.0.3440.1440" width="893" height="404" />
+    <size key="GridCell.Tab.0.bottom.0.0.3440.1440" width="893" height="404" />
+    <size key="GridCell.Tab.1.left.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.1.center.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.1.right.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.1.bottom.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.2.left.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.2.center.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.2.right.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.2.bottom.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.3.left.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.3.center.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.3.right.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.3.bottom.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.4.left.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.4.center.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.4.right.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.4.bottom.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.5.left.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.5.center.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.5.right.0.0.3440.1440" width="893" height="513" />
+    <size key="GridCell.Tab.5.bottom.0.0.3440.1440" width="893" height="513" />
   </component>
   <component name="WindowManager">
-    <frame x="939" y="0" width="1561" height="1394" />
+    <frame x="905" y="2" width="1628" height="1382" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="1275" y="481" width="564" height="561" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1766667841101">
+    <state x="1275" y="481" width="564" height="561" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1768399645711">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1275" y="481" width="564" height="561" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile/0.0.3115.1256" timestamp="1766667841101" />
-    <state x="1275" y="481" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder" timestamp="1766667208867">
+    <state x="1275" y="481" width="564" height="561" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile/0.0.3115.1256" timestamp="1768399645711" />
+    <state x="1275" y="481" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder" timestamp="1769220785886">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1275" y="481" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder/0.0.3115.1256" timestamp="1766667208867" />
-    <state width="507" height="138" key="ShowUsagesActions.dimensionServiceKey" timestamp="1766644949754">
+    <state x="1275" y="481" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFolder/0.0.3115.1256" timestamp="1769220785886" />
+    <state x="1175" y="365" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogProject" timestamp="1769081510678">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state width="507" height="138" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1766644949754" />
-    <state x="1251" y="325" width="800" height="650" key="WELCOME_SCREEN" timestamp="1767604517460">
+    <state x="1175" y="365" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogProject/0.0.3115.1256" timestamp="1769081510678" />
+    <state x="1508" y="334" width="655" height="692" key="FileChooserDialogImpl" timestamp="1770466794337">
+      <screen x="0" y="0" width="3440" height="1392" />
+    </state>
+    <state x="1508" y="333" width="655" height="692" key="FileChooserDialogImpl/0.0.3440.1386" timestamp="1770368183742" />
+    <state x="1508" y="334" key="FileChooserDialogImpl/0.0.3440.1392" timestamp="1770466794337" />
+    <state width="507" height="764" key="ShowUsagesActions.dimensionServiceKey" timestamp="1769937672018">
       <screen x="0" y="0" width="3115" height="1256" />
     </state>
-    <state x="1251" y="325" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1767604517460" />
+    <state width="507" height="764" key="ShowUsagesActions.dimensionServiceKey/0.0.3115.1256" timestamp="1769937672018" />
+    <state x="1720" y="584" width="884" height="722" key="WELCOME_SCREEN" timestamp="1770513024214">
+      <screen x="0" y="0" width="3440" height="1392" />
+    </state>
+    <state x="1557" y="527" width="800" height="650" key="WELCOME_SCREEN/0.0.3115.1256" timestamp="1770335464547" />
+    <state x="1720" y="581" width="884" height="718" key="WELCOME_SCREEN/0.0.3440.1386" timestamp="1770370022297" />
+    <state x="1720" y="584" width="884" height="722" key="WELCOME_SCREEN/0.0.3440.1392" timestamp="1770513024214" />
   </component>
 </application>

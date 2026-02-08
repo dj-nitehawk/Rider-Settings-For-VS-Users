@@ -10,19 +10,24 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
+            <option value="json|this is either a json array or object" />
             <option value="&quot;" />
-            <option value="required set" />
-            <option value="pre &amp; post processor" />
             <option value=")" />
+            <option value="The settings registers" />
+            <option value="json|send the supplied response dto serialized as json to the client." />
+            <option value="json|this is a json string literal" />
+            <option value="less records" />
+            <option value="json|dictionaries should be deserialized as json objects" />
+            <option value="required set" />
+            <option value="json|json serializer context if code generation is used" />
+            <option value="pre &amp; post processor" />
+            <option value="json|send an http 200 ok response with the supplied response dto serialized as json to the client." />
             <option value=":" />
             <option value="Id" />
-            <option value="The settings registers" />
-            <option value="the write" />
-            <option value="json|json serializer context if code generation is used" />
-            <option value="json|send the supplied response dto serialized as json to the client." />
             <option value="json|the object to serialize to json" />
+            <option value="the write" />
             <option value="json|send an empty json object in the body" />
-            <option value="json|send an http 200 ok response with the supplied response dto serialized as json to the client." />
+            <option value="json|the original json serializer options from the di-registered JsonOptions." />
           </set>
         </option>
       </SuppressingContext>

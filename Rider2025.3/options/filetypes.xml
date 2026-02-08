@@ -4,6 +4,10 @@
     <extensionMap>
       <mapping pattern="mcp.json" type="JSON5" />
       <removed_mapping ext="inputactions" approved="true" type="JSON" />
+      <removed_mapping ext="postman_collection" approved="true" type="JSON" />
+      <removed_mapping ext="postman_collection.json" approved="true" type="JSON" />
+      <removed_mapping ext="postman_environment" approved="true" type="JSON" />
+      <removed_mapping ext="postman_environment.json" approved="true" type="JSON" />
       <removed_mapping ext="tps" approved="true" type="XML" />
     </extensionMap>
   </component>

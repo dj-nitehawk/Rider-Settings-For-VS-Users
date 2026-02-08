@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="publish aot exe" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="dotnet.exe" />
+      <option name="PARAMETERS" value="publish -c Debug -r win-x64 -p:PublishAot=true -o aot" />
+      <option name="WORKING_DIRECTORY" value="$SolutionDir$NativeAotChecker" />
+    </exec>
+  </tool>
+</toolSet>
