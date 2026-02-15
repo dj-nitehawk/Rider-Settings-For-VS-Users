@@ -73,12 +73,17 @@
           <screen x="0" y="0" width="3115" height="1256" />
         </state>
         <state x="1336" y="324" key="#Updates/0.0.3115.1256" timestamp="1763099990025" />
-        <state x="1215" y="197" width="900" height="687" key="Rider.NewProjectDialog.Size" timestamp="1770468631507">
-          <screen x="0" y="0" width="3440" height="1392" />
+        <state x="1416" y="293" key="FileChooserDialogImpl" timestamp="1771124310814">
+          <screen x="0" y="0" width="3440" height="1395" />
+        </state>
+        <state x="1416" y="293" key="FileChooserDialogImpl/0.0.3440.1395" timestamp="1771124310814" />
+        <state x="1215" y="197" width="900" height="687" key="Rider.NewProjectDialog.Size" timestamp="1771124323096">
+          <screen x="0" y="0" width="3440" height="1395" />
         </state>
         <state x="1100" y="178" key="Rider.NewProjectDialog.Size/0.0.3115.1256" timestamp="1766803962360" />
         <state x="1215" y="196" width="900" height="687" key="Rider.NewProjectDialog.Size/0.0.3440.1386" timestamp="1770368686208" />
         <state x="1215" y="197" key="Rider.NewProjectDialog.Size/0.0.3440.1392" timestamp="1770468631507" />
+        <state x="1215" y="197" key="Rider.NewProjectDialog.Size/0.0.3440.1395" timestamp="1771124323096" />
         <state x="1171" y="249" width="1211" height="917" key="SettingsEditor" timestamp="1770365923761">
           <screen x="0" y="0" width="3440" height="1386" />
         </state>
