@@ -7,5 +7,6 @@
     <option name="FONT_REGULAR_SUB_FAMILY" value="Bold" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
   </component>
 </application>
