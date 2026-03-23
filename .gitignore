@@ -27,6 +27,7 @@ Rider2025.3/options/actionSummary.xml
 Rider2025.3/options/ConversationToolStoreService.xml
 Rider2025.3/options/features.usage.statistics.xml
 Rider2025.3/options/github.xml
+Rider2025.3/options/inline.factors.completion.xml
 Rider2025.3/options/recentSolutions.xml
 Rider2025.3/options/recentSolutionsConfiguration.xml
 Rider2025.3/options/rider.perapp.window.state.v2.xml
@@ -34,6 +35,15 @@ Rider2025.3/options/riderProjectTemplateCache.xml
 Rider2025.3/options/spellchecker-dictionary.xml
 Rider2025.3/options/trusted-paths.xml
 Rider2025.3/options/trustedSolutions.xml
+Rider2025.3/options/contributorSummary.xml
+Rider2025.3/options/grazie_global.xml
+Rider2025.3/options/other.xml
+Rider2025.3/options/terminal.xml
+Rider2025.3/options/updates.xml
+Rider2025.3/options/usage.statistics.xml
+Rider2025.3/options/usageView.xml
+Rider2025.3/options/window.state.xml
+Rider2025.3/resharper-host/Downloader.xml
 Rider2025.3/resharper-host/Cache/
 Rider2025.3/resharper-host/DecompilerCache/
 Rider2025.3/resharper-host/processes/
