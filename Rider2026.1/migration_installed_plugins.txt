@@ -1,0 +1,13 @@
+com.intellij.resharper.HeapAllocationsViewer
+tanvd.grazi
+com.intellij.microservices.ui
+com.intellij.swagger
+Docker
+org.jetbrains.plugins.terminal
+com.jetbrains.restClient
+org.jetbrains.plugins.yaml
+com.intellij.jsonpath
+org.editorconfig.editorconfigjetbrains
+PerforceDirectPlugin
+hg4idea
+Subversion

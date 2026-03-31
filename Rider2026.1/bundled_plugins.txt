@@ -6,6 +6,7 @@ com.intellij.jsonpath|Languages
 com.intellij.marketplace.ml|Local AI/ML Tools
 com.intellij.microservices.ui|Microservices
 com.intellij.modules.json|Languages
+com.intellij.platform.daemon|IDE Settings
 com.intellij.platform.images|null
 com.intellij.plugins.visualstudio2022keymap|Keymap
 com.intellij.plugins.visualstudiokeymap|Keymap
@@ -13,15 +14,17 @@ com.intellij.searcheverywhere.ml|Local AI/ML Tools
 com.intellij.swagger|Microservices
 com.intellij|null
 com.jetbrains.dotCommon|null
-com.jetbrains.dotCover|null
+com.jetbrains.dotCover|dotUltimate
 com.jetbrains.dpa|null
 com.jetbrains.performancePlugin.async|Platform Development
 com.jetbrains.restClient|Microservices
 com.jetbrains.rider.frontend|null
+com.jetbrains.rider.plugins.debuggerGrid|Other Tools
 com.jetbrains.rider.plugins.debuggerLinq|Other Tools
 com.jetbrains.rider.plugins.dotnetwatch|null
 com.jetbrains.xaml.previewer|null
 intellij.grid.plugin|null
+intellij.rider.plugins.remoteDevelopment|Remote Development
 org.editorconfig.editorconfigjetbrains|IDE Settings
 org.intellij.plugins.markdown|Languages
 org.jetbrains.plugins.terminal|Other Tools

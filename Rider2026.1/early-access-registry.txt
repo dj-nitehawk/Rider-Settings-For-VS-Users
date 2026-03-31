@@ -6,3 +6,5 @@ ide.experimental.ui.inter.font
 false
 idea.plugins.compatible.build
 
+switched.from.classic.to.islands
+false
