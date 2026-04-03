@@ -16,6 +16,7 @@
     <entry key="rider.codeVision.zeroWidth.preload.enabled" value="true" source="SYSTEM" />
     <entry key="rider.debugger.dotnet.mixed.mode.enabled" value="true" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
+    <entry key="trace.state.event.service.url" value="https://api.jetbrains.cloud/trace-status" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
