@@ -4,8 +4,10 @@ crl
 feature_usage_event_log_salt
 PermanentDeviceId
 PermanentUserId
+region
 consentOptions/
 dotTrace/
+dotPeek/
 IntelliJ/
 PrivacyPolicy/
 Rider2026.1/.lock
