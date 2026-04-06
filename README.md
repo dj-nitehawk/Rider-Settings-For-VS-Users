@@ -54,7 +54,7 @@ The keymap has been customized to suit my personal needs. You may want to change
 - Apply hot reload changes: `F12`
 - Create new file/folder menu: `CTRL + N`
 - Surround selection with live template: `CTRL + Shift + S`
-- Save file with clean & reformat: `CTRL + S`
+- Save file with clean & reformat: `CTRL + S` (needs the `clean-on-save` profile enabled in `settings > tools > action on save`)
 
 ## Disabled plugins
 
