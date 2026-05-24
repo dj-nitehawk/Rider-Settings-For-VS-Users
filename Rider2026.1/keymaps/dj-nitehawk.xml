@@ -120,7 +120,12 @@
   <action id="ContextHelp">
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
-  <action id="CopyAbsolutePath" />
+  <action id="CopyAbsolutePath">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="CopyPathWithLineNumber">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="CopyPaths" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl f5" />
@@ -289,9 +294,7 @@
   <action id="ReSharperNavigateTo">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
-  <action id="RecentFiles">
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
+  <action id="RecentFilesFallback" />
   <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt enter" />

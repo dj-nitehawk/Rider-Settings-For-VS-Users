@@ -24,7 +24,6 @@ com.jetbrains.rider.plugins.debuggerLinq|Other Tools
 com.jetbrains.rider.plugins.dotnetwatch|null
 com.jetbrains.xaml.previewer|null
 intellij.grid.plugin|null
-intellij.rider.plugins.remoteDevelopment|Remote Development
 org.editorconfig.editorconfigjetbrains|IDE Settings
 org.intellij.plugins.markdown|Languages
 org.jetbrains.plugins.terminal|Other Tools
