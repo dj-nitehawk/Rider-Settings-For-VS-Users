@@ -30,9 +30,7 @@
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl o" />
-  </action>
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -40,9 +38,7 @@
   <action id="ActivateUnitTestsCoverageToolWindow">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="ActivateUnitTestsToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
+  <action id="ActivateUnitTestsToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
   <action id="AddRiderItem" />
   <action id="Arrangement.Alias.Rule.Add">
@@ -271,6 +267,16 @@
   </action>
   <action id="ParameterInfo.GoToPreviousSignature">
     <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl alt cancel" />
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
+  <action id="Pi.SendFile">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="Pi.SendSelection">
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="PinActiveTab">
     <mouse-shortcut keystroke="alt button1" />

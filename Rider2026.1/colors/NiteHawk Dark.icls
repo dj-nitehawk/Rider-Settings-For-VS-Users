@@ -10,38 +10,43 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="BookmarkIcon.background" value="d9a343" />
-    <option name="CARET_ROW_COLOR" value="a0a0a" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="252526" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="121010" />
+    <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="201F1F" />
+    <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_BACKGROUND" value="" />
+    <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_STROKE_COLOR" value="" />
+    <option name="BLOCK_TERMINAL_PROMPT_SEPARATOR_COLOR" value="" />
+    <option name="BookmarkIcon.background" value="D9A343" />
+    <option name="CARET_ROW_COLOR" value="0A0A0A" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1A1A1A" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="212121" />
     <option name="DOCUMENTATION_COLOR" value="363636" />
     <option name="EDITOR_GUTTER_BACKGROUND" value="141414" />
     <option name="ERROR_HINT" value="781732" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="49545f" />
-    <option name="GUTTER_BACKGROUND" value="1e1e1e" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="ff0000" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="ffff00" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="ff00" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="ffff" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="589df6" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="ff00ff" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="49545F" />
+    <option name="GUTTER_BACKGROUND" value="1E1E1E" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="FF0000" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="FFFF00" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="00FF00" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="00FFFF" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="589DF6" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="FF00FF" />
     <option name="INDENT_GUIDE" value="313131" />
-    <option name="INFORMATION_HINT" value="2b2b2b" />
-    <option name="LINE_NUMBERS_COLOR" value="6a9eaf" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="7479db" />
-    <option name="LOOKUP_COLOR" value="2b2b2b" />
+    <option name="INFORMATION_HINT" value="2B2B2B" />
+    <option name="LINE_NUMBERS_COLOR" value="6A9EAF" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="7479DB" />
+    <option name="LOOKUP_COLOR" value="2B2B2B" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="494949" />
-    <option name="MnemonicIcon.background" value="5b5341" />
-    <option name="MnemonicIcon.borderColor" value="d9a343" />
-    <option name="MnemonicIcon.foreground" value="bbbbbb" />
+    <option name="MnemonicIcon.background" value="5B5341" />
+    <option name="MnemonicIcon.borderColor" value="D9A343" />
+    <option name="MnemonicIcon.foreground" value="BBBBBB" />
     <option name="PREVIEW_BACKGROUND" value="" />
-    <option name="PROMOTION_PANE" value="63932e" />
-    <option name="QUESTION_HINT" value="376c89" />
+    <option name="PROMOTION_PANE" value="63932E" />
+    <option name="QUESTION_HINT" value="376C89" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="313131" />
-    <option name="SELECTION_BACKGROUND" value="283b63" />
+    <option name="SELECTION_BACKGROUND" value="283B63" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="747474" />
-    <option name="TOOLTIP" value="2b2b2b" />
+    <option name="TOOLTIP" value="2B2B2B" />
     <option name="VISUAL_INDENT_GUIDE" value="313131" />
   </colors>
   <attributes>
@@ -49,6 +54,18 @@
       <value>
         <option name="EFFECT_COLOR" value="a80e0e" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BLOCK_TERMINAL_BLACK">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="121010" />
+      </value>
+    </option>
+    <option name="BLOCK_TERMINAL_BLACK_BRIGHT">
+      <value>
+        <option name="FOREGROUND" value="333539" />
+        <option name="BACKGROUND" value="2e3033" />
       </value>
     </option>
     <option name="CODE_VISION_DEFAULT">
