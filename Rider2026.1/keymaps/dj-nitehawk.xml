@@ -116,12 +116,7 @@
   <action id="ContextHelp">
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
-  <action id="CopyAbsolutePath">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
-  <action id="CopyPathWithLineNumber">
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
+  <action id="CopyAbsolutePath" />
   <action id="CopyPaths" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl f5" />
@@ -164,6 +159,9 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollToCenter" />
   <action id="EditorScrollUp" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleShowWhitespaces" />
   <action id="EditorToggleUseSoftWraps" />
@@ -297,9 +295,7 @@
   <action id="ReSharperGotoImplementation" />
   <action id="ReSharperGotoNextErrorInSolution" />
   <action id="ReSharperGotoPrevErrorInSolution" />
-  <action id="ReSharperNavigateTo">
-    <keyboard-shortcut first-keystroke="shift enter" />
-  </action>
+  <action id="ReSharperNavigateTo" />
   <action id="RecentFilesFallback" />
   <action id="RecentLocations" />
   <action id="Refactorings.QuickListPopupAction">
@@ -434,9 +430,7 @@
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
   </action>
-  <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
-  </action>
+  <action id="Vcs.Push" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>

@@ -5,6 +5,7 @@ feature_usage_event_log_salt
 PermanentDeviceId
 PermanentUserId
 region
+analyzer/
 consentOptions/
 dotTrace/
 dotPeek/

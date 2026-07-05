@@ -36,12 +36,12 @@
         <option name="openDirectoriesWithSingleClick" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;/home/DOWNLOADS/serena-jetbrains-plugin-2023.2.16.zip&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/home/SOFTWARE/jetbrains/piLaunch-1.1.0.zip",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
       <component name="ReaderModeSettings">
         <option name="enabled" value="false" />
         <option name="showRenderedDocs" value="false" />
@@ -74,18 +74,18 @@
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
         <state x="49" y="0" key="#Plugins/0.0.3440.1440" timestamp="1780450149736" />
-        <state x="279" y="107" key="FileChooserDialogImpl" timestamp="1780450073793">
+        <state x="279" y="107" key="FileChooserDialogImpl" timestamp="1783226784806">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="279" y="107" key="FileChooserDialogImpl/0.0.3440.1440" timestamp="1780450073793" />
+        <state x="279" y="107" key="FileChooserDialogImpl/0.0.3440.1440" timestamp="1783226784806" />
         <state x="1215" y="203" width="902" height="710" key="Rider.NewProjectDialog.Size" timestamp="1777126364533">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
         <state x="1215" y="203" width="902" height="710" key="Rider.NewProjectDialog.Size/0.0.3440.1440" timestamp="1777126364533" />
-        <state x="1171" y="259" width="1211" height="917" key="SettingsEditor" timestamp="1780450105814">
+        <state x="1171" y="259" width="1211" height="917" key="SettingsEditor" timestamp="1783226788775">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="1171" y="259" key="SettingsEditor/0.0.3440.1440" timestamp="1780450105814" />
+        <state x="1171" y="259" key="SettingsEditor/0.0.3440.1440" timestamp="1783226788775" />
       </component>
       <component name="masterDetails">
         <states>
