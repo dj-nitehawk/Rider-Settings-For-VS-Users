@@ -38,6 +38,7 @@
     <option name="perAppToolWindows" value="1" />
     <option name="problemsViewGotItTooltip" value="1" />
     <option name="registryMigrationVersion" value="2" />
+    <option name="repositoryViewFlippedOff" value="1" />
     <option name="reserveSpaceForLenses" value="1" />
     <option name="resetDiffPreviewWithSingleClick" value="1" />
     <option name="resetNewUiLayoutForEveryone" value="1" />
