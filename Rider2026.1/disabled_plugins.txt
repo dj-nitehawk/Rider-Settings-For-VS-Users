@@ -1,6 +1,5 @@
 AngularJS
 Docker
-Git4Idea
 HtmlTools
 JSIntentionPowerPack
 JavaScript

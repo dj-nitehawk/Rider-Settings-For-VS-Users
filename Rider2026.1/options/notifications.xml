@@ -3,5 +3,6 @@
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="GitHub Copilot" shouldLog="false" />
     <notification groupId="IDE-errors" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Notifications" />
   </component>
 </application>

@@ -39,7 +39,9 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="ActivateUnitTestsToolWindow" />
-  <action id="ActivateVersionControlToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="AddRiderItem" />
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -57,16 +59,16 @@
   <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="CallHierarchy" />
   <action id="ChangeSignature" />
-  <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.GroupBy.Module" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.Rename" />
   <action id="ChangesView.Revert" />
   <action id="ChangesView.SetDefault" />
-  <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="ctrl alt k" />
-  </action>
+  <action id="ChangesView.ToggleCommitUi" />
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
   <action id="CloseAllEditorsButActive">
@@ -113,6 +115,7 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="Console.TableResult.EditValueMaximized" />
+  <action id="Console.TableResult.ShowRecordView" />
   <action id="ContextHelp">
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
@@ -144,6 +147,7 @@
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
+  <action id="EditorCompleteStatement" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="shift alt button1" />
   </action>
@@ -192,21 +196,20 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="Forward" />
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
-  </action>
+  <action id="Git.Branches" />
   <action id="Git.Checkout.Branch">
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Commit.Stage" />
   <action id="Git.New.Branch.In.Log" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="Git.Squash.Commits">
     <mouse-shortcut keystroke="shift button3" />
   </action>
-  <action id="GitNewBranchAction">
-    <keyboard-shortcut first-keystroke="alt g" second-keystroke="n" />
+  <action id="Git.Stage.ToggleCommitAll">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="GotoAction" />
   <action id="GotoDeclaration">
@@ -405,6 +408,7 @@
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Terminal.SearchInCommandHistory" />
+  <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="TodoViewGroupByShowModules" />

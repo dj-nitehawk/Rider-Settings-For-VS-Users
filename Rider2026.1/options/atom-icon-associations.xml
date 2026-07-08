@@ -229,6 +229,19 @@
             <option name="folderIconColor" value="FFEBEE" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(profiles?|personas?)$" />
+            <option name="pattern" value="^[\._]?(profiles?|personas?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Profiles" />
+            <option name="icon" value="/profiles.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="7491EE" />
+            <option name="folderIconColor" value="EBEBEB" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>

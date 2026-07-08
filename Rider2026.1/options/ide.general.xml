@@ -18,6 +18,7 @@
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
     <entry key="trace.state.event.service.url" value="https://api.jetbrains.cloud/trace-status" source="MANAGER" />
     <entry key="editor.ux.survey.enabled" value="false" source="MANAGER" />
+    <entry key="vcs.log.index.enable" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

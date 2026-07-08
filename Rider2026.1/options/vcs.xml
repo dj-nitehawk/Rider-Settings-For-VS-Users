@@ -20,12 +20,14 @@
         <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="true" />
       </map>
     </option>
+    <option name="PREFER_COMMIT_DATE" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="SHOW_DIFF_PREVIEW" value="true" />
     <option name="SHOW_TAG_NAMES" value="true" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="CREATE_CHANGELISTS_AUTOMATICALLY" value="true" />
+    <option name="ENABLE_PARTIAL_CHANGELISTS" value="false" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="false" />
   </component>
 </application>

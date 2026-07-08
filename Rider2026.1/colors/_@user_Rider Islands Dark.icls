@@ -1,0 +1,12 @@
+<scheme name="_@user_Rider Islands Dark" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2026.1.4.0.0</property>
+    <property name="originalScheme">Rider Islands Dark</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">Rider UI Theme Pack</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_UNKNOWN" value="BC8A59" />
+  </colors>
+</scheme>
