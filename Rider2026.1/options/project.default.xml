@@ -39,7 +39,7 @@
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "last_opened_file_path": "/home/SOFTWARE/jetbrains/piLaunch-1.4.0.zip",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
       <component name="ReaderModeSettings">
@@ -82,10 +82,10 @@
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
         <state x="1215" y="203" width="902" height="710" key="Rider.NewProjectDialog.Size/0.0.3440.1440" timestamp="1777126364533" />
-        <state x="1171" y="259" width="1211" height="917" key="SettingsEditor" timestamp="1783439836689">
+        <state x="1171" y="259" width="1211" height="917" key="SettingsEditor" timestamp="1783508945345">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="1171" y="259" key="SettingsEditor/0.0.3440.1440" timestamp="1783439836689" />
+        <state x="1171" y="259" key="SettingsEditor/0.0.3440.1440" timestamp="1783508945345" />
       </component>
       <component name="masterDetails">
         <states>

@@ -37,6 +37,24 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="Stage">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.Unified" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.SideBySide" />
+              <option value="com.jetbrains.rider.vcs.diff.AssemblyDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
   <component name="ExternalDiffSettings">

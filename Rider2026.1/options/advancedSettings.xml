@@ -13,6 +13,7 @@
         <entry key="ide.ui.native.file.chooser" value="true" />
         <entry key="localHistory.daysToKeep" value="1" />
         <entry key="max.recent.run.configurations" value="1" />
+        <entry key="project.view.show.scratches.and.consoles" value="false" />
         <entry key="vcs.commit.tool.window" value="false" />
       </map>
     </option>

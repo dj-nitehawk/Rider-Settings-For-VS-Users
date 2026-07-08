@@ -68,7 +68,9 @@
   <action id="ChangesView.Rename" />
   <action id="ChangesView.Revert" />
   <action id="ChangesView.SetDefault" />
-  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
   <action id="CloseAllEditorsButActive">
@@ -207,9 +209,6 @@
   <action id="Git.Reword.Commit" />
   <action id="Git.Squash.Commits">
     <mouse-shortcut keystroke="shift button3" />
-  </action>
-  <action id="Git.Stage.ToggleCommitAll">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="GotoAction" />
   <action id="GotoDeclaration">
