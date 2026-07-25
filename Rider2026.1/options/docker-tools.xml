@@ -1,6 +1,0 @@
-<application>
-  <component name="DockerSettings">
-    <option name="dockerComposePath" value="docker.exe" />
-    <option name="dockerPath" value="docker.exe" />
-  </component>
-</application>

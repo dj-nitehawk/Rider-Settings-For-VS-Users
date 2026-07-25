@@ -1,0 +1,253 @@
+<application>
+  <component name="ChartsConfig">
+    <option name="settings">
+      <map>
+        <entry key="default">
+          <value>
+            <ChartConfig>
+              <option name="axesFont">
+                <FontInfo>
+                  <option name="color">
+                    <ChartsJBColor>
+                      <option name="dark" value="-7566196" />
+                      <option name="light" value="-8882056" />
+                    </ChartsJBColor>
+                  </option>
+                  <option name="size" value="12.0" />
+                </FontInfo>
+              </option>
+              <option name="axesTitleFont">
+                <FontInfo>
+                  <option name="color">
+                    <ChartsJBColor>
+                      <option name="dark" value="-4473925" />
+                      <option name="light" value="-14869219" />
+                    </ChartsJBColor>
+                  </option>
+                  <option name="size" value="12.0" />
+                </FontInfo>
+              </option>
+              <option name="chartTitleFont">
+                <FontInfo>
+                  <option name="color">
+                    <ChartsJBColor>
+                      <option name="dark" value="-4473925" />
+                      <option name="light" value="-13421773" />
+                    </ChartsJBColor>
+                  </option>
+                  <option name="size" value="17.0" />
+                </FontInfo>
+              </option>
+              <option name="colorSchemes">
+                <map>
+                  <entry key="Contrast">
+                    <value>
+                      <list>
+                        <ChartsJBColor>
+                          <option name="dark" value="-1506814" />
+                          <option name="light" value="-65536" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-2669565" />
+                          <option name="light" value="-41467" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-2258176" />
+                          <option name="light" value="-24576" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-1592575" />
+                          <option name="light" value="-11008" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-2828032" />
+                          <option name="light" value="-1183467" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-7160294" />
+                          <option name="light" value="-3673308" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-10964460" />
+                          <option name="light" value="-6555114" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-13654764" />
+                          <option name="light" value="-16122582" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-15547045" />
+                          <option name="light" value="-16711800" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-15549282" />
+                          <option name="light" value="-15012665" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-15557971" />
+                          <option name="light" value="-15153442" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-15563608" />
+                          <option name="light" value="-15239217" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-15572309" />
+                          <option name="light" value="-15239217" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-8514637" />
+                          <option name="light" value="-6808873" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-6089817" />
+                          <option name="light" value="-3597617" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-5369003" />
+                          <option name="light" value="-3205273" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-7138510" />
+                          <option name="light" value="-4121533" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-14474203" />
+                          <option name="light" value="-12302264" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-11776690" />
+                          <option name="light" value="-9012608" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-9276814" />
+                          <option name="light" value="-5656393" />
+                        </ChartsJBColor>
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Default">
+                    <value>
+                      <list>
+                        <ChartsJBColor>
+                          <option name="dark" value="-6275779" />
+                          <option name="light" value="-2328199" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-5285838" />
+                          <option name="light" value="-1338514" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-4683976" />
+                          <option name="light" value="-801933" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-4614110" />
+                          <option name="light" value="-732322" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-6249933" />
+                          <option name="light" value="-2302353" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-8217541" />
+                          <option name="light" value="-4270218" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-10643409" />
+                          <option name="light" value="-6695830" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-11432900" />
+                          <option name="light" value="-7485576" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-10969228" />
+                          <option name="light" value="-7087440" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-12874858" />
+                          <option name="light" value="-8858685" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-13666676" />
+                          <option name="light" value="-8927278" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-13672564" />
+                          <option name="light" value="-9719352" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-12955251" />
+                          <option name="light" value="-9724984" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-12893034" />
+                          <option name="light" value="-8752431" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-12700011" />
+                          <option name="light" value="-8688457" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-12636037" />
+                          <option name="light" value="-6589489" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-10471532" />
+                          <option name="light" value="-5082415" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-8964459" />
+                          <option name="light" value="-3968303" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-7850347" />
+                          <option name="light" value="-3313736" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-7394469" />
+                          <option name="light" value="-3447145" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-7658448" />
+                          <option name="light" value="-3776404" />
+                        </ChartsJBColor>
+                        <ChartsJBColor>
+                          <option name="dark" value="-8446691" />
+                          <option name="light" value="-4564904" />
+                        </ChartsJBColor>
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="hintFont">
+                <FontInfo>
+                  <option name="color">
+                    <ChartsJBColor>
+                      <option name="dark" value="-7566196" />
+                      <option name="light" value="-8882056" />
+                    </ChartsJBColor>
+                  </option>
+                  <option name="size" value="12.0" />
+                </FontInfo>
+              </option>
+              <option name="legendFont">
+                <FontInfo>
+                  <option name="color">
+                    <ChartsJBColor>
+                      <option name="dark" value="-4473925" />
+                      <option name="light" value="-8355712" />
+                    </ChartsJBColor>
+                  </option>
+                  <option name="size" value="12.0" />
+                </FontInfo>
+              </option>
+            </ChartConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

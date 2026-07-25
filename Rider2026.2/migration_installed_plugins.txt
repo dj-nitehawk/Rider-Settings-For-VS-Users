@@ -1,0 +1,12 @@
+tanvd.grazi
+com.intellij.microservices.ui
+com.intellij.swagger
+Docker
+org.jetbrains.plugins.terminal
+com.jetbrains.restClient
+org.jetbrains.plugins.yaml
+PerforceDirectPlugin
+com.intellij.jsonpath
+org.editorconfig.editorconfigjetbrains
+hg4idea
+Subversion

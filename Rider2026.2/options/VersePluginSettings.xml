@@ -1,0 +1,5 @@
+<application>
+  <component name="com.jetbrains.rider.plugins.verse.settings.VersePluginSettings">
+    <option name="vsixPath" value="C:\Program Files\Epic Games\Fortnite\VSCode\Verse.vsix" />
+  </component>
+</application>

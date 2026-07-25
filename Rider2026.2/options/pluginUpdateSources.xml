@@ -1,0 +1,9 @@
+<application>
+  <component name="PluginUpdateSources">
+    <sources>
+      <entry pluginId="me.rafaelldi.aspire">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+    </sources>
+  </component>
+</application>
