@@ -8,9 +8,7 @@
   </action>
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow" />
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
@@ -62,7 +60,9 @@
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
-  <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.GroupBy.Directory">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ChangesView.GroupBy.Module" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.Rename" />
@@ -215,9 +215,11 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="GotoImplementation" />
+  <action id="GotoLine" />
   <action id="GotoNextBookmark" />
   <action id="GotoPreviousBookmark" />
   <action id="GotoRelated" />
+  <action id="GotoRow" />
   <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration" />
   <action id="Graph.ActualSize">
@@ -438,7 +440,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="Vcs.Show.Local.Changes">
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />

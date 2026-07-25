@@ -242,6 +242,45 @@
             <option name="folderIconColor" value="EBEBEB" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(deploy|deployment)s?$" />
+            <option name="pattern" value="^[\._]?(deploy|deployment)s?$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Deploy" />
+            <option name="icon" value="/deploy.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="FF8F00" />
+            <option name="folderIconColor" value="ffecb3" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?(robots?|bots?|agents?)$" />
+            <option name="pattern" value="^[\._]?(robots?|bots?|agents?)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="Bot" />
+            <option name="icon" value="/bot.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="ff5252" />
+            <option name="folderIconColor" value="ffcdd2" />
+            <option name="iconPack" />
+          </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value="^[\._]?mcp$" />
+            <option name="pattern" value="^[\._]?mcp$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="iconType" value="FOLDER" />
+            <option name="name" value="MCP" />
+            <option name="icon" value="/mcp.svg" />
+            <option name="iconColor" />
+            <option name="folderColor" value="546e7a" />
+            <option name="folderIconColor" value="F5F5F5" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
