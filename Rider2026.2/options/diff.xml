@@ -5,8 +5,8 @@
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
             <list>
-              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.Unified" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool.SideBySide" />

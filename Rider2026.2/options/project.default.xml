@@ -38,7 +38,7 @@
       </component>
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/home/SOFTWARE/jetbrains/piLaunch-1.4.0.zip",
+    "last_opened_file_path": "/home/SOFTWARE/jetbrains/grokLaunch-1.0.0.zip",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -82,10 +82,14 @@
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
         <state x="1215" y="203" width="902" height="710" key="Rider.NewProjectDialog.Size/0.0.3440.1440" timestamp="1777126364533" />
-        <state x="0" y="0" width="1211" height="917" key="SettingsEditor" timestamp="1784947852002">
+        <state x="0" y="0" width="1211" height="917" key="SettingsEditor" timestamp="1785167283375">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="0" y="0" key="SettingsEditor/0.0.3440.1440" timestamp="1784947852002" />
+        <state x="0" y="0" key="SettingsEditor/0.0.3440.1440" timestamp="1785167283375" />
+        <state x="0" y="0" key="UniversalFileChooserDialog" timestamp="1785167275243">
+          <screen x="0" y="0" width="3440" height="1440" />
+        </state>
+        <state x="0" y="0" key="UniversalFileChooserDialog/0.0.3440.1440" timestamp="1785167275243" />
       </component>
       <component name="masterDetails">
         <states>

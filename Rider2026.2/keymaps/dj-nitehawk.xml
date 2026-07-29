@@ -374,7 +374,9 @@
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
   <action id="SaveAll" />
-  <action id="SearchEverywhere" />
+  <action id="SearchEverywhere">
+    <keyboard-gesture-shortcut keystroke="shift shift" modifier="dblClick" />
+  </action>
   <action id="SelectIn" />
   <action id="SendEOF" />
   <action id="ServiceView.AddService" />

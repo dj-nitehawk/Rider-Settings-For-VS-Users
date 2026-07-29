@@ -75,6 +75,7 @@ com.jetbrains.sh
 com.jetbrains.space
 com.jetbrains.sqlproj
 com.jetbrains.station
+dev.pilaunch
 hg4idea
 idea.plugin.protoeditor
 intellij.debuggerMcp

@@ -1,0 +1,6 @@
+<application>
+  <component name="McpServerSettings">
+    <option name="enableBraveMode" value="true" />
+    <option name="enableMcpServer" value="true" />
+  </component>
+</application>

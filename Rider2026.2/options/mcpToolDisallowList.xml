@@ -1,0 +1,46 @@
+<application>
+  <component name="McpToolDisallowListSettings">
+    <toolStates>
+      <entry key="com.jetbrains.rider.plugins.appender.mcpServer.gameEngine.GameEngineMcpToolset.find_default_value_overrides">
+        <ToolStateBean>
+          <option name="enabled" value="false" />
+        </ToolStateBean>
+      </entry>
+      <entry key="com.jetbrains.rider.plugins.appender.mcpServer.gameEngine.GameEngineMcpToolset.get_asset_properties">
+        <ToolStateBean>
+          <option name="enabled" value="false" />
+        </ToolStateBean>
+      </entry>
+      <entry key="com.jetbrains.rider.plugins.appender.mcpServer.gameEngine.GameEngineMcpToolset.get_class_hierarchy">
+        <ToolStateBean>
+          <option name="enabled" value="false" />
+        </ToolStateBean>
+      </entry>
+      <entry key="com.jetbrains.rider.plugins.appender.mcpServer.gameEngine.GameEngineMcpToolset.search_assets">
+        <ToolStateBean>
+          <option name="enabled" value="false" />
+        </ToolStateBean>
+      </entry>
+      <entry key="com.jetbrains.rider.plugins.appender.mcpServer.gameEngine.GameEngineMcpToolset.search_tags">
+        <ToolStateBean>
+          <option name="enabled" value="false" />
+        </ToolStateBean>
+      </entry>
+      <entry key="com.jetbrains.rider.plugins.appender.mcpServer.gameEngine.GameEngineMcpToolset.spawn_actor">
+        <ToolStateBean>
+          <option name="enabled" value="false" />
+        </ToolStateBean>
+      </entry>
+      <entry key="com.jetbrains.rider.plugins.appender.mcpServer.gameEngine.GameEngineMcpToolset.take_screenshot">
+        <ToolStateBean>
+          <option name="enabled" value="false" />
+        </ToolStateBean>
+      </entry>
+      <entry key="com.jetbrains.rider.plugins.appender.mcpServer.gameEngine.GameEngineMcpToolset.viewport_camera">
+        <ToolStateBean>
+          <option name="enabled" value="false" />
+        </ToolStateBean>
+      </entry>
+    </toolStates>
+  </component>
+</application>
