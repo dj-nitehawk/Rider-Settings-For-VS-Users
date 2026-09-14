@@ -1,6 +1,12 @@
 <application>
   <component name="PluginUpdateSources">
     <sources>
+      <entry pluginId="com.mallowigi">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="com.intellij.resharper.HeapAllocationsViewer">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
       <entry pluginId="me.rafaelldi.aspire">
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
