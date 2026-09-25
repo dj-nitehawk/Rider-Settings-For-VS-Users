@@ -9,9 +9,7 @@
   <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow" />
   <action id="ActivateDebugToolWindow" />
-  <action id="ActivateFindToolWindow">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateNuGetToolWindow">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -196,6 +194,9 @@
   <action id="FileStructurePopup" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="FloatMode">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="Forward" />
   <action id="Git.Branches" />

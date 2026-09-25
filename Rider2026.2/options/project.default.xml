@@ -36,12 +36,12 @@
         <option name="openDirectoriesWithSingleClick" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;/home/DOWNLOADS/repro/PdfUploadRepro.csproj&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/home/DOWNLOADS/repro/PdfUploadRepro.csproj",
+    "settings.editor.selected.configurable": "consents"
   }
-}</component>
+}]]></component>
       <component name="ReaderModeSettings">
         <option name="enabled" value="false" />
         <option name="showRenderedDocs" value="false" />
@@ -78,10 +78,10 @@
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
         <state x="0" y="0" key="Rider.NewProjectDialog.Size/0.0.3440.1440" timestamp="1786248592117" />
-        <state x="0" y="0" width="1211" height="917" key="SettingsEditor" timestamp="1789400013859">
+        <state x="0" y="0" width="1211" height="917" key="SettingsEditor" timestamp="1790348230405">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="0" y="0" key="SettingsEditor/0.0.3440.1440" timestamp="1789400013859" />
+        <state x="0" y="0" key="SettingsEditor/0.0.3440.1440" timestamp="1790348230405" />
         <state x="0" y="0" key="UniversalFileChooserDialog" timestamp="1785167275243">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
