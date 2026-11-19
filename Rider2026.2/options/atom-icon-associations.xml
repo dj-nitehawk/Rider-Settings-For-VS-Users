@@ -163,6 +163,19 @@
             <option name="folderIconColor" />
             <option name="iconPack" />
           </RegexAssociation>
+          <RegexAssociation>
+            <option name="matcher" value=".*\.(axf|elf|la|objdump|bsdiff|bin|dat|pak|db-journal)$" />
+            <option name="pattern" value=".*\.(axf|elf|la|objdump|bsdiff|bin|dat|pak|db-journal)$" />
+            <option name="defaultState" value="false" />
+            <option name="touched" value="true" />
+            <option name="name" value="Binaries" />
+            <option name="icon" value="/icons/files/binary.svg" />
+            <option name="priority" value="1" />
+            <option name="iconColor" value="7C95A1" />
+            <option name="folderColor" />
+            <option name="folderIconColor" />
+            <option name="iconPack" />
+          </RegexAssociation>
         </option>
       </SelectedAssociations>
     </option>
