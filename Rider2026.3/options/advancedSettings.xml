@@ -16,6 +16,7 @@
         <entry key="project.view.show.scratches.and.consoles" value="false" />
         <entry key="show.diff.as.editor.tab" value="false" />
         <entry key="vcs.commit.tool.window" value="false" />
+        <entry key="welcome.screen.non.modal.enabled" value="false" />
       </map>
     </option>
   </component>

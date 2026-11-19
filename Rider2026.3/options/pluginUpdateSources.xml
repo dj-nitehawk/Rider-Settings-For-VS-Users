@@ -16,6 +16,9 @@
       <entry pluginId="org.jetbrains.plugins.vue">
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
+      <entry pluginId="dev.agentwindow">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
       <entry pluginId="com.dmarcotte.handlebars">
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
@@ -185,9 +188,6 @@
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
       <entry pluginId="org.jetbrains.plugins.textmate">
-        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
-      </entry>
-      <entry pluginId="dev.groklaunch">
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
       <entry pluginId="tslint">
