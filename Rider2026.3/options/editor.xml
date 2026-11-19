@@ -63,7 +63,6 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="HORIZONTAL_SCROLL_OFFSET" value="1" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
@@ -93,6 +92,9 @@
   <component name="MarkdownCodeFoldingSettings">
     <option name="collapseFrontMatter" value="false" />
     <option name="collapseTableOfContents" value="false" />
+  </component>
+  <component name="RiderRainbowBracketsSettings">
+    <option name="rainbowBracketsEnabled" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />

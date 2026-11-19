@@ -1,0 +1,6 @@
+<application>
+  <component name="WorktreeSettings"><![CDATA[{
+  "autoDeleteDaysOfInactivityEnabled": true,
+  "autoDeleteDaysOfInactivity": 7
+}]]></component>
+</application>

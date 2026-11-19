@@ -1,0 +1,12 @@
+<application>
+  <component name="DoNotAskAppManager">
+    <option name="idToDisplayName">
+      <map>
+        <entry key="LIGHTWEIGHT_LICENSE_NOTIFICATION" value="LIGHTWEIGHT_LICENSE_NOTIFICATION" />
+        <entry key="Plugins Suggestion" value="Plugin suggestions available" />
+        <entry key="plugins.updated.after.restart" value="Plugin updates installed" />
+        <entry key="updates.plugins.autoupdate.notification" value="Enable auto-update for plugins" />
+      </map>
+    </option>
+  </component>
+</application>

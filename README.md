@@ -8,19 +8,18 @@ This repository contains JetBrains Rider IDE configuration files that tries to b
 
 **Note:** Do not use the import/export settings wizard in Rider, as it only does a subset of the configuration.
 
-1. Find the directory on your harddrive where Rider stores it's config files. Typically in Windows, it's located in the following location: `%AppData%\JetBrains\Rider2026.2\`
+1. Find the directory on your harddrive where Rider stores it's config files. Typically in Windows, it's located in the following location: `%AppData%\JetBrains\Rider2026.3\`
 
 2. Backup all the files and folders in the above location, in case you want to revert back to your existing configuration.
 
-3. After backing up the files, delete everything in the `Rider2026.2` folder.
+3. After backing up the files, delete everything in the `Rider2026.3` folder.
 
 4. Install the fonts included in the [Fonts.zip](https://github.com/dj-nitehawk/Rider-Settings-For-VS-Users/raw/main/Fonts.zip) file to your system by right-clicking the fonts and selecting `Install For All Users`.
 
-5. Copy everything from this repository's [Rider2026.2](/Rider2026.2) folder to your local folder.
+5. Copy everything from this repository's [Rider2026.3](/Rider2026.3) folder to your local folder.
 
-6. Launch Rider and go through the license activation process and install the following two plugins:
+6. Launch Rider and go through the license activation process and install the following plugin:
     - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
-    - [Nested Brackets Colorer](https://plugins.jetbrains.com/plugin/10210-nested-brackets-colorer)
 
 8. Change the tool window (run/debug/find/terminal/etc.) positions to suit your needs as the default positions are not very productive, specially on [ultrawide monitors](https://raw.githubusercontent.com/dj-nitehawk/Rider-Settings-For-VS-Users/main/ultrawide.png).
 

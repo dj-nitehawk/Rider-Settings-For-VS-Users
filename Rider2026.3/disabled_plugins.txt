@@ -14,6 +14,7 @@ XPathView
 com.deadlock.scsyntax
 com.dmarcotte.handlebars
 com.github.copilot
+com.intellij.air
 com.intellij.azureDevops
 com.intellij.cmake
 com.intellij.css
@@ -27,6 +28,7 @@ com.intellij.ja
 com.intellij.ko
 com.intellij.kubernetes
 com.intellij.mcpServer
+com.intellij.ml.llm
 com.intellij.platform.acp
 com.intellij.plugins.dependencyAnalysis
 com.intellij.plugins.html.instantEditing
@@ -75,7 +77,6 @@ com.jetbrains.sh
 com.jetbrains.space
 com.jetbrains.sqlproj
 com.jetbrains.station
-dev.pilaunch
 hg4idea
 idea.plugin.protoeditor
 intellij.debuggerMcp
@@ -91,6 +92,7 @@ intellij.rider.plugins.remoteDevelopment
 intellij.vitejs
 intellij.webpack
 jshint
+me.rafaelldi.aspire
 me.seclerp.rider.plugins.efcore
 org.intellij.plugins.postcss
 org.intellij.qodana

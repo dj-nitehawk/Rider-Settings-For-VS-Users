@@ -370,6 +370,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="RunAnything" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />

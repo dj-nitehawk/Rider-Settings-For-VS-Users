@@ -1,0 +1,29 @@
+<application>
+  <component name="AgentCommitMessageAgent">{}</component>
+  <component name="AgentGeneral"><![CDATA[{}]]></component>
+  <component name="AgentSessionPresetState"><![CDATA[{}]]></component>
+  <component name="AgentSessionProviderSettings"><![CDATA[{
+  "agentEnablementOverridesBySource": {
+    "managed:junie": false,
+    "discovered:junie": false,
+    "custom:junie": false,
+    "managed:codex": false,
+    "discovered:codex": false,
+    "custom:codex": false,
+    "managed:github-copilot": false,
+    "discovered:github-copilot": false,
+    "custom:github-copilot": false,
+    "managed:claude": false,
+    "discovered:claude": true,
+    "custom:claude": false
+  },
+  "agentLaunchPreferences": {
+    "claude": {
+      "interactionSurfaceId": "terminal"
+    }
+  },
+  "lastEnabledEntryKindByAgentId": {
+    "claude": "DISCOVERED"
+  }
+}]]></component>
+</application>
