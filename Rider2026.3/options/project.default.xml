@@ -38,8 +38,8 @@
       </component>
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/home/SOURCE-CONTROL/Acked-Event-Queues-Demo/EventQueuesDemo.sln",
-    "settings.editor.selected.configurable": "consents"
+    "last_opened_file_path": "/home/SOFTWARE/jetbrains/AgentWindow-1.0.0.zip",
+    "settings.editor.selected.configurable": "dev.agentwindow.settings"
   }
 }]]></component>
       <component name="ReaderModeSettings">
@@ -70,22 +70,22 @@
         <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
       </component>
       <component name="WindowStateProjectService">
-        <state x="279" y="107" key="FileChooserDialogImpl" timestamp="1783439834489">
-          <screen x="0" y="0" width="3440" height="1440" />
-        </state>
-        <state x="279" y="107" key="FileChooserDialogImpl/0.0.3440.1440" timestamp="1783439834489" />
         <state x="0" y="0" key="Rider.NewProjectDialog.Size" timestamp="1792022426149">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
         <state x="0" y="0" key="Rider.NewProjectDialog.Size/0.0.3440.1440" timestamp="1792022426149" />
-        <state x="0" y="0" width="1211" height="917" key="SettingsEditor" timestamp="1790348230405">
+        <state x="0" y="0" width="1211" height="917" key="SettingsEditor" timestamp="1795171661952">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="0" y="0" key="SettingsEditor/0.0.3440.1440" timestamp="1790348230405" />
-        <state x="0" y="0" key="UniversalFileChooserDialog" timestamp="1785167275243">
+        <state x="0" y="0" key="SettingsEditor/0.0.3440.1440" timestamp="1795171661952" />
+        <state x="0" y="0" key="UnifiedPluginsPage.StandaloneDialog" timestamp="1795171630236">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="0" y="0" key="UniversalFileChooserDialog/0.0.3440.1440" timestamp="1785167275243" />
+        <state x="0" y="0" key="UnifiedPluginsPage.StandaloneDialog/0.0.3440.1440" timestamp="1795171630236" />
+        <state x="0" y="0" key="UniversalFileChooserDialog" timestamp="1795135587854">
+          <screen x="0" y="0" width="3440" height="1440" />
+        </state>
+        <state x="0" y="0" key="UniversalFileChooserDialog/0.0.3440.1440" timestamp="1795135587854" />
       </component>
       <component name="masterDetails">
         <states>
