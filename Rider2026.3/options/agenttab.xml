@@ -1,0 +1,5 @@
+<application>
+  <component name="AgentTabSettings">
+    <option name="command" value="claude-bwrap" />
+  </component>
+</application>

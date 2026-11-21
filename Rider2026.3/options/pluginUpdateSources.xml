@@ -16,9 +16,6 @@
       <entry pluginId="org.jetbrains.plugins.vue">
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
-      <entry pluginId="dev.agentwindow">
-        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
-      </entry>
       <entry pluginId="com.dmarcotte.handlebars">
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
@@ -197,6 +194,9 @@
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
       <entry pluginId="org.jetbrains.plugins.github">
+        <updateSource host="https://plugins.jetbrains.com/pluginManager" />
+      </entry>
+      <entry pluginId="dev.agenttab">
         <updateSource host="https://plugins.jetbrains.com/pluginManager" />
       </entry>
     </sources>

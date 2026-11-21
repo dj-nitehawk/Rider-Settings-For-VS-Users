@@ -38,7 +38,7 @@
       </component>
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/home/SOFTWARE/jetbrains/AgentWindow-1.0.0.zip",
+    "last_opened_file_path": "/home/SOFTWARE/jetbrains/AgentTab-1.0.1.zip",
     "settings.editor.selected.configurable": "dev.agentwindow.settings"
   }
 }]]></component>
@@ -78,14 +78,14 @@
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
         <state x="0" y="0" key="SettingsEditor/0.0.3440.1440" timestamp="1795171661952" />
-        <state x="0" y="0" key="UnifiedPluginsPage.StandaloneDialog" timestamp="1795171630236">
+        <state x="0" y="0" key="UnifiedPluginsPage.StandaloneDialog" timestamp="1795234751444">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="0" y="0" key="UnifiedPluginsPage.StandaloneDialog/0.0.3440.1440" timestamp="1795171630236" />
-        <state x="0" y="0" key="UniversalFileChooserDialog" timestamp="1795135587854">
+        <state x="0" y="0" key="UnifiedPluginsPage.StandaloneDialog/0.0.3440.1440" timestamp="1795234751444" />
+        <state x="0" y="0" key="UniversalFileChooserDialog" timestamp="1795234720764">
           <screen x="0" y="0" width="3440" height="1440" />
         </state>
-        <state x="0" y="0" key="UniversalFileChooserDialog/0.0.3440.1440" timestamp="1795135587854" />
+        <state x="0" y="0" key="UniversalFileChooserDialog/0.0.3440.1440" timestamp="1795234720764" />
       </component>
       <component name="masterDetails">
         <states>
